@@ -3322,21 +3322,20 @@
    "no": 65,
    "baslik": "Sapma gerekçesi girme",
    "x": 1791,
-   "y": 308,
+   "y": 211,
    "w": 80,
    "h": 32
-  }
- ],
- "ekranlar/butce-planlama/analiz-sapma-koprusu-gerekce-incelemesi-2.png": [
+  },
   {
    "no": 66,
    "baslik": "Tolerans eşiği tanımlama",
    "x": 232,
-   "y": 580,
+   "y": 1051,
    "w": 1656,
    "h": 22
   }
  ],
+ "ekranlar/butce-planlama/analiz-sapma-koprusu-gerekce-incelemesi-2.png": [],
  "ekranlar/butce-planlama/analiz-sapma-koprusu-tahmin.png": [
   {
    "no": 67,

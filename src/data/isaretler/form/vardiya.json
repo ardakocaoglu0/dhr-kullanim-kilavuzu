@@ -3,7 +3,16 @@
     {
       "islem": 2,
       "baslik": "Çalışana vardiya atama",
-      "yok": "Planlama hücresindeki + simgesinin yazısı yok; tarif adımlarıyla tıklanamıyor"
+      "ekran": null,
+      "ac": [
+        {
+          "xy": [
+            1112,
+            540
+          ]
+        }
+      ],
+      "eskiGerekce": "Planlama hücresindeki + simgesinin yazısı yok; tarif adımlarıyla tıklanamıyor"
     },
     {
       "islem": 5,
@@ -25,7 +34,20 @@
     {
       "islem": 12,
       "baslik": "Atamaya not ekleme ve fazla mesai uygunluğu",
-      "yok": "Planlama tablosunda atanmış vardiya kutusu yok; açılacak öğe bulunmuyor"
+      "ekran": null,
+      "ac": [
+        {
+          "css": "main button:has(.anticon-right)"
+        },
+        {
+          "xy": [
+            530,
+            540
+          ]
+        }
+      ],
+      "eskiGerekce": "Planlama tablosunda atanmış vardiya kutusu yok; açılacak öğe bulunmuyor",
+      "not": "Canlı sürümde Vardiya Detayı penceresinde Not / Fazla mesaiye uygun alanları yok"
     },
     {
       "islem": 16,

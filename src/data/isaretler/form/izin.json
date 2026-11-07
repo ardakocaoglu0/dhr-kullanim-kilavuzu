@@ -139,7 +139,14 @@
     {
       "islem": 12,
       "baslik": "Bakiye değişikliğini reddetme",
-      "yok": "Pencere Reddet butonuyla açılır (yasaklı); ayrıca Değişiklik Onayları listesi boş"
+      "ekran": "Değişiklik Onayları",
+      "ac": [
+        {
+          "satir": "Reddet"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere Reddet butonuyla açılır (yasaklı); ayrıca Değişiklik Onayları listesi boş"
     }
   ]
 }

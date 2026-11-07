@@ -90,12 +90,12 @@
     {
       "islem": 26,
       "baslik": "Gelişim aksiyonuna ilerleme girme",
-      "yok": "Demo çalışan hakkında açılmış aksiyon yok (liste boş)."
+      "yok": "“Çalışan kendi PIP’ini görsün” ayarı birim için kaydedildi (08.11.2026), ancak Ali’nin PIP’i 09.11.2026’da başlıyor ve çalışan ekranında henüz görünmüyor; hakkında açılmış gelişim aksiyonu da yok."
     },
     {
       "islem": 27,
       "baslik": "Performans geliştirme planına (PIP) check-in yapma",
-      "yok": "Demo çalışanın Gelişim Aksiyonlarım listesi boş."
+      "yok": "“Çalışan kendi PIP’ini görsün” ayarı birim için kaydedildi (08.11.2026), ancak Ali’nin PIP’i 09.11.2026’da başlıyor ve çalışan ekranında henüz görünmüyor; hakkında açılmış gelişim aksiyonu da yok."
     }
   ]
 }

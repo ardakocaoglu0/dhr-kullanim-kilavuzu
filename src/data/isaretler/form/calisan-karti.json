@@ -18,7 +18,23 @@
     {
       "islem": 11,
       "baslik": "Çalışanı geri alma (yeniden işe alma / çıkışı geri alma)",
-      "yok": "\"Çalışanı Geri Al\" yasak kelime içeriyor (geri al); demo çalışan aktif olduğu için seçenek de görünmez"
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/terminate-employee-management"
+        },
+        {
+          "satir": "Görüntüle"
+        },
+        {
+          "buton": "Çalışan İşlemleri"
+        },
+        {
+          "menu": "Çalışanı Geri Al"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "\"Çalışanı Geri Al\" yasak kelime içeriyor (geri al); demo çalışan aktif olduğu için seçenek de görünmez"
     },
     {
       "islem": 14,

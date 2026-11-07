@@ -8,6 +8,8 @@ from kit import session  # noqa: E402
 
 KOK = Path(__file__).resolve().parent.parent
 YASAK_URL = re.compile(r"timestamp|tubitak|technopark|damgala", re.I)  # bu adreslere hiç istek gitmez (GET dahil)
+# yalnız veri okuyan POST sorguları (liste süzme, önizleme, tahmin hesabı); kayıt yazmaz
+OKUMA_POST = re.compile(r"/api/[^?]*/(filter|paged|search|route-preview|next-accrual-dates|forecast|intersectionBy[A-Za-z]+)(\?|$)", re.I)
 YASAK = re.compile(r"t[üu]b[iı]tak|zaman damga|damgala|timestamp|technopark|teknopark", re.I)
 CLICK = r"""([label, prevVid]) => {
  const vis = e => { const r = e.getBoundingClientRect(); return r.width>0 && r.height>0 && getComputedStyle(e).visibility!=='hidden'; };
@@ -269,7 +271,7 @@ def form_cek(kim, sadece):
         p.set_viewport_size({"width": 1920, "height": 1080})
         p.route(re.compile(r".*(timestamp|tubitak|technopark|damgala).*", re.I), lambda r: r.abort())
         # yazma isteklerini engelle: pencere açmak GET dışında istek gerektirmez
-        p.route(re.compile(r".*"), lambda r: r.abort() if r.request.method not in ("GET", "HEAD", "OPTIONS") or YASAK_URL.search(r.request.url) else r.continue_())
+        p.route(re.compile(r".*"), lambda r: r.abort() if (r.request.method not in ("GET", "HEAD", "OPTIONS") and not OKUMA_POST.search(r.request.url)) or YASAK_URL.search(r.request.url) else r.continue_())
         for x in formlar:
             h = next((h for h in HEDEF.get(x["sayfa"], []) if h["baslik"] == x["islem"]), None)
             metin = (h or {}).get("hedef", {}).get("metin", "") if (h or {}).get("hedef", {}).get("tur") == "buton" else ""
@@ -362,7 +364,7 @@ def tarif_cek(kim, sadece):
         for sid, l in json.load(open(f, encoding="utf-8")).items():
             for t in l:
                 x = dosya_bul.get((sid, t.get("baslik")))
-                if x and not t.get("yok") and not t.get("oturumsuz") and (not sadece or sid in sadece) and (not os.environ.get("TARIF_YENI") or t.get("eskiGerekce")): tarifler.append((x, t))
+                if x and not t.get("yok") and not t.get("oturumsuz") and not t.get("elle") and (not sadece or sid in sadece) and (not os.environ.get("TARIF_YENI") or t.get("eskiGerekce")): tarifler.append((x, t))
     parca_dosya = KOK / "src" / "data" / "isaretler" / "parca" / f"{kim}.json"
     parca = json.load(open(parca_dosya, encoding="utf-8")) if parca_dosya.exists() else {}
     tamam, atla = 0, []
@@ -370,7 +372,7 @@ def tarif_cek(kim, sadece):
         p = s.page
         p.set_viewport_size({"width": 1920, "height": 1080})
         p.route(re.compile(r".*(timestamp|tubitak|technopark|damgala).*", re.I), lambda r: r.abort())
-        p.route(re.compile(r".*"), lambda r: r.abort() if r.request.method not in ("GET", "HEAD", "OPTIONS") or YASAK_URL.search(r.request.url) else r.continue_())
+        p.route(re.compile(r".*"), lambda r: r.abort() if (r.request.method not in ("GET", "HEAD", "OPTIONS") and not OKUMA_POST.search(r.request.url)) or YASAK_URL.search(r.request.url) else r.continue_())
         for i, (x, t) in enumerate(tarifler, 1):
             etiket = f'{x["sayfa"]} › {x["islem"]}'
             try:
@@ -393,6 +395,8 @@ def tarif_cek(kim, sadece):
                         if not (p.evaluate(PENCERE_SEKME, deger) if p.evaluate(PENCERE_VAR) else False) \
                            and not (p.evaluate(CLICK, [deger, None]) or p.evaluate(CLICK, [deger, "*"])): raise Exception("sekme yok: " + deger)
                         bekle(p); continue
+                    if tur == "xy":  # yazısız tablo hücresi (ör. vardiya planlama); 1920x1080 ekrandaki konuma tıklanır
+                        p.mouse.click(deger[0], deger[1]); p.wait_for_timeout(1200); continue
                     if tur == "css":  # yazısız simge (üst çubuk vb.); seçiciyle tıklanır
                         p.locator(deger).first.click(timeout=5000); p.wait_for_timeout(900); continue
                     if tur == "dene":  # isteğe bağlı buton: adaylardan ilk bulunana tıklar, yoksa geçer

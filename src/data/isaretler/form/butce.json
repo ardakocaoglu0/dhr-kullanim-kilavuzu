@@ -3,17 +3,17 @@
     {
       "islem": 11,
       "baslik": "Bütçeyi onaya gönderme",
-      "yok": "Formu açan \"Onaya Gönder\" butonu yasaklı (onaya gönder); ayrıca bütçe kilitli olduğundan buton görünmüyor"
+      "yok": "Onaya Gönder, hesaplanmış esas senaryo ister. 2027 taslak bütçesinin hesaplanması 2027 bordro parametrelerini ve vergi dilimlerini gerektiriyor (bordro ayarlarına yazılmıyor); bu yüzden bütçe onaya gönderilemiyor ve onay adımı oluşmuyor."
     },
     {
       "islem": 12,
       "baslik": "Bütçeyi onaylama",
-      "yok": "Formu açan \"Onayla\" butonu yasaklı; bütçe kilitli olduğundan buton görünmüyor"
+      "yok": "Onay bekleyen bütçe yok. 2027 taslak bütçesinin hesaplanması 2027 bordro parametrelerini ve vergi dilimlerini gerektiriyor (bordro ayarlarına yazılmıyor); bu yüzden bütçe onaya gönderilemiyor ve onay adımı oluşmuyor."
     },
     {
       "islem": 13,
       "baslik": "Bütçeyi reddetme",
-      "yok": "Formu açan \"Reddet\" butonu yasaklı; bütçe kilitli olduğundan buton görünmüyor"
+      "yok": "Onay bekleyen bütçe yok. 2027 taslak bütçesinin hesaplanması 2027 bordro parametrelerini ve vergi dilimlerini gerektiriyor (bordro ayarlarına yazılmıyor); bu yüzden bütçe onaya gönderilemiyor ve onay adımı oluşmuyor."
     },
     {
       "islem": 15,
@@ -49,7 +49,13 @@
       "islem": 18,
       "baslik": "Yeni senaryo oluşturma",
       "ekran": "Planlama > Senaryolar",
-      "yok": "Demo bütçesi kilitli/arşivlenmiş olduğundan senaryo eklenemiyor; Yeni Senaryo formu açılmıyor."
+      "ac": [
+        {
+          "buton": "Yeni Senaryo"
+        }
+      ],
+      "eskiGerekce": "Demo bütçesi kilitli/arşivlenmiş olduğundan senaryo eklenemiyor; Yeni Senaryo formu açılmıyor.",
+      "elle": "Görüntü 08.11.2026’da geçici 2027 taslak bütçesiyle alındı; taslak sonra silindi (2026 bütçesi kilitli olduğundan bu bütçede senaryo eklenemiyor)."
     },
     {
       "islem": 21,
@@ -244,7 +250,7 @@
     {
       "islem": 44,
       "baslik": "Virman talebini onaylama veya reddetme",
-      "yok": "Karar penceresi \"Onayla\"/\"Reddet\" butonlarıyla açılır (yasaklı); bekleyen virman da yok"
+      "yok": "Ekip Virmanları boş; Parla’nın karar vereceği virman başka bir bütçe sahibinden gelmeli (demo hesaplarında yok)."
     },
     {
       "islem": 52,
@@ -282,7 +288,12 @@
       "islem": 65,
       "baslik": "Sapma gerekçesi girme",
       "ekran": "Analiz > Sapma Köprüsü > Gerekçe İncelemesi",
-      "yok": "Gerekçe İncelemesi listesinde demo verisinde gerekçe bekleyen sapma yok."
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "eskiGerekce": "Gerekçe İncelemesi listesinde demo verisinde gerekçe bekleyen sapma yok."
     },
     {
       "islem": 73,
