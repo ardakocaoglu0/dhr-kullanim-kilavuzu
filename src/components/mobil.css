@@ -1,0 +1,53 @@
+/* Mobil uygulama ekran görüntüleri: dikey telefon çerçevesi.
+   Renkler styles.css içindeki tema değişkenlerinden gelir (açık/koyu tema uyumlu). */
+.ekran-mobil { display: flex; flex-direction: column; align-items: center; }
+.ekran-mobil .telefon {
+  position: relative;
+  width: min(300px, 78vw);
+  padding: 12px;
+  border-radius: 40px;
+  background: #1d2939;
+  box-shadow: 0 10px 30px rgba(16, 24, 40, .18), inset 0 0 0 2px #344054;
+}
+.ekran-mobil.ekran-islem .telefon { width: min(240px, 70vw); padding: 10px; border-radius: 32px; }
+.ekran-mobil .telefon-centik {
+  position: absolute; top: 12px; left: 50%; transform: translateX(-50%);
+  width: 34%; height: 20px; border-radius: 0 0 14px 14px; background: #1d2939; z-index: 1;
+}
+.ekran-mobil .telefon-ekran {
+  aspect-ratio: 9 / 20;
+  border-radius: 30px;
+  overflow: hidden;
+  background: var(--zemin);
+}
+.ekran-mobil.ekran-islem .telefon-ekran { border-radius: 24px; }
+.ekran-mobil .telefon-ekran img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: top; cursor: zoom-in; }
+.ekran-mobil .ekran-bos {
+  height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;
+  padding: 18px; text-align: center; color: var(--soluk); background: var(--kenar-zemin);
+}
+.ekran-mobil .ekran-bos span { word-break: break-all; }
+.ekran-mobil figcaption { display: flex; flex-direction: column; align-items: center; gap: 2px; text-align: center; max-width: 420px; }
+.ekran-mobil .telefon-baslik { font-size: 12.5px; color: var(--soluk); }
+:root[data-theme='dark'] .ekran-mobil .telefon { background: #0f0f17; box-shadow: inset 0 0 0 2px #363646; }
+:root[data-theme='dark'] .ekran-mobil .telefon-centik { background: #0f0f17; }
+
+/* Kenar menü: Web / Mobil sekmesi */
+.platform-sekme {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 4px;
+  margin: 0 12px 10px; padding: 4px;
+  border: 1px solid var(--cizgi); border-radius: 10px; background: var(--yuzey);
+}
+.platform-dugme {
+  display: flex; align-items: center; justify-content: center; gap: 6px;
+  padding: 7px 8px; border: 0; border-radius: 7px; background: transparent;
+  color: var(--soluk); font: inherit; font-size: 13.5px; font-weight: 600; cursor: pointer;
+}
+.platform-dugme:hover { background: var(--hover-zemin); color: var(--metin); }
+.platform-dugme.secili { background: var(--vurgu-acik); color: var(--vurgu); box-shadow: inset 0 0 0 1px var(--vurgu); }
+.platform-dugme:focus-visible { outline: 2px solid var(--vurgu); outline-offset: 1px; }
+.platform-sayi {
+  min-width: 20px; padding: 0 6px; border-radius: 10px; font-size: 11.5px; line-height: 18px;
+  background: var(--kenar-zemin); color: var(--soluk);
+}
+.platform-dugme.secili .platform-sayi { background: var(--vurgu); color: #fff; }

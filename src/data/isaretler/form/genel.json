@@ -1,0 +1,188 @@
+{
+  "sisteme-giris": [
+    {
+      "islem": 1,
+      "baslik": "Sisteme giriş yapma",
+      "oturumsuz": "Oturum dışı ekran; scratchpad giris_form.py ile ayrı tarayıcıda alınır (GET dışı istek yok)."
+    },
+    {
+      "islem": 2,
+      "baslik": "Şifremi unuttum (parola sıfırlama)",
+      "oturumsuz": "Oturum dışı ekran; scratchpad giris_form.py ile ayrı tarayıcıda alınır (GET dışı istek yok)."
+    },
+    {
+      "islem": 3,
+      "baslik": "Hesap kurulumu (ilk giriş)",
+      "yok": "Kurulum sayfası yalnız e-postadaki bağlantıyla açılır"
+    },
+    {
+      "islem": 4,
+      "baslik": "Parola değiştirme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/my-dashboard"
+        },
+        {
+          "css": "header .ant-avatar"
+        },
+        {
+          "menu": "Şifre Değiştir"
+        }
+      ],
+      "eskiGerekce": "Sayfa üst çubuktaki kullanıcı alanından açılır; tarif adımlarıyla erişilemiyor"
+    },
+    {
+      "islem": 5,
+      "baslik": "İki adımlı doğrulama ile giriş",
+      "yok": "Doğrulama kodu ekranı yalnız giriş sırasında ve iki adımlı doğrulama açıkken çıkar"
+    },
+    {
+      "islem": 6,
+      "baslik": "İki adımlı doğrulamayı açma / kapatma",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/my-dashboard"
+        },
+        {
+          "css": "header .ant-avatar"
+        },
+        {
+          "menu": "İki Adımlı Doğrulama"
+        }
+      ],
+      "eskiGerekce": "Güvenlik ayarı üst çubuktaki kullanıcı alanından açılır; tarif adımlarıyla erişilemiyor"
+    }
+  ],
+  "genel-arayuz": [
+    {
+      "islem": 2,
+      "baslik": "Menü tercihlerini düzenleme",
+      "yok": "Menü tercihleri alanı ekranda ve güncel sürüm metinlerinde bulunamadı"
+    },
+    {
+      "islem": 6,
+      "baslik": "Bildirim tercihlerini ayarlama",
+      "ekran": null,
+      "ac": [
+        {
+          "css": "header .ant-avatar"
+        },
+        {
+          "menu": "Bildirim Ayarları"
+        }
+      ],
+      "eskiGerekce": "Bildirim Ayarları, üst çubuktaki zil simgesiyle açılan Bildirimler sayfasında; tarif adımlarıyla erişilemiyor"
+    },
+    {
+      "islem": 9,
+      "baslik": "Anketleri yanıtlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/my-surveys"
+        },
+        {
+          "satir": "Yanıtla"
+        }
+      ],
+      "eskiGerekce": "Yanıt bekleyen anket yok (Anketlerim 0)"
+    },
+    {
+      "islem": 11,
+      "baslik": "Ruh hali bildirimi (Bugün nasıl hissediyorsun?)",
+      "ekran": null,
+      "yerinde": true,
+      "kaydir": "Bugün nasıl hissediyorsun?"
+    },
+    {
+      "islem": 12,
+      "baslik": "Geri bildirim gönderme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/employee-feedback"
+        },
+        {
+          "buton": "Geri Bildirim Oluştur"
+        }
+      ],
+      "eskiGerekce": "Form üst çubuktaki yazısız geri bildirim simgesiyle açılır; tarif adımlarıyla erişilemiyor"
+    },
+    {
+      "islem": 15,
+      "baslik": "DHR'a öneri / sorun bildirme",
+      "ekran": null,
+      "ac": [
+        {
+          "css": "header [title=\"Geri Bildirim / Problem Bildir\"], header [aria-label=\"Geri Bildirim / Problem Bildir\"]"
+        }
+      ],
+      "eskiGerekce": "Form üst çubuktaki yazısız ampul simgesiyle açılır; tarif adımlarıyla erişilemiyor"
+    }
+  ],
+  "kontrol-panelim": [
+    {
+      "islem": 10,
+      "baslik": "Ruh halinizi bildirme",
+      "ekran": null,
+      "yerinde": true,
+      "kaydir": "Bugün nasıl hissediyorsun?"
+    }
+  ],
+  "kontrol-paneli": [
+    {
+      "islem": 2,
+      "baslik": "Departmana göre süzme",
+      "ekran": null,
+      "ac": [
+        {
+          "metin": "Departman"
+        }
+      ],
+      "yerinde": true
+    },
+    {
+      "islem": 4,
+      "baslik": "Analiz ve raporlar (modül analitiği)",
+      "ekran": null,
+      "ac": [
+        {
+          "buton": "Analiz ve Raporlar"
+        }
+      ]
+    },
+    {
+      "islem": 9,
+      "baslik": "Talebi onaylama veya reddetme",
+      "eskiGerekce": "Pencere Onayla/Reddet ile açılır (yasaklı işlem)",
+      "yok": "Onay Merkezi’ndeki kayıt, ilgili modülün onay penceresine yönlendirir; o pencereler modül sayfalarında gösterildi."
+    },
+    {
+      "islem": 13,
+      "baslik": "Duyuru oluşturma",
+      "ekran": null,
+      "ac": [
+        {
+          "metin": "Tüm duyuruları görüntüle"
+        },
+        {
+          "buton": "Duyuru Oluştur"
+        }
+      ]
+    },
+    {
+      "islem": 15,
+      "baslik": "Anket oluşturma",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/create-survey"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Anketler sayfası üst çubuktaki yazısız anket simgesiyle açılır; tarif adımlarıyla erişilemiyor"
+    }
+  ]
+}

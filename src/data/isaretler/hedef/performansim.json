@@ -1,0 +1,214 @@
+{
+  "performansim": [
+    {
+      "islem": 1,
+      "baslik": "Hedeflerimi dönem bazında görüntüleme",
+      "ekran": "Hedeflerim",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Dönem seçin"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Hedef detayını görüntüleme",
+      "ekran": "Hedeflerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Detaylar"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Hedefe check-in yapma (ilerleme bildirme)",
+      "ekran": "Hedeflerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Check-in (3)"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Hedef ilerlemesini güncelleme",
+      "ekran": "Hedeflerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Check-in (3)"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Anahtar sonuç güncel değerini girme",
+      "ekran": "Hedeflerim",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Kilometre taşını tamamlandı olarak işaretleme",
+      "ekran": "Hedeflerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Detaylar"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Hedef değişiklik talebi (revizyon) oluşturma",
+      "ekran": "Hedeflerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Değişiklik Talebi"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Değişiklik taleplerimi izleme ve iptal etme",
+      "ekran": "Hedeflerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Değişiklik Talebi"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Aktif değerlendirmemi görüntüleme",
+      "ekran": "Değerlendirmem",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Öz değerlendirme doldurma ve gönderme",
+      "ekran": "Değerlendirmem",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Değerlendirme sonucunu görüntüleme ve onaylama",
+      "ekran": "Değerlendirmem",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Ara dönem görüşmelerimi görüntüleme",
+      "ekran": "Ara Dönem Görüşmelerim",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Ara dönem görüşmesine çalışan yorumu ekleme",
+      "ekran": "Ara Dönem Görüşmelerim",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Görüşmeden hedeflere geçiş",
+      "ekran": "Ara Dönem Görüşmelerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Hedeflerime Git"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Ekibimin değerlendirmelerini puanlama",
+      "ekran": "Yönetici Değerlendirmelerim",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Bana atanan (360 derece) değerlendirmeyi doldurma",
+      "ekran": "Atanan Değerlendirmeler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Rozetlerimi ve takdir puanımı görüntüleme",
+      "ekran": "Rozetlerim",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Toplam Puan"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Yetkinlik açığımı görüntüleme",
+      "ekran": "Yetkinlik Açığım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Değerlendirme sonucuna itiraz etme",
+      "ekran": "İtirazlarım",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni İtiraz Et"
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "İtirazlarımı izleme",
+      "ekran": "İtirazlarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Kariyer ve mobilite beyanı doldurma",
+      "ekran": "Kariyer Beyanım",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kariyer Hedefim"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Gelişim aksiyonlarımı görüntüleme",
+      "ekran": "Gelişim Aksiyonlarım",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Aksiyonlarım"
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "Gelişim aksiyonuna ilerleme girme",
+      "ekran": "Gelişim Aksiyonlarım",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Aksiyonlarım"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Performans geliştirme planına (PIP) check-in yapma",
+      "ekran": "Gelişim Aksiyonlarım",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Aksiyonlarım"
+      }
+    }
+  ]
+}

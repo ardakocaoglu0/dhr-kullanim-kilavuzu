@@ -1,0 +1,126 @@
+{
+  "servis-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "Rotaları görüntüleme",
+      "ekran": "Rotalar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Yeni rota oluşturma",
+      "ekran": "Rotalar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Rota"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Rotayı ve duraklarını düzenleme",
+      "ekran": "Rotalar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Rotayı silme",
+      "ekran": "Rotalar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Servis seferlerini görüntüleme",
+      "ekran": "Servisler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Yeni servis (sefer) oluşturma",
+      "ekran": "Servisler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Servis"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Servis seferini düzenleme",
+      "ekran": "Servisler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Servis seferini silme",
+      "ekran": "Servisler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Yolcu atamalarını görüntüleme ve filtreleme",
+      "ekran": "Atamalar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Çalışanı servise atama",
+      "ekran": "Atamalar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Atama Yap"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Atamayı iptal etme",
+      "ekran": "Atamalar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Atama durumunu güncelleme",
+      "ekran": "Atamalar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Araç tanımlama ve düzenleme",
+      "ekran": "Servisler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Servis"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Çalışanın bindiği durağı belirleme",
+      "ekran": "Atamalar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Atama Yap"
+      }
+    }
+  ]
+}

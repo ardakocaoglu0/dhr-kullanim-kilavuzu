@@ -1,0 +1,401 @@
+{
+  "butce-planlama": [
+    {
+      "islem": 11,
+      "baslik": "Bütçeyi onaya gönderme",
+      "yok": "Formu açan \"Onaya Gönder\" butonu yasaklı (onaya gönder); ayrıca bütçe kilitli olduğundan buton görünmüyor"
+    },
+    {
+      "islem": 12,
+      "baslik": "Bütçeyi onaylama",
+      "yok": "Formu açan \"Onayla\" butonu yasaklı; bütçe kilitli olduğundan buton görünmüyor"
+    },
+    {
+      "islem": 13,
+      "baslik": "Bütçeyi reddetme",
+      "yok": "Formu açan \"Reddet\" butonu yasaklı; bütçe kilitli olduğundan buton görünmüyor"
+    },
+    {
+      "islem": 15,
+      "baslik": "Kilitli bütçenin kilidini açma",
+      "ekran": "Bütçeler > Onay",
+      "ac": [
+        {
+          "buton": "Kilidi Aç"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan \"Kilidi Aç\" butonu kilit işlemi (yasak kapsamı)"
+    },
+    {
+      "islem": 17,
+      "baslik": "Bütçe onay zincirini tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Bütçe Yönetimi"
+        },
+        {
+          "sekme": "Bütçe Onay Akışı"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Bütçe Planlama sayfasında açan öğe yok; Bütçe Onay Akışı Organizasyon Birim Yönetimi > Bütçe Yönetimi altında"
+    },
+    {
+      "islem": 18,
+      "baslik": "Yeni senaryo oluşturma",
+      "ekran": "Planlama > Senaryolar",
+      "yok": "Demo bütçesi kilitli/arşivlenmiş olduğundan senaryo eklenemiyor; Yeni Senaryo formu açılmıyor."
+    },
+    {
+      "islem": 21,
+      "baslik": "Senaryoyu kopyalama",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 3
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan satır butonu \"kopyala\" (yasaklı)"
+    },
+    {
+      "islem": 24,
+      "baslik": "Zam veya prim kuralı ekleme",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Varsayımlar"
+        },
+        {
+          "metin": "Zam ve Primler"
+        },
+        {
+          "buton": "Kural Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 25,
+      "baslik": "Yasal parametre istisnası ekleme",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Varsayımlar"
+        },
+        {
+          "metin": "Yasal Parametre İstisnaları"
+        },
+        {
+          "buton": "İstisna Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 26,
+      "baslik": "Planlanan işe alım ekleme",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Varsayımlar"
+        },
+        {
+          "metin": "Planlanan İşe Alımlar"
+        },
+        {
+          "buton": "Kadro Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 27,
+      "baslik": "Planlanan çıkış ekleme",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Varsayımlar"
+        },
+        {
+          "metin": "Planlanan Çıkışlar"
+        },
+        {
+          "buton": "Çıkış Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 28,
+      "baslik": "Devir ve boş kadro varsayımı ekleme",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Varsayımlar"
+        },
+        {
+          "metin": "Devir ve Boş Kadro"
+        },
+        {
+          "buton": "Devir Varsayımı Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 29,
+      "baslik": "Gider kalemi ekleme",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Varsayımlar"
+        },
+        {
+          "metin": "Gider Kalemleri"
+        },
+        {
+          "buton": "Gider Kalemi Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 30,
+      "baslik": "Yan hak paketi oluşturma",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Yan Hak Paketleri"
+        },
+        {
+          "buton": "Yeni Paket"
+        }
+      ]
+    },
+    {
+      "islem": 31,
+      "baslik": "Pakete yan hak kalemi ekleme",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Yan Hak Paketleri"
+        },
+        {
+          "buton": "Yeni Kalem"
+        }
+      ]
+    },
+    {
+      "islem": 32,
+      "baslik": "Yan hak paketini birime, unvana veya kademeye atama",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Yan Hak Paketleri"
+        },
+        {
+          "buton": "Atama Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 34,
+      "baslik": "Ekipman satırı ekleme",
+      "ekran": "Planlama > Senaryolar",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "sekme": "Ekipman & Zimmet"
+        },
+        {
+          "buton": "Yeni Satır"
+        }
+      ]
+    },
+    {
+      "islem": 44,
+      "baslik": "Virman talebini onaylama veya reddetme",
+      "yok": "Karar penceresi \"Onayla\"/\"Reddet\" butonlarıyla açılır (yasaklı); bekleyen virman da yok"
+    },
+    {
+      "islem": 52,
+      "baslik": "Ayı kapatma (dönem kapanışı)",
+      "ekran": "Ödenek > Gerçekleşen > Dönem Kapanışı",
+      "ac": [
+        {
+          "buton": "Ayı Kapat"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan \"Ayı Kapat\" butonu yasaklı (kapat)"
+    },
+    {
+      "islem": 55,
+      "baslik": "Taahhüt kontrol ayarı tanımlama",
+      "ekran": "Ödenek > Taahhüt",
+      "ac": [
+        {
+          "buton": "Kontrol Ayarı"
+        }
+      ]
+    },
+    {
+      "islem": 56,
+      "baslik": "Birime bütçe sahibi atama",
+      "ekran": "Ödenek > Hazırlık Durumu",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 65,
+      "baslik": "Sapma gerekçesi girme",
+      "ekran": "Analiz > Sapma Köprüsü > Gerekçe İncelemesi",
+      "yok": "Gerekçe İncelemesi listesinde demo verisinde gerekçe bekleyen sapma yok."
+    },
+    {
+      "islem": 73,
+      "baslik": "Ücret bantları ve merit matrisi tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Bütçe Yönetimi"
+        },
+        {
+          "sekme": "Ücret Politikası"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Ücret bandı/merit tanımları Organizasyon Birim Yönetimi > Bütçe Yönetimi > Ücret Politikası altında; bu sayfada açan öğe yok"
+    },
+    {
+      "islem": 74,
+      "baslik": "Bütçe raporu çalıştırma",
+      "ekran": "Raporlar > Raporlar",
+      "yerinde": true,
+      "kaydir": "Raporlar"
+    },
+    {
+      "islem": 75,
+      "baslik": "Rapor görünümünü kaydetme ve kayıtlı görünümü açma",
+      "ekran": "Raporlar > Raporlar",
+      "ac": [
+        {
+          "buton": "Görünümü Kaydet"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan \"Görünümü Kaydet\" butonu yasaklı (kaydet)"
+    },
+    {
+      "islem": 79,
+      "baslik": "Hesap planı ve kalem eşleştirmelerini yönetme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Bütçe Yönetimi"
+        },
+        {
+          "sekme": "Hesap Planı"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Hesap planı Organizasyon Birim Yönetimi > Bütçe Yönetimi > Hesap Planı sekmesinde; bu sayfada açan öğe yok"
+    },
+    {
+      "islem": 82,
+      "baslik": "Masraf yerlerini yönetme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Masraf Yönetimi"
+        },
+        {
+          "sekme": "Masraf Yerleri"
+        },
+        {
+          "dene": [
+            "Yeni Masraf Yeri",
+            "Yeni Ekle",
+            "Ekle"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Masraf yerleri Organizasyon Birim Yönetimi > Masraf Yönetimi > Masraf Yerleri sekmesinde; bu sayfada açan öğe yok"
+    },
+    {
+      "islem": 41,
+      "baslik": "Yeni virman talebi oluşturma",
+      "ekran": "Ödenek > Virman > Talepler",
+      "ac": [
+        {
+          "buton": "Yeni Virman"
+        }
+      ],
+      "eskiGerekce": "yeniden çekim"
+    },
+    {
+      "islem": 46,
+      "baslik": "Yeni gider kaydı girme",
+      "ekran": "Ödenek > Gerçekleşen > Gider Kayıtları",
+      "ac": [
+        {
+          "buton": "Yeni Gider"
+        }
+      ],
+      "eskiGerekce": "yeniden çekim"
+    },
+    {
+      "islem": 66,
+      "baslik": "Tolerans eşiği tanımlama",
+      "ekran": "Analiz > Sapma Köprüsü > Gerekçe İncelemesi",
+      "ac": [
+        {
+          "buton": "Yeni Eşik"
+        }
+      ],
+      "eskiGerekce": "yeniden çekim"
+    }
+  ]
+}

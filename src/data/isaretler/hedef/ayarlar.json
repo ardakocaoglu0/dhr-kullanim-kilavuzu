@@ -1,0 +1,315 @@
+{
+  "ayarlar": [
+    {
+      "islem": 1,
+      "baslik": "Organizasyon şemasını görüntüleme",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Şema Görünümü"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Bir birime odaklanma",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Odaklan:"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Ağaç görünümünü kullanma",
+      "ekran": "Organizasyon Şeması > Ağaç Görünümü",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Ağaç Görünümü"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Organizasyon istatistiklerini inceleme",
+      "ekran": "Organizasyon Şeması > İstatistikler",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "İstatistikler"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Yeni birim ekleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Birim Ekle"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Birim detaylarını görüntüleme ve düzenleme",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Pozisyonları listeleme ve filtreleme",
+      "ekran": "Organizasyon Şeması > Pozisyonlar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Pozisyon ekleme (pozisyon tanımlama)",
+      "ekran": "Organizasyon Şeması > Pozisyonlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Pozisyon Ekle"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Pozisyonu düzenleme",
+      "ekran": "Organizasyon Şeması > Pozisyonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Pozisyon geçmişini görüntüleme",
+      "ekran": "Organizasyon Şeması > Pozisyonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Pozisyonu silme",
+      "ekran": "Organizasyon Şeması > Pozisyonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Yetenekleri listeleme",
+      "ekran": "Kullanıcı ve Yetenek Yönetimi > Yetenekler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Kullanıcıları listeleme ve arama",
+      "ekran": "Kullanıcı ve Yetenek Yönetimi > Kullanıcı Yönetimi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Kullanıcının rolünü değiştirme (kullanıcıya rol verme)",
+      "ekran": "Kullanıcı ve Yetenek Yönetimi > Kullanıcı Yönetimi",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 30,
+      "baslik": "Kullanıcı hesabını silme",
+      "ekran": "Kullanıcı ve Yetenek Yönetimi > Kullanıcı Yönetimi",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "Kullanıcıya özel yetenek verme veya kaldırma",
+      "ekran": "Kullanıcı ve Yetenek Yönetimi > Kullanıcı Yetenekleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 35,
+      "baslik": "Birim yetkilerini görüntüleme ve filtreleme",
+      "ekran": "Kullanıcı ve Yetenek Yönetimi > Birim Yetenekleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 36,
+      "baslik": "Birim bazlı yetki kapsamını değiştirme",
+      "ekran": "Kullanıcı ve Yetenek Yönetimi > Birim Yetenekleri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Görüntüleme"
+      }
+    },
+    {
+      "islem": 37,
+      "baslik": "Birim yetkilerini toplu atama",
+      "ekran": "Kullanıcı ve Yetenek Yönetimi > Birim Yetenekleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Birimi silme",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Doğrudan yöneticiyi değiştirme",
+      "ekran": "Organizasyon Şeması > Pozisyonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Boşalan pozisyonun onay akışlarını yeniden düzenleme",
+      "ekran": "Organizasyon Şeması > Pozisyonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Birim profili oluşturma (izin türleri ve resmi tatiller)",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Birim ayarlarını yönetme",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Birim onay akışı tanımlama",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Pozisyona özel onay akışı tanımlama",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Şirket alanlarını tanımlama",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Şirket alanlarının değerlerini girme",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Çalışan bilgi sekme ve bölümlerini düzenleme",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Doğum günü ve özel gün bildirimlerini ayarlama",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Deneme süresi ve sözleşme hatırlatmalarını ayarlama",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "Rol oluşturma ve yetenek atama",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "Rolü düzenleme, yeteneklerini güncelleme veya silme",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 33,
+      "baslik": "Rolü önizleme (rolün gözünden sistemi görme)",
+      "ekran": "Organizasyon Şeması > Şema Görünümü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "E-posta onayı gönderme",
+      "ekran": "Kullanıcı ve Yetenek Yönetimi > Kullanıcı Yönetimi",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Email Onayı"
+      }
+    }
+  ]
+}

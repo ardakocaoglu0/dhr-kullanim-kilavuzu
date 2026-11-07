@@ -1,0 +1,7767 @@
+{
+ "ekranlar/kontrol-paneli/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Genel bakışı görüntüleme",
+   "x": 299,
+   "y": 197,
+   "w": 320,
+   "h": 16
+  },
+  {
+   "no": 2,
+   "baslik": "Departmana göre süzme",
+   "x": 1345,
+   "y": 111,
+   "w": 164,
+   "h": 30
+  },
+  {
+   "no": 3,
+   "baslik": "Çalışan dağılımı ve sirkülasyonu inceleme",
+   "x": 293,
+   "y": 323,
+   "w": 295,
+   "h": 20
+  },
+  {
+   "no": 4,
+   "baslik": "Analiz ve raporlar (modül analitiği)",
+   "x": 1152,
+   "y": 106,
+   "w": 170,
+   "h": 36
+  },
+  {
+   "no": 5,
+   "baslik": "Çalışan bağlılığı ve ruh hali analizi",
+   "x": 1152,
+   "y": 106,
+   "w": 170,
+   "h": 36
+  },
+  {
+   "no": 6,
+   "baslik": "Dashboard'ı düzenleme",
+   "x": 1700,
+   "y": 106,
+   "w": 188,
+   "h": 36
+  },
+  {
+   "no": 7,
+   "baslik": "Pozisyon şemasında gezinme",
+   "x": 1406,
+   "y": 323,
+   "w": 438,
+   "h": 20
+  },
+  {
+   "no": 12,
+   "baslik": "Okunmamış duyuruları okuma",
+   "x": 850,
+   "y": 686,
+   "w": 461,
+   "h": 22
+  },
+  {
+   "no": 18,
+   "baslik": "Doğum günleri ve iş yıldönümlerini görme",
+   "x": 1408,
+   "y": 686,
+   "w": 381,
+   "h": 22
+  }
+ ],
+ "ekranlar/kontrol-paneli/ana-2.png": [
+  {
+   "no": 13,
+   "baslik": "Duyuru oluşturma",
+   "x": 978,
+   "y": 280,
+   "w": 145,
+   "h": 19
+  },
+  {
+   "no": 14,
+   "baslik": "Duyuruyu düzenleme / silme ve okunma durumunu izleme",
+   "x": 978,
+   "y": 280,
+   "w": 145,
+   "h": 19
+  },
+  {
+   "no": 19,
+   "baslik": "Masraf talep onaylarını görme",
+   "x": 850,
+   "y": 343,
+   "w": 461,
+   "h": 22
+  },
+  {
+   "no": 20,
+   "baslik": "Yaklaşan izinleri görme",
+   "x": 1408,
+   "y": 343,
+   "w": 381,
+   "h": 22
+  },
+  {
+   "no": 21,
+   "baslik": "Performans değerlendirme takvimini izleme",
+   "x": 293,
+   "y": 738,
+   "w": 461,
+   "h": 20
+  }
+ ],
+ "ekranlar/kontrol-paneli/onay-merkezi.png": [
+  {
+   "no": 8,
+   "baslik": "Onay Merkezi'nde bekleyen talepleri görme",
+   "x": 293,
+   "y": 686,
+   "w": 461,
+   "h": 22
+  },
+  {
+   "no": 9,
+   "baslik": "Talebi onaylama veya reddetme",
+   "x": 293,
+   "y": 686,
+   "w": 461,
+   "h": 22
+  }
+ ],
+ "ekranlar/kontrol-paneli/onay-merkezi-2.png": [],
+ "ekranlar/ayarlar/ana.png": [
+  {
+   "no": 2,
+   "baslik": "Bir birime odaklanma",
+   "x": 1469,
+   "y": 228,
+   "w": 59,
+   "h": 17
+  },
+  {
+   "no": 5,
+   "baslik": "Yeni birim ekleme",
+   "x": 1775,
+   "y": 221,
+   "w": 113,
+   "h": 32
+  }
+ ],
+ "ekranlar/ayarlar/organizasyon-semasi-sema-gorunumu.png": [
+  {
+   "no": 1,
+   "baslik": "Organizasyon şemasını görüntüleme",
+   "x": 232,
+   "y": 273,
+   "w": 111,
+   "h": 46
+  },
+  {
+   "no": 6,
+   "baslik": "Birim detaylarını görüntüleme ve düzenleme",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 7,
+   "baslik": "Birimi silme",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 15,
+   "baslik": "Birim profili oluşturma (izin türleri ve resmi tatiller)",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 16,
+   "baslik": "Birim ayarlarını yönetme",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 17,
+   "baslik": "Birim onay akışı tanımlama",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 18,
+   "baslik": "Pozisyona özel onay akışı tanımlama",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 19,
+   "baslik": "Şirket alanlarını tanımlama",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 20,
+   "baslik": "Şirket alanlarının değerlerini girme",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 21,
+   "baslik": "Çalışan bilgi sekme ve bölümlerini düzenleme",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 22,
+   "baslik": "Doğum günü ve özel gün bildirimlerini ayarlama",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 23,
+   "baslik": "Deneme süresi ve sözleşme hatırlatmalarını ayarlama",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 31,
+   "baslik": "Rol oluşturma ve yetenek atama",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 32,
+   "baslik": "Rolü düzenleme, yeteneklerini güncelleme veya silme",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  },
+  {
+   "no": 33,
+   "baslik": "Rolü önizleme (rolün gözünden sistemi görme)",
+   "x": 1024,
+   "y": 637,
+   "w": 72,
+   "h": 11
+  }
+ ],
+ "ekranlar/ayarlar/organizasyon-semasi-agac-gorunumu.png": [
+  {
+   "no": 3,
+   "baslik": "Ağaç görünümünü kullanma",
+   "x": 371,
+   "y": 273,
+   "w": 108,
+   "h": 46
+  }
+ ],
+ "ekranlar/ayarlar/organizasyon-semasi-istatistikler.png": [
+  {
+   "no": 4,
+   "baslik": "Organizasyon istatistiklerini inceleme",
+   "x": 506,
+   "y": 273,
+   "w": 72,
+   "h": 46
+  }
+ ],
+ "ekranlar/ayarlar/organizasyon-semasi-pozisyonlar.png": [
+  {
+   "no": 8,
+   "baslik": "Pozisyonları listeleme ve filtreleme",
+   "x": 257,
+   "y": 272,
+   "w": 1606,
+   "h": 808
+  },
+  {
+   "no": 9,
+   "baslik": "Pozisyon ekleme (pozisyon tanımlama)",
+   "x": 1515,
+   "y": 165,
+   "w": 139,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Pozisyonu düzenleme",
+   "x": 1688,
+   "y": 337,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Doğrudan yöneticiyi değiştirme",
+   "x": 1688,
+   "y": 337,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Pozisyon geçmişini görüntüleme",
+   "x": 1728,
+   "y": 337,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 13,
+   "baslik": "Pozisyonu silme",
+   "x": 1768,
+   "y": 337,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 14,
+   "baslik": "Boşalan pozisyonun onay akışlarını yeniden düzenleme",
+   "x": 1688,
+   "y": 337,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/ayarlar/organizasyon-semasi-pozisyonlar-2.png": [],
+ "ekranlar/ayarlar/kullanici-ve-yetenek-yonetimi-yetenekler.png": [
+  {
+   "no": 24,
+   "baslik": "Yetenekleri listeleme",
+   "x": 257,
+   "y": 225,
+   "w": 1606,
+   "h": 855
+  }
+ ],
+ "ekranlar/ayarlar/kullanici-ve-yetenek-yonetimi-yetenekler-2.png": [],
+ "ekranlar/ayarlar/kullanici-ve-yetenek-yonetimi-kullanici-yonetimi.png": [
+  {
+   "no": 25,
+   "baslik": "Kullanıcıları listeleme ve arama",
+   "x": 257,
+   "y": 404,
+   "w": 1606,
+   "h": 419
+  },
+  {
+   "no": 27,
+   "baslik": "Kullanıcının rolünü değiştirme (kullanıcıya rol verme)",
+   "x": 1777,
+   "y": 473,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 28,
+   "baslik": "E-posta onayı gönderme",
+   "x": 1221,
+   "y": 416,
+   "w": 207,
+   "h": 22
+  },
+  {
+   "no": 30,
+   "baslik": "Kullanıcı hesabını silme",
+   "x": 1825,
+   "y": 473,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/ayarlar/kullanici-ve-yetenek-yonetimi-kullanici-yetenekleri.png": [
+  {
+   "no": 34,
+   "baslik": "Kullanıcıya özel yetenek verme veya kaldırma",
+   "x": 1812,
+   "y": 473,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/ayarlar/kullanici-ve-yetenek-yonetimi-birim-yetenekleri.png": [
+  {
+   "no": 35,
+   "baslik": "Birim yetkilerini görüntüleme ve filtreleme",
+   "x": 257,
+   "y": 304,
+   "w": 1606,
+   "h": 776
+  },
+  {
+   "no": 36,
+   "baslik": "Birim bazlı yetki kapsamını değiştirme",
+   "x": 1084,
+   "y": 351,
+   "w": 102,
+   "h": 22
+  },
+  {
+   "no": 37,
+   "baslik": "Birim yetkilerini toplu atama",
+   "x": 1450,
+   "y": 243,
+   "w": 123,
+   "h": 32
+  }
+ ],
+ "ekranlar/ayarlar/kullanici-ve-yetenek-yonetimi-birim-yetenekleri-2.png": [],
+ "ekranlar/ayarlar/organizasyon-semasi.png": [],
+ "ekranlar/ayarlar/kullanici-ve-yetenek-yonetimi.png": [],
+ "ekranlar/ayarlar/kullanici-ve-yetenek-yonetimi-2.png": [],
+ "ekranlar/birim-yonetimi-genel/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Birimi seçerek sayfayı açma",
+   "x": 1736,
+   "y": 96,
+   "w": 152,
+   "h": 24
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/ana-2.png": [],
+ "ekranlar/birim-yonetimi-genel/pozisyonlar.png": [
+  {
+   "no": 2,
+   "baslik": "Birimin pozisyonlarını ve çalışanlarını listeleme",
+   "x": 476,
+   "y": 148,
+   "w": 1412,
+   "h": 782
+  },
+  {
+   "no": 3,
+   "baslik": "Birime pozisyon ekleme",
+   "x": 1615,
+   "y": 96,
+   "w": 139,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Pozisyonu düzenleme",
+   "x": 1762,
+   "y": 199,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Pozisyon geçmişini görüntüleme",
+   "x": 1802,
+   "y": 199,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Pozisyonu silme",
+   "x": 1842,
+   "y": 199,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/pozisyonlar-2.png": [],
+ "ekranlar/birim-yonetimi-genel/calisan-bilgileri-kontrolu.png": [],
+ "ekranlar/birim-yonetimi-genel/calisan-bilgileri-kontrolu-2.png": [],
+ "ekranlar/birim-yonetimi-genel/calisan-bilgileri-kontrolu-sekmeleri-yonet.png": [
+  {
+   "no": 7,
+   "baslik": "Çalışan bilgi sekmesi ekleme, düzenleme ve silme",
+   "x": 1738,
+   "y": 219,
+   "w": 125,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/calisan-bilgileri-kontrolu-sekmeleri-yonet-2.png": [],
+ "ekranlar/birim-yonetimi-genel/calisan-bilgileri-kontrolu-bolumleri-yonet.png": [
+  {
+   "no": 8,
+   "baslik": "Bölüm ekleme, düzenleme ve silme",
+   "x": 1742,
+   "y": 219,
+   "w": 121,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/calisan-bilgileri-kontrolu-bolumleri-yonet-2.png": [],
+ "ekranlar/birim-yonetimi-genel/calisan-bilgileri-kontrolu-alanlari-yonet.png": [
+  {
+   "no": 9,
+   "baslik": "Çalışan bilgi alanı ekleme",
+   "x": 1754,
+   "y": 219,
+   "w": 109,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Alanı düzenleme veya silme",
+   "x": 501,
+   "y": 304,
+   "w": 1362,
+   "h": 206
+  },
+  {
+   "no": 11,
+   "baslik": "Seçim alanının seçeneklerini yönetme",
+   "x": 501,
+   "y": 304,
+   "w": 1362,
+   "h": 206
+  },
+  {
+   "no": 12,
+   "baslik": "Alanları arama ve detaylı filtreleme",
+   "x": 1650,
+   "y": 219,
+   "w": 93,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/calisan-bilgileri-kontrolu-alanlari-yonet-2.png": [],
+ "ekranlar/birim-yonetimi-genel/calisan-numarasi.png": [
+  {
+   "no": 13,
+   "baslik": "Birimin geçerli çalışan numarası kuralını görme",
+   "x": 476,
+   "y": 207,
+   "w": 53,
+   "h": 17
+  },
+  {
+   "no": 14,
+   "baslik": "Çalışan numarası kuralı ekleme",
+   "x": 1775,
+   "y": 200,
+   "w": 113,
+   "h": 32
+  },
+  {
+   "no": 15,
+   "baslik": "Çalışan numarası kuralını düzenleme veya silme",
+   "x": 476,
+   "y": 207,
+   "w": 53,
+   "h": 17
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/calisan-numarasi-2.png": [],
+ "ekranlar/birim-yonetimi-genel/rol-yonetimi.png": [
+  {
+   "no": 16,
+   "baslik": "Birimin rollerini listeleme ve arama",
+   "x": 501,
+   "y": 173,
+   "w": 1362,
+   "h": 225
+  },
+  {
+   "no": 17,
+   "baslik": "Birime rol oluşturma",
+   "x": 1792,
+   "y": 96,
+   "w": 96,
+   "h": 32
+  },
+  {
+   "no": 18,
+   "baslik": "Rolün adını veya yeteneklerini güncelleme",
+   "x": 1555,
+   "y": 232,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 19,
+   "baslik": "Rolü kullananları görme ve kullanıcı rolünü değiştirme",
+   "x": 1515,
+   "y": 232,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 20,
+   "baslik": "Rolü silme",
+   "x": 1635,
+   "y": 232,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/rol-yonetimi-2.png": [],
+ "ekranlar/birim-yonetimi-genel/veri-girisi-isten-cikis-sebepleri.png": [
+  {
+   "no": 21,
+   "baslik": "İşten çıkış sebebi ekleme",
+   "x": 1734,
+   "y": 206,
+   "w": 154,
+   "h": 32
+  },
+  {
+   "no": 22,
+   "baslik": "İşten çıkış sebebini düzenleme veya silme",
+   "x": 476,
+   "y": 211,
+   "w": 352,
+   "h": 23
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/veri-girisi-isten-cikis-sebepleri-2.png": [],
+ "ekranlar/birim-yonetimi-genel/veri-girisi-ceza-turleri.png": [
+  {
+   "no": 23,
+   "baslik": "Ceza türü tanımlama",
+   "x": 1695,
+   "y": 206,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 24,
+   "baslik": "Ceza tanımını düzenleme veya silme",
+   "x": 1762,
+   "y": 301,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/veri-girisi-ceza-turleri-2.png": [],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-dogum-gunu-bildirimleri.png": [
+  {
+   "no": 25,
+   "baslik": "Doğum günü bildirimlerini ayarlama",
+   "x": 496,
+   "y": 316,
+   "w": 1372,
+   "h": 173
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-dogum-gunu-bildirimleri-2.png": [
+  {
+   "no": 26,
+   "baslik": "Kutlama görseli yükleme veya kaldırma",
+   "x": 496,
+   "y": 542,
+   "w": 1372,
+   "h": 387
+  },
+  {
+   "no": 27,
+   "baslik": "Mail önizleme",
+   "x": 1625,
+   "y": 945,
+   "w": 141,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-is-yildonumu-bildirimleri.png": [
+  {
+   "no": 28,
+   "baslik": "İş yıldönümü bildirimlerini ayarlama",
+   "x": 496,
+   "y": 316,
+   "w": 1372,
+   "h": 173
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-is-yildonumu-bildirimleri-2.png": [],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-deneme-suresi-bildirimleri.png": [
+  {
+   "no": 29,
+   "baslik": "Deneme süresi bildirimlerini ve varsayılan günleri ayarlama",
+   "x": 496,
+   "y": 212,
+   "w": 1372,
+   "h": 289
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-deneme-suresi-bildirimleri-2.png": [],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-deneme-suresi-bildirimleri-3.png": [
+  {
+   "no": 31,
+   "baslik": "Değerlendirme anketi ekleme (deneme süresi / sözleşme bitişi)",
+   "x": 496,
+   "y": 703,
+   "w": 1372,
+   "h": 227
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-sozlesme-bitis-bildirimleri.png": [
+  {
+   "no": 30,
+   "baslik": "Sözleşme bitiş bildirimlerini ayarlama",
+   "x": 496,
+   "y": 212,
+   "w": 1372,
+   "h": 289
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-sozlesme-bitis-bildirimleri-2.png": [],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-sozlesme-bitis-bildirimleri-3.png": [],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-is-akisi-bildirimleri.png": [
+  {
+   "no": 32,
+   "baslik": "İzin akışı ek bildirim kişilerini belirleme",
+   "x": 496,
+   "y": 316,
+   "w": 1372,
+   "h": 308
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/bildirim-yonetimi-is-akisi-bildirimleri-2.png": [],
+ "ekranlar/birim-yonetimi-genel/ek-kisiler.png": [
+  {
+   "no": 33,
+   "baslik": "Geri bildirim alıcısı pozisyon ekleme",
+   "x": 1729,
+   "y": 168,
+   "w": 139,
+   "h": 32
+  },
+  {
+   "no": 34,
+   "baslik": "Doküman talebi ve gönderimi için ek kişi ekleme",
+   "x": 232,
+   "y": 684,
+   "w": 220,
+   "h": 38
+  },
+  {
+   "no": 35,
+   "baslik": "Ek kişileri kaldırma",
+   "x": 496,
+   "y": 224,
+   "w": 60,
+   "h": 39
+  },
+  {
+   "no": 36,
+   "baslik": "Kişileri başka listeye kopyalama",
+   "x": 1616,
+   "y": 168,
+   "w": 100,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/ek-kisiler-2.png": [],
+ "ekranlar/birim-yonetimi-genel/profiller.png": [
+  {
+   "no": 37,
+   "baslik": "Birim profili oluşturma",
+   "x": 1773,
+   "y": 112,
+   "w": 115,
+   "h": 32
+  },
+  {
+   "no": 38,
+   "baslik": "Profile izin türü, resmi tatil ve çalışan bağlama",
+   "x": 476,
+   "y": 164,
+   "w": 1412,
+   "h": 206
+  },
+  {
+   "no": 39,
+   "baslik": "Profili düzenleme veya silme",
+   "x": 476,
+   "y": 164,
+   "w": 1412,
+   "h": 206
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/profiller-2.png": [],
+ "ekranlar/birim-yonetimi-genel/resmi-tatiller.png": [
+  {
+   "no": 40,
+   "baslik": "Resmi tatil ekleme",
+   "x": 1781,
+   "y": 112,
+   "w": 107,
+   "h": 32
+  },
+  {
+   "no": 41,
+   "baslik": "Resmi tatili düzenleme veya silme",
+   "x": 476,
+   "y": 164,
+   "w": 1412,
+   "h": 206
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/resmi-tatiller-2.png": [],
+ "ekranlar/birim-yonetimi-genel/takvim-ayarlari.png": [
+  {
+   "no": 42,
+   "baslik": "Çalışanlara takvim rengi atama",
+   "x": 492,
+   "y": 164,
+   "w": 1380,
+   "h": 166
+  }
+ ],
+ "ekranlar/birim-yonetimi-genel/takvim-ayarlari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Birimin modül ayarlarını açma",
+   "x": 1736,
+   "y": 96,
+   "w": 152,
+   "h": 24
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/ana-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-izin-is-akisi.png": [
+  {
+   "no": 4,
+   "baslik": "İzin onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "İzin için pozisyona özel akış tanımlama",
+   "x": 476,
+   "y": 571,
+   "w": 1412,
+   "h": 509
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-izin-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-izin-turleri.png": [
+  {
+   "no": 6,
+   "baslik": "Ek izin türü ekleme",
+   "x": 1755,
+   "y": 231,
+   "w": 108,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "İzin türünün hak ediş kurallarını ayarlama",
+   "x": 1755,
+   "y": 231,
+   "w": 108,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "İzin devretme ve bakiye üst sınırını ayarlama",
+   "x": 1755,
+   "y": 231,
+   "w": 108,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Kıdeme göre izin günlerini tanımlama",
+   "x": 1755,
+   "y": 231,
+   "w": 108,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Yaş bazlı hak ediş kuralı ekleme",
+   "x": 1755,
+   "y": 231,
+   "w": 108,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Rol bazlı izin ayarı tanımlama",
+   "x": 1755,
+   "y": 231,
+   "w": 108,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Çalışan bazlı izin ayarlarını düzenleme",
+   "x": 1755,
+   "y": 231,
+   "w": 108,
+   "h": 32
+  },
+  {
+   "no": 13,
+   "baslik": "İzin türünü pasife alma veya aktif yapma",
+   "x": 476,
+   "y": 206,
+   "w": 1412,
+   "h": 208
+  },
+  {
+   "no": 14,
+   "baslik": "İzin türünü silme",
+   "x": 476,
+   "y": 206,
+   "w": 1412,
+   "h": 208
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-izin-turleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-calisma-saati-turleri.png": [
+  {
+   "no": 15,
+   "baslik": "Çalışma saat türü ekleme",
+   "x": 1713,
+   "y": 247,
+   "w": 134,
+   "h": 32
+  },
+  {
+   "no": 16,
+   "baslik": "Çalışma saat türünü düzenleme, silme ve arama",
+   "x": 538,
+   "y": 541,
+   "w": 102,
+   "h": 32
+  },
+  {
+   "no": 17,
+   "baslik": "Çalışma saat türünü kullanan pozisyonları görme",
+   "x": 693,
+   "y": 541,
+   "w": 80,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-calisma-saati-turleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-ayarlar-mutabakat.png": [
+  {
+   "no": 18,
+   "baslik": "Otomatik izin mutabakatı kuralı ekleme",
+   "x": 1749,
+   "y": 511,
+   "w": 114,
+   "h": 32
+  },
+  {
+   "no": 19,
+   "baslik": "Mutabakat kuralını düzenleme veya silme",
+   "x": 501,
+   "y": 614,
+   "w": 1362,
+   "h": 202
+  },
+  {
+   "no": 20,
+   "baslik": "Anlık mutabakat gönderme",
+   "x": 476,
+   "y": 857,
+   "w": 1412,
+   "h": 223
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-ayarlar-mutabakat-2.png": [
+  {
+   "no": 21,
+   "baslik": "Gönderilen mutabakatları inceleme",
+   "x": 476,
+   "y": 691,
+   "w": 1412,
+   "h": 307
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-ayarlar-calisan-onayi.png": [
+  {
+   "no": 22,
+   "baslik": "Bakiye değişikliklerinde çalışan onayı ayarlama",
+   "x": 553,
+   "y": 343,
+   "w": 466,
+   "h": 22
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/izin-yonetimi-ayarlar-calisan-onayi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/ek-mesai-yonetimi-ek-mesai-is-akisi.png": [
+  {
+   "no": 23,
+   "baslik": "Ek mesai onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 24,
+   "baslik": "Ek mesai için pozisyona özel akış tanımlama",
+   "x": 476,
+   "y": 571,
+   "w": 1412,
+   "h": 509
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/ek-mesai-yonetimi-ek-mesai-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/ek-mesai-yonetimi-ek-mesai-turleri.png": [
+  {
+   "no": 25,
+   "baslik": "Ek mesai türü oluşturma",
+   "x": 1729,
+   "y": 231,
+   "w": 134,
+   "h": 32
+  },
+  {
+   "no": 26,
+   "baslik": "Ek mesai türünü düzenleme veya silme",
+   "x": 501,
+   "y": 387,
+   "w": 1362,
+   "h": 358
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/ek-mesai-yonetimi-ek-mesai-turleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/ek-mesai-yonetimi-ek-mesai-sinirlari.png": [
+  {
+   "no": 27,
+   "baslik": "Ek mesai sınırlarını belirleme",
+   "x": 491,
+   "y": 515,
+   "w": 1229,
+   "h": 22
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/ek-mesai-yonetimi-ek-mesai-sinirlari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/seyahat-yonetimi-seyahat-is-akisi.png": [
+  {
+   "no": 28,
+   "baslik": "Seyahat onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 29,
+   "baslik": "Seyahat için pozisyona özel akış tanımlama",
+   "x": 476,
+   "y": 571,
+   "w": 1412,
+   "h": 509
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/seyahat-yonetimi-seyahat-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/seyahat-yonetimi-seyahat-turleri.png": [
+  {
+   "no": 30,
+   "baslik": "Seyahat türü ekleme",
+   "x": 1720,
+   "y": 158,
+   "w": 168,
+   "h": 32
+  },
+  {
+   "no": 31,
+   "baslik": "Seyahat türünü düzenleme veya silme",
+   "x": 476,
+   "y": 210,
+   "w": 1412,
+   "h": 190
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/seyahat-yonetimi-seyahat-turleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/mesai-duzeltme.png": [
+  {
+   "no": 32,
+   "baslik": "Mesai düzeltme onay akışını tanımlama",
+   "x": 1699,
+   "y": 273,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 33,
+   "baslik": "Mesai düzeltme için pozisyona özel akış tanımlama",
+   "x": 476,
+   "y": 625,
+   "w": 1412,
+   "h": 455
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/mesai-duzeltme-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/gorev-yonetimi-gorev-is-akisi.png": [
+  {
+   "no": 36,
+   "baslik": "Görev kategorisi için onay akışı tanımlama",
+   "x": 1699,
+   "y": 265,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 37,
+   "baslik": "Görev kategorisi için pozisyona özel akış tanımlama",
+   "x": 476,
+   "y": 617,
+   "w": 1412,
+   "h": 463
+  },
+  {
+   "no": 38,
+   "baslik": "Görev akışını kategoriler arasında kopyalama",
+   "x": 1788,
+   "y": 206,
+   "w": 100,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/gorev-yonetimi-gorev-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/gorev-yonetimi-kategoriler.png": [
+  {
+   "no": 34,
+   "baslik": "Görev kategorisi ekleme",
+   "x": 1752,
+   "y": 158,
+   "w": 136,
+   "h": 32
+  },
+  {
+   "no": 35,
+   "baslik": "Görev kategorisini düzenleme, pasife alma veya silme",
+   "x": 476,
+   "y": 264,
+   "w": 1412,
+   "h": 299
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/gorev-yonetimi-kategoriler-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-tamamlama-is-akisi.png": [
+  {
+   "no": 39,
+   "baslik": "Bordro tamamlama onay akışını tanımlama",
+   "x": 1699,
+   "y": 227,
+   "w": 164,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-tamamlama-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-banka-odeme-onay-akisi.png": [
+  {
+   "no": 40,
+   "baslik": "Banka ödeme onay akışını tanımlama",
+   "x": 1699,
+   "y": 227,
+   "w": 164,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-banka-odeme-onay-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-avans-onay-akisi.png": [
+  {
+   "no": 41,
+   "baslik": "Avans onay akışını tanımlama",
+   "x": 1699,
+   "y": 173,
+   "w": 164,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-avans-onay-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-genel-ayarlar.png": [
+  {
+   "no": 2,
+   "baslik": "Üst birimden gelen ayarı birime özel tanımlama",
+   "x": 562,
+   "y": 371,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 42,
+   "baslik": "Maaş hesaplama ayarlarını belirleme",
+   "x": 562,
+   "y": 371,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 43,
+   "baslik": "Dönem ve puantaj ayarlarını belirleme",
+   "x": 562,
+   "y": 371,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 44,
+   "baslik": "Ek mesainin bordroya aktarım ayarları",
+   "x": 562,
+   "y": 371,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 45,
+   "baslik": "Yuvarlama ve anomali tespiti ayarları",
+   "x": 562,
+   "y": 371,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 46,
+   "baslik": "Bordro itirazı ayarını yapma",
+   "x": 562,
+   "y": 371,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 47,
+   "baslik": "Diğer genel bordro ayarları (para birimi, teşvik, IBAN onayı)",
+   "x": 562,
+   "y": 371,
+   "w": 193,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-genel-ayarlar-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-sgk-ayarlari.png": [
+  {
+   "no": 48,
+   "baslik": "SGK işyeri ayarlarını girme",
+   "x": 476,
+   "y": 214,
+   "w": 1412,
+   "h": 646
+  },
+  {
+   "no": 49,
+   "baslik": "MUHSGK (muhtasar beyanname) bilgilerini girme",
+   "x": 562,
+   "y": 378,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 50,
+   "baslik": "SGK bağlantısını kontrol etme",
+   "x": 933,
+   "y": 790,
+   "w": 128,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-sgk-ayarlari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-sgk-meslek-kodlari.png": [
+  {
+   "no": 52,
+   "baslik": "Meslek kodunu pasife alma, aktifleştirme ve arama",
+   "x": 476,
+   "y": 335,
+   "w": 1412,
+   "h": 745
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-sgk-meslek-kodlari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bes-ayarlari.png": [
+  {
+   "no": 54,
+   "baslik": "BES (bireysel emeklilik) ayarlarını yapma",
+   "x": 476,
+   "y": 214,
+   "w": 1412,
+   "h": 343
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bes-ayarlari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-sirket-bilgileri.png": [
+  {
+   "no": 55,
+   "baslik": "Şirket alanlarına değer girme",
+   "x": 476,
+   "y": 214,
+   "w": 91,
+   "h": 38
+  },
+  {
+   "no": 56,
+   "baslik": "Şirket banka hesabı ekleme, düzenleme ve silme",
+   "x": 595,
+   "y": 214,
+   "w": 107,
+   "h": 38
+  },
+  {
+   "no": 57,
+   "baslik": "Birincil banka hesabını belirleme",
+   "x": 595,
+   "y": 214,
+   "w": 107,
+   "h": 38
+  },
+  {
+   "no": 58,
+   "baslik": "Banka ödeme kanalını ayarlama",
+   "x": 595,
+   "y": 214,
+   "w": 107,
+   "h": 38
+  },
+  {
+   "no": 59,
+   "baslik": "Ödeme kanalı bağlantısını kontrol etme",
+   "x": 595,
+   "y": 214,
+   "w": 107,
+   "h": 38
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-sirket-bilgileri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-kesinti-yapilari.png": [
+  {
+   "no": 60,
+   "baslik": "Kesinti yapısı ekleme",
+   "x": 562,
+   "y": 378,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 61,
+   "baslik": "Kesinti yapısına kesinti ekleme",
+   "x": 562,
+   "y": 378,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 62,
+   "baslik": "Dilim grubu ve vergi dilimi tanımlama",
+   "x": 562,
+   "y": 378,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 63,
+   "baslik": "Dilim grubunu yeni yıla kopyalama",
+   "x": 562,
+   "y": 378,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 64,
+   "baslik": "Kesinti yapısı, kesinti veya dilimi düzenleme ve silme",
+   "x": 562,
+   "y": 378,
+   "w": 193,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-kesinti-yapilari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-ek-kazanclar-kesintiler.png": [
+  {
+   "no": 65,
+   "baslik": "Ek kazanç veya kesinti tanımlama",
+   "x": 537,
+   "y": 337,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 66,
+   "baslik": "Kesinti sınıfı ve yasal sınır belirleme",
+   "x": 537,
+   "y": 337,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 67,
+   "baslik": "Kazanç / kesinti için ek alan tanımlama",
+   "x": 537,
+   "y": 337,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 68,
+   "baslik": "Kazanç / kesintiyi düzenleme veya silme",
+   "x": 537,
+   "y": 337,
+   "w": 193,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-ek-kazanclar-kesintiler-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-kalemleri.png": [
+  {
+   "no": 69,
+   "baslik": "Bordro kalemi oluşturma",
+   "x": 537,
+   "y": 336,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 70,
+   "baslik": "Bordro kalemini düzenleme veya silme",
+   "x": 537,
+   "y": 336,
+   "w": 193,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-kalemleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-sablonu.png": [
+  {
+   "no": 71,
+   "baslik": "Bordro şablonunu tasarlama",
+   "x": 537,
+   "y": 244,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 72,
+   "baslik": "Bordro şablonuna üst ve alt görsel ekleme",
+   "x": 537,
+   "y": 244,
+   "w": 193,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-sablonu-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-mektup-sablonlari.png": [
+  {
+   "no": 73,
+   "baslik": "Mektup şablonu düzenleme",
+   "x": 1569,
+   "y": 168,
+   "w": 148,
+   "h": 28
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-mektup-sablonlari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-profilleri.png": [
+  {
+   "no": 74,
+   "baslik": "Bordro profili ekleme",
+   "x": 537,
+   "y": 314,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 75,
+   "baslik": "Bordro profilini düzenleme veya silme",
+   "x": 537,
+   "y": 314,
+   "w": 193,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-profilleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-parametreleri.png": [
+  {
+   "no": 76,
+   "baslik": "Bordro parametresi ekleme",
+   "x": 537,
+   "y": 346,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 77,
+   "baslik": "Bordro parametresini düzenleme, silme veya dışa aktarma",
+   "x": 1772,
+   "y": 214,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-bordro-parametreleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-kanunlar-tesvikler.png": [
+  {
+   "no": 78,
+   "baslik": "Kanun ve teşvikleri birimde etkinleştirme",
+   "x": 537,
+   "y": 244,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 79,
+   "baslik": "Yeni kanun veya varyant tanımlama",
+   "x": 537,
+   "y": 244,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 80,
+   "baslik": "Varyanta etki ekleme",
+   "x": 537,
+   "y": 244,
+   "w": 193,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-kanunlar-tesvikler-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-eksik-gun-nedenleri.png": [
+  {
+   "no": 3,
+   "baslik": "Birime özel tanımı kaldırıp üst birime dönme",
+   "x": 1443,
+   "y": 214,
+   "w": 281,
+   "h": 32
+  },
+  {
+   "no": 81,
+   "baslik": "Eksik gün nedeni ekleme",
+   "x": 1733,
+   "y": 214,
+   "w": 156,
+   "h": 32
+  },
+  {
+   "no": 82,
+   "baslik": "Eksik gün nedenini düzenleme veya silme",
+   "x": 1752,
+   "y": 309,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-eksik-gun-nedenleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-avans-ayarlari.png": [
+  {
+   "no": 83,
+   "baslik": "Avans ayarlarını yapma",
+   "x": 501,
+   "y": 296,
+   "w": 167,
+   "h": 22
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-avans-ayarlari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-izin-harcligi.png": [
+  {
+   "no": 84,
+   "baslik": "İzin harçlığı kuralı ekleme",
+   "x": 1775,
+   "y": 166,
+   "w": 113,
+   "h": 32
+  },
+  {
+   "no": 85,
+   "baslik": "İzin harçlığı kuralından üretilen satırları inceleme",
+   "x": 476,
+   "y": 218,
+   "w": 1412,
+   "h": 94
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-izin-harcligi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-cocuk-es-yardimi.png": [
+  {
+   "no": 86,
+   "baslik": "Çocuk / eş yardımı kuralı ekleme",
+   "x": 1774,
+   "y": 166,
+   "w": 114,
+   "h": 32
+  },
+  {
+   "no": 87,
+   "baslik": "Çocuk / eş yardımında vergi ve prim istisnalarını ayarlama",
+   "x": 1774,
+   "y": 166,
+   "w": 114,
+   "h": 32
+  },
+  {
+   "no": 88,
+   "baslik": "Çocuk / eş yardımı satırlarını inceleme",
+   "x": 476,
+   "y": 218,
+   "w": 1412,
+   "h": 94
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-cocuk-es-yardimi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-tazminat-ayarlari.png": [
+  {
+   "no": 89,
+   "baslik": "Kıdem tazminatı ayarlarını yapma",
+   "x": 476,
+   "y": 214,
+   "w": 1412,
+   "h": 251
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-tazminat-ayarlari-2.png": [
+  {
+   "no": 90,
+   "baslik": "İhbar tazminatı ayarlarını yapma",
+   "x": 476,
+   "y": 681,
+   "w": 1412,
+   "h": 251
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-muhasebe-hesaplari.png": [
+  {
+   "no": 91,
+   "baslik": "Hesap planına hesap ekleme",
+   "x": 607,
+   "y": 220,
+   "w": 100,
+   "h": 28
+  },
+  {
+   "no": 92,
+   "baslik": "Hesap planını Excel'den aktarma",
+   "x": 607,
+   "y": 220,
+   "w": 100,
+   "h": 28
+  },
+  {
+   "no": 93,
+   "baslik": "Bordro kalemlerini muhasebe hesaplarıyla eşleme",
+   "x": 476,
+   "y": 492,
+   "w": 1412,
+   "h": 588
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-muhasebe-hesaplari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/bordro-yonetimi-muhasebe-hesaplari-3.png": [],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-masraf-turleri.png": [
+  {
+   "no": 94,
+   "baslik": "Masraf türü ekleme",
+   "x": 537,
+   "y": 329,
+   "w": 193,
+   "h": 32
+  },
+  {
+   "no": 95,
+   "baslik": "Masraf türünü düzenleme veya silme",
+   "x": 537,
+   "y": 329,
+   "w": 193,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-masraf-turleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-masraf-is-akisi.png": [
+  {
+   "no": 96,
+   "baslik": "Masraf onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 97,
+   "baslik": "Masraf için pozisyona özel akış tanımlama",
+   "x": 476,
+   "y": 571,
+   "w": 1412,
+   "h": 509
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-masraf-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-masraf-etiketleri.png": [
+  {
+   "no": 98,
+   "baslik": "Masraf etiketi ekleme",
+   "x": 1771,
+   "y": 158,
+   "w": 117,
+   "h": 32
+  },
+  {
+   "no": 99,
+   "baslik": "Masraf etiketini düzenleme veya silme",
+   "x": 1750,
+   "y": 257,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-masraf-etiketleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-masraf-yerleri.png": [
+  {
+   "no": 100,
+   "baslik": "Yeni masraf yeri ekleme",
+   "x": 1480,
+   "y": 162,
+   "w": 156,
+   "h": 32
+  },
+  {
+   "no": 101,
+   "baslik": "Masraf yerini düzenleme, pasife alma veya silme",
+   "x": 1312,
+   "y": 162,
+   "w": 156,
+   "h": 32
+  },
+  {
+   "no": 102,
+   "baslik": "Eski masraf yeri bilgisini aktarma",
+   "x": 1644,
+   "y": 162,
+   "w": 244,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-masraf-yerleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-geri-odeme.png": [
+  {
+   "no": 103,
+   "baslik": "Masraf geri ödeme yolunu belirleme",
+   "x": 506,
+   "y": 424,
+   "w": 78,
+   "h": 17
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/masraf-yonetimi-geri-odeme-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/dokuman-yonetimi-is-akisi.png": [
+  {
+   "no": 104,
+   "baslik": "Doküman onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 105,
+   "baslik": "Pozisyona özel doküman onay akışı tanımlama",
+   "x": 476,
+   "y": 571,
+   "w": 1412,
+   "h": 509
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/dokuman-yonetimi-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/dokuman-yonetimi-varsayilan-sablon.png": [
+  {
+   "no": 106,
+   "baslik": "Varsayılan doküman şablonu ekleme",
+   "x": 1738,
+   "y": 219,
+   "w": 125,
+   "h": 32
+  },
+  {
+   "no": 107,
+   "baslik": "Doküman şablonunu düzenleme, indirme veya silme",
+   "x": 1707,
+   "y": 345,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/dokuman-yonetimi-varsayilan-sablon-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/dokuman-yonetimi-talep-kategorileri.png": [
+  {
+   "no": 108,
+   "baslik": "Doküman talep kategorisi ekleme",
+   "x": 1752,
+   "y": 158,
+   "w": 136,
+   "h": 32
+  },
+  {
+   "no": 109,
+   "baslik": "Doküman talep kategorisini düzenleme, pasife alma veya silme",
+   "x": 476,
+   "y": 286,
+   "w": 1412,
+   "h": 762
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/dokuman-yonetimi-talep-kategorileri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/stok-yonetimi-zimmet-is-akisi.png": [
+  {
+   "no": 110,
+   "baslik": "Zimmet onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 111,
+   "baslik": "Zimmet için pozisyona özel akış tanımlama",
+   "x": 476,
+   "y": 571,
+   "w": 1412,
+   "h": 509
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/stok-yonetimi-zimmet-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/stok-yonetimi-stok-is-akisi.png": [
+  {
+   "no": 112,
+   "baslik": "Stok onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 113,
+   "baslik": "Pozisyona özel stok onay akışı tanımlama",
+   "x": 476,
+   "y": 550,
+   "w": 1412,
+   "h": 530
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/stok-yonetimi-stok-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/stok-yonetimi-stok-yoneticileri.png": [
+  {
+   "no": 114,
+   "baslik": "Stok yöneticisi ekleme",
+   "x": 1704,
+   "y": 239,
+   "w": 139,
+   "h": 32
+  },
+  {
+   "no": 115,
+   "baslik": "Stok yöneticilerini kaldırma",
+   "x": 521,
+   "y": 324,
+   "w": 1322,
+   "h": 97
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/stok-yonetimi-stok-yoneticileri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/ise-giris-cikis-sablonlar.png": [
+  {
+   "no": 116,
+   "baslik": "İşe giriş / çıkış şablonu oluşturma",
+   "x": 476,
+   "y": 258,
+   "w": 175,
+   "h": 32
+  },
+  {
+   "no": 117,
+   "baslik": "İşe giriş / çıkış şablonunu düzenleme veya silme",
+   "x": 1774,
+   "y": 410,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/ise-giris-cikis-sablonlar-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/ise-giris-cikis-birim-kurallari.png": [
+  {
+   "no": 118,
+   "baslik": "İşe giriş / çıkış birim kurallarını belirleme",
+   "x": 476,
+   "y": 159,
+   "w": 285,
+   "h": 28
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/ise-giris-cikis-birim-kurallari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/ise-giris-cikis-ise-giris-is-akisi.png": [
+  {
+   "no": 119,
+   "baslik": "İşe giriş onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 120,
+   "baslik": "İşe giriş için pozisyona özel akış tanımlama",
+   "x": 476,
+   "y": 571,
+   "w": 1412,
+   "h": 509
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/ise-giris-cikis-ise-giris-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/ise-giris-cikis-isten-cikis-is-akisi.png": [
+  {
+   "no": 121,
+   "baslik": "İşten çıkış onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 122,
+   "baslik": "İşten çıkış için pozisyona özel akış tanımlama",
+   "x": 476,
+   "y": 571,
+   "w": 1412,
+   "h": 509
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/ise-giris-cikis-isten-cikis-is-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/vardiya-onay-akisi.png": [
+  {
+   "no": 123,
+   "baslik": "Vardiya onay akışını tanımlama",
+   "x": 1699,
+   "y": 219,
+   "w": 164,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/vardiya-onay-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/vardiya-planlama-kurallari.png": [
+  {
+   "no": 124,
+   "baslik": "Vardiya planlama kurallarını belirleme",
+   "x": 476,
+   "y": 158,
+   "w": 235,
+   "h": 28
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/vardiya-planlama-kurallari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/vardiya-calisma-suresi.png": [
+  {
+   "no": 125,
+   "baslik": "Çalışma süresi ayarlarını belirleme",
+   "x": 491,
+   "y": 472,
+   "w": 159,
+   "h": 22
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/vardiya-calisma-suresi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/vardiya-calisma-suresi-3.png": [],
+ "ekranlar/birim-yonetimi-moduller/mesai-yonetimi-uzaktan-mesai.png": [
+  {
+   "no": 126,
+   "baslik": "Uzaktan mesai ayarlarını yapma",
+   "x": 611,
+   "y": 310,
+   "w": 125,
+   "h": 22
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/mesai-yonetimi-uzaktan-mesai-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/mesai-yonetimi-qr-ile-mesai.png": [
+  {
+   "no": 127,
+   "baslik": "QR ile mesai toleransını ayarlama",
+   "x": 611,
+   "y": 310,
+   "w": 212,
+   "h": 22
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/mesai-yonetimi-qr-ile-mesai-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-hesap-plani.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-hesap-plani-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-esleme-kurallari.png": [
+  {
+   "no": 129,
+   "baslik": "Bütçe hesap planı ve eşleme kurallarını yönetme",
+   "x": 476,
+   "y": 423,
+   "w": 1412,
+   "h": 657
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-esleme-kurallari-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-boyutlar.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-boyutlar-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-dagitim-egrileri.png": [
+  {
+   "no": 130,
+   "baslik": "Bütçe boyutları ve dağıtım eğrilerini tanımlama",
+   "x": 476,
+   "y": 321,
+   "w": 1412,
+   "h": 364
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-dagitim-egrileri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-ekipman-kategorileri.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-ekipman-kategorileri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-ucret-politikasi.png": [
+  {
+   "no": 131,
+   "baslik": "Ekipman kategorileri ve ücret politikasını tanımlama",
+   "x": 1774,
+   "y": 387,
+   "w": 114,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-ucret-politikasi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-ozel-alanlar.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-ozel-alanlar-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-butce-onay-akisi.png": [
+  {
+   "no": 132,
+   "baslik": "Bütçe özel alanlarını ve onay akışını tanımlama",
+   "x": 476,
+   "y": 225,
+   "w": 1412,
+   "h": 88
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/butce-yonetimi-butce-onay-akisi-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/performans-yonetimi-modul-bilesenleri.png": [
+  {
+   "no": 133,
+   "baslik": "Performans modül bileşenlerini açma veya kapatma",
+   "x": 489,
+   "y": 437,
+   "w": 389,
+   "h": 22
+  },
+  {
+   "no": 135,
+   "baslik": "Performans ayarlarında üst birime dönme",
+   "x": 537,
+   "y": 227,
+   "w": 97,
+   "h": 20
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/performans-yonetimi-modul-bilesenleri-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/performans-yonetimi-genel-kurallar.png": [
+  {
+   "no": 134,
+   "baslik": "Performans genel kurallarını düzenleme",
+   "x": 476,
+   "y": 206,
+   "w": 1412,
+   "h": 238
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/performans-yonetimi-genel-kurallar-2.png": [],
+ "ekranlar/birim-yonetimi-moduller/performans-yonetimi-is-akislari-ve-onaylar.png": [
+  {
+   "no": 136,
+   "baslik": "Performans onay akışını tanımlama",
+   "x": 1699,
+   "y": 269,
+   "w": 164,
+   "h": 32
+  }
+ ],
+ "ekranlar/birim-yonetimi-moduller/performans-yonetimi-is-akislari-ve-onaylar-2.png": [],
+ "ekranlar/bordro-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Bordro onay taleplerini görüntüleme",
+   "x": 232,
+   "y": 235,
+   "w": 213,
+   "h": 28
+  },
+  {
+   "no": 2,
+   "baslik": "Dönem tamamlama talebini onaylama",
+   "x": 232,
+   "y": 235,
+   "w": 213,
+   "h": 28
+  },
+  {
+   "no": 3,
+   "baslik": "Dönem tamamlama talebini reddetme",
+   "x": 232,
+   "y": 235,
+   "w": 213,
+   "h": 28
+  }
+ ],
+ "ekranlar/bordro-yonetimi/ek-kazanc-kesinti-girisleri.png": [
+  {
+   "no": 4,
+   "baslik": "Ek kazanç ve kesinti girişlerini görüntüleme ve filtreleme",
+   "x": 232,
+   "y": 400,
+   "w": 1656,
+   "h": 680
+  },
+  {
+   "no": 5,
+   "baslik": "Yeni ek kazanç veya kesinti girişi ekleme",
+   "x": 1746,
+   "y": 166,
+   "w": 142,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Girişi düzenleme veya silme",
+   "x": 1685,
+   "y": 459,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Excel ile toplu ek kazanç/kesinti girişi",
+   "x": 1340,
+   "y": 166,
+   "w": 171,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Yinelenen planları Excel ile yükleme",
+   "x": 1519,
+   "y": 166,
+   "w": 219,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/ek-kazanc-kesinti-girisleri-2.png": [],
+ "ekranlar/bordro-yonetimi/donemler.png": [
+  {
+   "no": 10,
+   "baslik": "Bordro dönemlerini görüntüleme ve arama",
+   "x": 245,
+   "y": 348,
+   "w": 363,
+   "h": 20
+  },
+  {
+   "no": 11,
+   "baslik": "Dönem açma",
+   "x": 1741,
+   "y": 271,
+   "w": 147,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Dönemdeki çalışanları ekleme veya çıkarma",
+   "x": 937,
+   "y": 710,
+   "w": 102,
+   "h": 19
+  },
+  {
+   "no": 13,
+   "baslik": "Bordroyu hesaplama",
+   "x": 1687,
+   "y": 517,
+   "w": 170,
+   "h": 40
+  },
+  {
+   "no": 14,
+   "baslik": "Ön bordro ve anomalileri inceleme",
+   "x": 670,
+   "y": 632,
+   "w": 178,
+   "h": 32
+  },
+  {
+   "no": 15,
+   "baslik": "Bordroyu onaya gönderme (Tamamlamaya Gönder)",
+   "x": 1158,
+   "y": 441,
+   "w": 64,
+   "h": 14
+  },
+  {
+   "no": 16,
+   "baslik": "Dönemi kapatma",
+   "x": 1336,
+   "y": 441,
+   "w": 27,
+   "h": 14
+  },
+  {
+   "no": 19,
+   "baslik": "Ek / fark bordrosu ile bordro düzeltme",
+   "x": 1563,
+   "y": 271,
+   "w": 170,
+   "h": 32
+  },
+  {
+   "no": 20,
+   "baslik": "Aralık icmali alma",
+   "x": 1427,
+   "y": 271,
+   "w": 128,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/puantaj.png": [
+  {
+   "no": 22,
+   "baslik": "Puantajı görüntüleme ve filtreleme",
+   "x": 232,
+   "y": 174,
+   "w": 135,
+   "h": 28
+  },
+  {
+   "no": 23,
+   "baslik": "Çalışan puantajını düzenleme ve kaydetme",
+   "x": 709,
+   "y": 651,
+   "w": 74,
+   "h": 20
+  },
+  {
+   "no": 26,
+   "baslik": "Tüm puantajları toplu kaydetme",
+   "x": 1647,
+   "y": 429,
+   "w": 117,
+   "h": 32
+  },
+  {
+   "no": 27,
+   "baslik": "Puantaj değişikliklerini geri alma veya sıfırlama",
+   "x": 1508,
+   "y": 166,
+   "w": 180,
+   "h": 32
+  },
+  {
+   "no": 28,
+   "baslik": "Excel ile toplu puantaj yükleme",
+   "x": 1301,
+   "y": 166,
+   "w": 199,
+   "h": 32
+  },
+  {
+   "no": 29,
+   "baslik": "Puantajı dışa aktarma",
+   "x": 1772,
+   "y": 429,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/puantaj-2.png": [
+  {
+   "no": 24,
+   "baslik": "Manuel ek mesai ekleme",
+   "x": 685,
+   "y": 392,
+   "w": 162,
+   "h": 24
+  },
+  {
+   "no": 25,
+   "baslik": "Puantaj üzerinden ödeme veya kesinti ekleme",
+   "x": 685,
+   "y": 909,
+   "w": 167,
+   "h": 24
+  }
+ ],
+ "ekranlar/bordro-yonetimi/puantaj-3.png": [],
+ "ekranlar/bordro-yonetimi/bordrolar.png": [
+  {
+   "no": 31,
+   "baslik": "Bordroları görüntüleme",
+   "x": 257,
+   "y": 445,
+   "w": 1606,
+   "h": 225
+  },
+  {
+   "no": 32,
+   "baslik": "Bordro pusulasını görüntüleme ve indirme",
+   "x": 1734,
+   "y": 504,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 34,
+   "baslik": "Bordro itirazlarını yanıtlama",
+   "x": 1157,
+   "y": 457,
+   "w": 261,
+   "h": 22
+  }
+ ],
+ "ekranlar/bordro-yonetimi/ucret-zam.png": [
+  {
+   "no": 36,
+   "baslik": "Ücretleri görüntüleme",
+   "x": 232,
+   "y": 335,
+   "w": 1656,
+   "h": 233
+  },
+  {
+   "no": 37,
+   "baslik": "Toplu zam veya ücret düzenleme",
+   "x": 1266,
+   "y": 275,
+   "w": 245,
+   "h": 32
+  },
+  {
+   "no": 38,
+   "baslik": "Ücret geçmişini görüntüleme ve ücrete bitiş tarihi verme",
+   "x": 1779,
+   "y": 392,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 39,
+   "baslik": "Excel ile toplu ücret girişi",
+   "x": 1519,
+   "y": 275,
+   "w": 171,
+   "h": 32
+  },
+  {
+   "no": 40,
+   "baslik": "Diğer toplu girişler (banka bilgisi, masraf yeri dağılımı)",
+   "x": 1699,
+   "y": 275,
+   "w": 189,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/mektuplar.png": [
+  {
+   "no": 41,
+   "baslik": "Mektup kampanyalarını görüntüleme",
+   "x": 232,
+   "y": 293,
+   "w": 1656,
+   "h": 94
+  },
+  {
+   "no": 42,
+   "baslik": "Mektup kampanyası oluşturma",
+   "x": 1758,
+   "y": 233,
+   "w": 130,
+   "h": 32
+  },
+  {
+   "no": 43,
+   "baslik": "Mektup alıcılarını düzenleme ve önizleme",
+   "x": 232,
+   "y": 293,
+   "w": 1656,
+   "h": 94
+  },
+  {
+   "no": 44,
+   "baslik": "Mektupları kesinleştirme ve gönderme",
+   "x": 232,
+   "y": 293,
+   "w": 1656,
+   "h": 94
+  },
+  {
+   "no": 45,
+   "baslik": "Mektup kampanyasını silme",
+   "x": 232,
+   "y": 293,
+   "w": 1656,
+   "h": 94
+  }
+ ],
+ "ekranlar/bordro-yonetimi/avans-yonetimi-talepler.png": [
+  {
+   "no": 46,
+   "baslik": "Avans taleplerini görüntüleme, filtreleme ve dışa aktarma",
+   "x": 232,
+   "y": 550,
+   "w": 1656,
+   "h": 374
+  },
+  {
+   "no": 49,
+   "baslik": "Avans taleplerinde toplu işlem",
+   "x": 1468,
+   "y": 295,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 56,
+   "baslik": "Avans talebini iptal etme",
+   "x": 1789,
+   "y": 613,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/avans-yonetimi-talepler-bekleyen-talepler.png": [
+  {
+   "no": 47,
+   "baslik": "Avans talebini onaylama",
+   "x": 1717,
+   "y": 613,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 48,
+   "baslik": "Avans talebini reddetme",
+   "x": 1753,
+   "y": 613,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/avans-yonetimi-ekip-avanslari.png": [
+  {
+   "no": 50,
+   "baslik": "Ekip avanslarını izleme",
+   "x": 232,
+   "y": 450,
+   "w": 1656,
+   "h": 630
+  }
+ ],
+ "ekranlar/bordro-yonetimi/avans-yonetimi-ekip-avanslari-2.png": [],
+ "ekranlar/bordro-yonetimi/avans-yonetimi-ekip-avanslari-bekleyen-talepler.png": [],
+ "ekranlar/bordro-yonetimi/avans-yonetimi-odeme-bekleyen.png": [
+  {
+   "no": 51,
+   "baslik": "Avans ödemesi yapma ve banka dosyası oluşturma",
+   "x": 1500,
+   "y": 295,
+   "w": 220,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/avans-yonetimi-mahsuplasma-talepleri.png": [
+  {
+   "no": 52,
+   "baslik": "Mahsuplaşma taleplerini onaylama veya reddetme",
+   "x": 232,
+   "y": 351,
+   "w": 1656,
+   "h": 214
+  },
+  {
+   "no": 53,
+   "baslik": "Çalışan adına mahsuplaşma kaydı ekleme",
+   "x": 232,
+   "y": 351,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/bordro-yonetimi/avans-yonetimi-ek-odeme-bekleyen.png": [
+  {
+   "no": 54,
+   "baslik": "Ek ödeme yapma",
+   "x": 232,
+   "y": 351,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/bordro-yonetimi/avans-yonetimi-kesilemeyen-taksitler.png": [
+  {
+   "no": 55,
+   "baslik": "Kesilemeyen avans taksitlerini devretme veya tahsil etmeden kapatma",
+   "x": 232,
+   "y": 351,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/bordro-yonetimi/kesilemeyen-kesintiler.png": [
+  {
+   "no": 57,
+   "baslik": "Kesilemeyen kesintileri izleme ve sonuçlandırma",
+   "x": 232,
+   "y": 442,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/bordro-yonetimi/icra-ve-alacakli-dosyalari.png": [
+  {
+   "no": 58,
+   "baslik": "İcra ve alacaklı dosyalarını görüntüleme",
+   "x": 232,
+   "y": 464,
+   "w": 1656,
+   "h": 214
+  },
+  {
+   "no": 59,
+   "baslik": "Yeni icra veya alacaklı dosyası ekleme",
+   "x": 1608,
+   "y": 234,
+   "w": 112,
+   "h": 30
+  },
+  {
+   "no": 60,
+   "baslik": "Dosyaya hareket ekleme, düzenleme ve silme",
+   "x": 232,
+   "y": 464,
+   "w": 1656,
+   "h": 214
+  },
+  {
+   "no": 61,
+   "baslik": "Dosya durumunu değiştirme",
+   "x": 232,
+   "y": 464,
+   "w": 1656,
+   "h": 214
+  },
+  {
+   "no": 62,
+   "baslik": "İcra dairesine bildirim kaydı",
+   "x": 232,
+   "y": 464,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/bordro-yonetimi/arsiv-bordrolar.png": [
+  {
+   "no": 63,
+   "baslik": "Arşiv bordrolarını görüntüleme ve indirme",
+   "x": 232,
+   "y": 281,
+   "w": 1656,
+   "h": 222
+  },
+  {
+   "no": 64,
+   "baslik": "Arşiv bordrosu yükleme",
+   "x": 1804,
+   "y": 229,
+   "w": 84,
+   "h": 32
+  },
+  {
+   "no": 65,
+   "baslik": "Toplu arşiv bordrosu yükleme",
+   "x": 1671,
+   "y": 229,
+   "w": 125,
+   "h": 32
+  },
+  {
+   "no": 66,
+   "baslik": "Arşiv bordrosunu silme",
+   "x": 232,
+   "y": 281,
+   "w": 1656,
+   "h": 222
+  }
+ ],
+ "ekranlar/bordro-yonetimi/hesaplayicilar-ve-karsiliklar-bordro-simulasyonu.png": [
+  {
+   "no": 67,
+   "baslik": "Bordro simülasyonu yapma",
+   "x": 590,
+   "y": 555,
+   "w": 109,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/hesaplayicilar-ve-karsiliklar-izin-karsiligi.png": [
+  {
+   "no": 68,
+   "baslik": "İzin karşılığı hesaplama",
+   "x": 499,
+   "y": 407,
+   "w": 102,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/hesaplayicilar-ve-karsiliklar-izin-karsiligi-2.png": [],
+ "ekranlar/bordro-yonetimi/hesaplayicilar-ve-karsiliklar-tazminat-hesaplayici-kidem-hes.png": [
+  {
+   "no": 69,
+   "baslik": "Kıdem tazminatı hesaplama",
+   "x": 438,
+   "y": 595,
+   "w": 80,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/hesaplayicilar-ve-karsiliklar-tazminat-hesaplayici-ihbar-hes.png": [
+  {
+   "no": 70,
+   "baslik": "İhbar tazminatı hesaplama",
+   "x": 257,
+   "y": 568,
+   "w": 80,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/hesaplayicilar-ve-karsiliklar-ihbar-borc-takibi.png": [
+  {
+   "no": 71,
+   "baslik": "İhbar borcu takibi",
+   "x": 1746,
+   "y": 295,
+   "w": 142,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/raporlar.png": [
+  {
+   "no": 72,
+   "baslik": "Bordro raporu alma",
+   "x": 675,
+   "y": 563,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 73,
+   "baslik": "Kıdem karşılığı raporu ve varsayımları",
+   "x": 237,
+   "y": 934,
+   "w": 392,
+   "h": 38
+  }
+ ],
+ "ekranlar/bordro-yonetimi/raporlar-2.png": [
+  {
+   "no": 74,
+   "baslik": "Muhasebe fişi oluşturma",
+   "x": 265,
+   "y": 687,
+   "w": 344,
+   "h": 40
+  },
+  {
+   "no": 75,
+   "baslik": "Muhasebe hesap eşleştirme",
+   "x": 265,
+   "y": 731,
+   "w": 344,
+   "h": 40
+  },
+  {
+   "no": 76,
+   "baslik": "Banka ödeme dosyası oluşturma",
+   "x": 265,
+   "y": 817,
+   "w": 344,
+   "h": 40
+  },
+  {
+   "no": 77,
+   "baslik": "Banka ödeme dosyasını onaylama, gönderme ve sonuçlandırma",
+   "x": 265,
+   "y": 817,
+   "w": 344,
+   "h": 40
+  },
+  {
+   "no": 78,
+   "baslik": "Banka dosya şablonlarını yönetme",
+   "x": 265,
+   "y": 905,
+   "w": 344,
+   "h": 40
+  }
+ ],
+ "ekranlar/bordro-yonetimi/sgk-bildirgeleri-bekleyen-ise-giris.png": [
+  {
+   "no": 79,
+   "baslik": "İşe giriş bildirgesi verme",
+   "x": 1784,
+   "y": 360,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 80,
+   "baslik": "Toplu SGK bildirimi ve XML indirme",
+   "x": 1659,
+   "y": 253,
+   "w": 229,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/sgk-bildirgeleri-bekleyen-ise-giris-2.png": [],
+ "ekranlar/bordro-yonetimi/sgk-bildirgeleri-bekleyen-isten-cikis.png": [
+  {
+   "no": 81,
+   "baslik": "İşten çıkış bildirgesi verme",
+   "x": 232,
+   "y": 451,
+   "w": 1656,
+   "h": 502
+  }
+ ],
+ "ekranlar/bordro-yonetimi/sgk-bildirgeleri-bildirilenler.png": [
+  {
+   "no": 82,
+   "baslik": "Bildirilen bildirgeleri görüntüleme ve belge indirme",
+   "x": 232,
+   "y": 347,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/bordro-yonetimi/sgk-bildirgeleri-muhsgk-muhtasar-beyanname.png": [
+  {
+   "no": 83,
+   "baslik": "Muhtasar ve prim hizmet beyannamesi (MUHSGK) hazırlama",
+   "x": 1689,
+   "y": 256,
+   "w": 199,
+   "h": 32
+  }
+ ],
+ "ekranlar/bordro-yonetimi/sgk-bildirgeleri-muhsgk-muhtasar-beyanname-2.png": [],
+ "ekranlar/butce-planlama/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Bütçe listesini görüntüleme, arama ve filtreleme",
+   "x": 232,
+   "y": 377,
+   "w": 1656,
+   "h": 184
+  },
+  {
+   "no": 2,
+   "baslik": "Liste sütunlarını özelleştirme",
+   "x": 232,
+   "y": 323,
+   "w": 143,
+   "h": 28
+  },
+  {
+   "no": 3,
+   "baslik": "Yeni bütçe oluşturma",
+   "x": 1770,
+   "y": 321,
+   "w": 118,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Çalışılacak bütçeyi seçme",
+   "x": 1801,
+   "y": 444,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Bütçeyi düzenleme",
+   "x": 232,
+   "y": 377,
+   "w": 1656,
+   "h": 184
+  },
+  {
+   "no": 6,
+   "baslik": "Bütçeyi silme",
+   "x": 232,
+   "y": 377,
+   "w": 1656,
+   "h": 184
+  }
+ ],
+ "ekranlar/butce-planlama/butceler-butce-ayarlari.png": [
+  {
+   "no": 7,
+   "baslik": "Bütçe kapsamına birim ekleme",
+   "x": 1750,
+   "y": 442,
+   "w": 113,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Kapsamdan birim çıkarma",
+   "x": 858,
+   "y": 646,
+   "w": 44,
+   "h": 22
+  },
+  {
+   "no": 9,
+   "baslik": "Para birimi ve kur varsayımı ekleme",
+   "x": 1783,
+   "y": 747,
+   "w": 80,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Kur varsayımını silme",
+   "x": 232,
+   "y": 734,
+   "w": 1656,
+   "h": 346
+  }
+ ],
+ "ekranlar/butce-planlama/butceler-butce-ayarlari-2.png": [],
+ "ekranlar/butce-planlama/butceler-onay.png": [
+  {
+   "no": 11,
+   "baslik": "Bütçeyi onaya gönderme",
+   "x": 1623,
+   "y": 167,
+   "w": 152,
+   "h": 23
+  },
+  {
+   "no": 12,
+   "baslik": "Bütçeyi onaylama",
+   "x": 232,
+   "y": 366,
+   "w": 1656,
+   "h": 236
+  },
+  {
+   "no": 13,
+   "baslik": "Bütçeyi reddetme",
+   "x": 232,
+   "y": 366,
+   "w": 1656,
+   "h": 236
+  },
+  {
+   "no": 14,
+   "baslik": "Onaya gönderilen bütçeyi geri çekme",
+   "x": 1623,
+   "y": 167,
+   "w": 152,
+   "h": 23
+  },
+  {
+   "no": 15,
+   "baslik": "Kilitli bütçenin kilidini açma",
+   "x": 1787,
+   "y": 162,
+   "w": 101,
+   "h": 32
+  },
+  {
+   "no": 16,
+   "baslik": "Onay zinciri, sürümler ve onay geçmişini görüntüleme",
+   "x": 232,
+   "y": 366,
+   "w": 1656,
+   "h": 236
+  }
+ ],
+ "ekranlar/butce-planlama/butceler-onay-2.png": [],
+ "ekranlar/butce-planlama/planlama-senaryolar.png": [
+  {
+   "no": 18,
+   "baslik": "Yeni senaryo oluşturma",
+   "x": 1775,
+   "y": 321,
+   "w": 113,
+   "h": 32
+  },
+  {
+   "no": 19,
+   "baslik": "Senaryoyu seçme",
+   "x": 1642,
+   "y": 501,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 20,
+   "baslik": "Senaryoyu çalıştırma (hesaplama)",
+   "x": 1678,
+   "y": 501,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 21,
+   "baslik": "Senaryoyu kopyalama",
+   "x": 1714,
+   "y": 501,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 22,
+   "baslik": "Senaryoyu esas senaryo yapma",
+   "x": 232,
+   "y": 433,
+   "w": 1656,
+   "h": 194
+  },
+  {
+   "no": 23,
+   "baslik": "Senaryoyu düzenleme veya silme",
+   "x": 1750,
+   "y": 501,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/butce-planlama/planlama-varsayimlar.png": [
+  {
+   "no": 24,
+   "baslik": "Zam veya prim kuralı ekleme",
+   "x": 331,
+   "y": 249,
+   "w": 77,
+   "h": 46
+  },
+  {
+   "no": 25,
+   "baslik": "Yasal parametre istisnası ekleme",
+   "x": 331,
+   "y": 249,
+   "w": 77,
+   "h": 46
+  },
+  {
+   "no": 26,
+   "baslik": "Planlanan işe alım ekleme",
+   "x": 331,
+   "y": 249,
+   "w": 77,
+   "h": 46
+  },
+  {
+   "no": 27,
+   "baslik": "Planlanan çıkış ekleme",
+   "x": 331,
+   "y": 249,
+   "w": 77,
+   "h": 46
+  },
+  {
+   "no": 28,
+   "baslik": "Devir ve boş kadro varsayımı ekleme",
+   "x": 331,
+   "y": 249,
+   "w": 77,
+   "h": 46
+  },
+  {
+   "no": 29,
+   "baslik": "Gider kalemi ekleme",
+   "x": 331,
+   "y": 249,
+   "w": 77,
+   "h": 46
+  }
+ ],
+ "ekranlar/butce-planlama/planlama-yan-hak-paketleri.png": [
+  {
+   "no": 30,
+   "baslik": "Yan hak paketi oluşturma",
+   "x": 436,
+   "y": 249,
+   "w": 116,
+   "h": 46
+  },
+  {
+   "no": 31,
+   "baslik": "Pakete yan hak kalemi ekleme",
+   "x": 436,
+   "y": 249,
+   "w": 116,
+   "h": 46
+  },
+  {
+   "no": 32,
+   "baslik": "Yan hak paketini birime, unvana veya kademeye atama",
+   "x": 436,
+   "y": 249,
+   "w": 116,
+   "h": 46
+  },
+  {
+   "no": 33,
+   "baslik": "Yan hak kapsam raporunu görüntüleme",
+   "x": 436,
+   "y": 249,
+   "w": 116,
+   "h": 46
+  }
+ ],
+ "ekranlar/butce-planlama/planlama-ekipman-zimmet.png": [
+  {
+   "no": 34,
+   "baslik": "Ekipman satırı ekleme",
+   "x": 580,
+   "y": 249,
+   "w": 123,
+   "h": 46
+  },
+  {
+   "no": 35,
+   "baslik": "Ekipman satırlarını otomatik üretme",
+   "x": 580,
+   "y": 249,
+   "w": 123,
+   "h": 46
+  }
+ ],
+ "ekranlar/butce-planlama/odenek-odenek-tahsisi-bakiye-takibi.png": [
+  {
+   "no": 36,
+   "baslik": "Bakiye takibini görüntüleme",
+   "x": 232,
+   "y": 690,
+   "w": 1656,
+   "h": 82
+  }
+ ],
+ "ekranlar/butce-planlama/odenek-odenek-tahsisi-tahsis-satirlari.png": [
+  {
+   "no": 37,
+   "baslik": "Yeni tahsis satırı ekleme",
+   "x": 1765,
+   "y": 702,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 38,
+   "baslik": "Tahsisi plandan devralma",
+   "x": 1386,
+   "y": 702,
+   "w": 148,
+   "h": 32
+  },
+  {
+   "no": 39,
+   "baslik": "Tahsisi geçen yıldan endeksleme",
+   "x": 1550,
+   "y": 702,
+   "w": 200,
+   "h": 32
+  },
+  {
+   "no": 40,
+   "baslik": "Tahsisi alt birimlere dağıtma",
+   "x": 232,
+   "y": 763,
+   "w": 1656,
+   "h": 104
+  }
+ ],
+ "ekranlar/butce-planlama/odenek-virman-talepler.png": [
+  {
+   "no": 41,
+   "baslik": "Yeni virman talebi oluşturma",
+   "x": 1761,
+   "y": 571,
+   "w": 127,
+   "h": 32
+  },
+  {
+   "no": 42,
+   "baslik": "Virman taleplerini listeleme ve filtreleme",
+   "x": 232,
+   "y": 632,
+   "w": 1656,
+   "h": 206
+  },
+  {
+   "no": 43,
+   "baslik": "Virman talebini iptal etme",
+   "x": 232,
+   "y": 632,
+   "w": 1656,
+   "h": 206
+  }
+ ],
+ "ekranlar/butce-planlama/odenek-virman-ekip-virmanlari.png": [
+  {
+   "no": 44,
+   "baslik": "Virman talebini onaylama veya reddetme",
+   "x": 232,
+   "y": 632,
+   "w": 1656,
+   "h": 206
+  }
+ ],
+ "ekranlar/butce-planlama/odenek-gerceklesen-gider-kayitlari.png": [
+  {
+   "no": 46,
+   "baslik": "Yeni gider kaydı girme",
+   "x": 1772,
+   "y": 156,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 47,
+   "baslik": "Gider kaydını düzenleme veya silme",
+   "x": 232,
+   "y": 217,
+   "w": 1656,
+   "h": 863
+  },
+  {
+   "no": 48,
+   "baslik": "Gider kayıtlarını aya göre filtreleme",
+   "x": 232,
+   "y": 217,
+   "w": 1656,
+   "h": 863
+  },
+  {
+   "no": 49,
+   "baslik": "Gerçekleşenleri modüllerden eşitleme",
+   "x": 1418,
+   "y": 156,
+   "w": 170,
+   "h": 32
+  },
+  {
+   "no": 50,
+   "baslik": "Excel'den gider aktarma",
+   "x": 1605,
+   "y": 156,
+   "w": 151,
+   "h": 32
+  },
+  {
+   "no": 51,
+   "baslik": "Eşleşmemiş giderleri hesap kalemine bağlama",
+   "x": 232,
+   "y": 217,
+   "w": 1656,
+   "h": 863
+  }
+ ],
+ "ekranlar/butce-planlama/odenek-gerceklesen-gider-kayitlari-2.png": [],
+ "ekranlar/butce-planlama/odenek-gerceklesen-donem-kapanisi.png": [
+  {
+   "no": 52,
+   "baslik": "Ayı kapatma (dönem kapanışı)",
+   "x": 1778,
+   "y": 547,
+   "w": 110,
+   "h": 32
+  },
+  {
+   "no": 53,
+   "baslik": "Kapatılan ayı yeniden açma",
+   "x": 1776,
+   "y": 655,
+   "w": 101,
+   "h": 32
+  }
+ ],
+ "ekranlar/butce-planlama/odenek-gerceklesen-donem-kapanisi-2.png": [],
+ "ekranlar/butce-planlama/odenek-taahhut.png": [
+  {
+   "no": 54,
+   "baslik": "Taahhütleri görüntüleme",
+   "x": 232,
+   "y": 441,
+   "w": 1656,
+   "h": 639
+  },
+  {
+   "no": 55,
+   "baslik": "Taahhüt kontrol ayarı tanımlama",
+   "x": 1756,
+   "y": 380,
+   "w": 132,
+   "h": 32
+  }
+ ],
+ "ekranlar/butce-planlama/odenek-taahhut-2.png": [],
+ "ekranlar/butce-planlama/odenek-taahhut-3.png": [],
+ "ekranlar/butce-planlama/odenek-hazirlik-durumu.png": [
+  {
+   "no": 56,
+   "baslik": "Birime bütçe sahibi atama",
+   "x": 1750,
+   "y": 557,
+   "w": 80,
+   "h": 32
+  },
+  {
+   "no": 57,
+   "baslik": "Birim bütçesini teslim etme",
+   "x": 232,
+   "y": 502,
+   "w": 1656,
+   "h": 104
+  },
+  {
+   "no": 58,
+   "baslik": "Teslim edilen birim bütçesini kabul etme veya iade etme",
+   "x": 232,
+   "y": 502,
+   "w": 1656,
+   "h": 104
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-sonuclar.png": [
+  {
+   "no": 59,
+   "baslik": "Senaryo sonuçlarını görüntüleme",
+   "x": 232,
+   "y": 249,
+   "w": 58,
+   "h": 46
+  },
+  {
+   "no": 60,
+   "baslik": "Senaryo sonuçlarını dışa aktarma",
+   "x": 232,
+   "y": 249,
+   "w": 58,
+   "h": 46
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-karsilastirma.png": [
+  {
+   "no": 61,
+   "baslik": "Senaryoları karşılaştırma",
+   "x": 1775,
+   "y": 321,
+   "w": 113,
+   "h": 32
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-butce-gerceklesen.png": [
+  {
+   "no": 62,
+   "baslik": "Bütçe ile gerçekleşeni karşılaştırma",
+   "x": 232,
+   "y": 433,
+   "w": 1656,
+   "h": 647
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-butce-gerceklesen-2.png": [],
+ "ekranlar/butce-planlama/analiz-revize-tahmin.png": [
+  {
+   "no": 63,
+   "baslik": "Yıl içi revize tahmini görüntüleme",
+   "x": 232,
+   "y": 481,
+   "w": 1656,
+   "h": 599
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-revize-tahmin-2.png": [],
+ "ekranlar/butce-planlama/analiz-sapma-koprusu-kopru.png": [
+  {
+   "no": 64,
+   "baslik": "Sapma köprüsünü inceleme",
+   "x": 232,
+   "y": 919,
+   "w": 1656,
+   "h": 161
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-sapma-koprusu-kopru-2.png": [],
+ "ekranlar/butce-planlama/analiz-sapma-koprusu-gerekce-incelemesi.png": [
+  {
+   "no": 65,
+   "baslik": "Sapma gerekçesi girme",
+   "x": 1791,
+   "y": 308,
+   "w": 80,
+   "h": 32
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-sapma-koprusu-gerekce-incelemesi-2.png": [
+  {
+   "no": 66,
+   "baslik": "Tolerans eşiği tanımlama",
+   "x": 232,
+   "y": 580,
+   "w": 1656,
+   "h": 22
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-sapma-koprusu-tahmin.png": [
+  {
+   "no": 67,
+   "baslik": "Yıl sonu tahmini hesaplama",
+   "x": 232,
+   "y": 422,
+   "w": 1656,
+   "h": 658
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-sapma-koprusu-tahmin-2.png": [],
+ "ekranlar/butce-planlama/analiz-what-if-ve-kiyaslama-what-if.png": [
+  {
+   "no": 68,
+   "baslik": "What-if denemesi yapma",
+   "x": 1636,
+   "y": 508,
+   "w": 135,
+   "h": 32
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-what-if-ve-kiyaslama-duyarlilik.png": [
+  {
+   "no": 69,
+   "baslik": "Duyarlılık analizini görüntüleme",
+   "x": 232,
+   "y": 776,
+   "w": 1656,
+   "h": 304
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-what-if-ve-kiyaslama-duyarlilik-2.png": [],
+ "ekranlar/butce-planlama/analiz-what-if-ve-kiyaslama-kiyaslama.png": [
+  {
+   "no": 70,
+   "baslik": "Kıyaslama tablosunu görüntüleme",
+   "x": 232,
+   "y": 539,
+   "w": 1656,
+   "h": 160
+  }
+ ],
+ "ekranlar/butce-planlama/analiz-ucret-simulasyonu.png": [
+  {
+   "no": 71,
+   "baslik": "Ücret simülasyonu yapma",
+   "x": 1613,
+   "y": 377,
+   "w": 109,
+   "h": 32
+  },
+  {
+   "no": 72,
+   "baslik": "Ücret simülasyonunu senaryoya aktarma",
+   "x": 1731,
+   "y": 377,
+   "w": 157,
+   "h": 32
+  },
+  {
+   "no": 73,
+   "baslik": "Ücret bantları ve merit matrisi tanımlama",
+   "x": 232,
+   "y": 595,
+   "w": 961,
+   "h": 297
+  }
+ ],
+ "ekranlar/butce-planlama/raporlar-raporlar.png": [
+  {
+   "no": 74,
+   "baslik": "Bütçe raporu çalıştırma",
+   "x": 1568,
+   "y": 423,
+   "w": 145,
+   "h": 32
+  },
+  {
+   "no": 75,
+   "baslik": "Rapor görünümünü kaydetme ve kayıtlı görünümü açma",
+   "x": 1721,
+   "y": 423,
+   "w": 167,
+   "h": 32
+  },
+  {
+   "no": 76,
+   "baslik": "Raporu dışa aktarma",
+   "x": 1772,
+   "y": 317,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/butce-planlama/raporlar-zamanlanmis-raporlar.png": [
+  {
+   "no": 77,
+   "baslik": "Zamanlanmış rapor oluşturma",
+   "x": 1731,
+   "y": 454,
+   "w": 157,
+   "h": 32
+  },
+  {
+   "no": 78,
+   "baslik": "Zamanlanmış raporu düzenleme, durdurma veya silme",
+   "x": 232,
+   "y": 515,
+   "w": 1656,
+   "h": 206
+  }
+ ],
+ "ekranlar/butce-planlama/butceler-butceler.png": [],
+ "ekranlar/butce-planlama/odenek-virman.png": [],
+ "ekranlar/calisani-goruntule/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Çalışan kartını açma",
+   "x": 245,
+   "y": 291,
+   "w": 128,
+   "h": 40
+  },
+  {
+   "no": 2,
+   "baslik": "Kişisel bilgilerde arama",
+   "x": 1477,
+   "y": 191,
+   "w": 200,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisani-goruntule/ana-2.png": [],
+ "ekranlar/calisani-goruntule/ana-3.png": [],
+ "ekranlar/calisani-goruntule/ana-4.png": [],
+ "ekranlar/calisani-goruntule/kisisel-bilgiler.png": [
+  {
+   "no": 3,
+   "baslik": "İletişim hızlı işlemleri (e-posta, arama, kopyalama)",
+   "x": 1093,
+   "y": 831,
+   "w": 153,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Alan değişiklik geçmişini görüntüleme",
+   "x": 283,
+   "y": 511,
+   "w": 73,
+   "h": 15
+  }
+ ],
+ "ekranlar/calisani-goruntule/kisisel-bilgiler-2.png": [
+  {
+   "no": 5,
+   "baslik": "Yüklenmiş belgeyi inceleme",
+   "x": 1473,
+   "y": 667,
+   "w": 88,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisani-goruntule/kisisel-bilgiler-3.png": [],
+ "ekranlar/calisani-goruntule/kisisel-bilgiler-4.png": [],
+ "ekranlar/calisani-goruntule/kariyer.png": [
+  {
+   "no": 12,
+   "baslik": "Organizasyon bilgilerini görüntüleme",
+   "x": 233,
+   "y": 291,
+   "w": 1654,
+   "h": 420
+  },
+  {
+   "no": 15,
+   "baslik": "Pozisyon geçmişini görüntüleme ve düzenleme",
+   "x": 1697,
+   "y": 304,
+   "w": 165,
+   "h": 32
+  },
+  {
+   "no": 16,
+   "baslik": "Pozisyon çakışmasını çözme",
+   "x": 1697,
+   "y": 304,
+   "w": 165,
+   "h": 32
+  },
+  {
+   "no": 17,
+   "baslik": "Sözleşmeleri yönetme",
+   "x": 1560,
+   "y": 304,
+   "w": 129,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisani-goruntule/kariyer-2.png": [],
+ "ekranlar/calisani-goruntule/aile-bilgileri.png": [
+  {
+   "no": 18,
+   "baslik": "Eş ve çocuk bilgilerini yönetme",
+   "x": 1636,
+   "y": 383,
+   "w": 95,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisani-goruntule/aile-bilgileri-2.png": [],
+ "ekranlar/calisani-goruntule/izin-talepleri.png": [
+  {
+   "no": 19,
+   "baslik": "İzin talepleri ve izin günü ekleme",
+   "x": 1502,
+   "y": 295,
+   "w": 142,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisani-goruntule/izin-talepleri-2.png": [],
+ "ekranlar/calisani-goruntule/bordro-bilgileri.png": [
+  {
+   "no": 30,
+   "baslik": "Bordro bilgilerini görüntüleme",
+   "x": 233,
+   "y": 147,
+   "w": 1654,
+   "h": 933
+  },
+  {
+   "no": 31,
+   "baslik": "Sabit ödemeleri güncelleme / zam yapma",
+   "x": 258,
+   "y": 639,
+   "w": 286,
+   "h": 32
+  },
+  {
+   "no": 32,
+   "baslik": "Ücret geçmişini görüntüleme",
+   "x": 258,
+   "y": 679,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 33,
+   "baslik": "Aylık bordroyu görüntüleme ve dışa aktarma",
+   "x": 233,
+   "y": 147,
+   "w": 1654,
+   "h": 933
+  },
+  {
+   "no": 34,
+   "baslik": "Yinelenen ek ödeme planı ekleme",
+   "x": 1754,
+   "y": 727,
+   "w": 108,
+   "h": 32
+  },
+  {
+   "no": 35,
+   "baslik": "Yinelenen ek ödeme planını düzenleme, ay atlama, bitirme ve silme",
+   "x": 278,
+   "y": 734,
+   "w": 157,
+   "h": 17
+  }
+ ],
+ "ekranlar/calisani-goruntule/bordro-bilgileri-2.png": [
+  {
+   "no": 36,
+   "baslik": "Hizmet tarihlerini (kıdem başlangıcı) düzenleme",
+   "x": 270,
+   "y": 746,
+   "w": 118,
+   "h": 24
+  },
+  {
+   "no": 37,
+   "baslik": "Önceki hizmet dönemi (kıdem) ekleme",
+   "x": 233,
+   "y": 622,
+   "w": 1654,
+   "h": 458
+  }
+ ],
+ "ekranlar/calisani-goruntule/bordro-bilgileri-3.png": [],
+ "ekranlar/calisani-goruntule/sgk-bilgileri.png": [
+  {
+   "no": 38,
+   "baslik": "SGK bilgilerini düzenleme",
+   "x": 1760,
+   "y": 192,
+   "w": 102,
+   "h": 32
+  },
+  {
+   "no": 39,
+   "baslik": "SGK bildirge geçmişini görüntüleme ve PDF indirme",
+   "x": 258,
+   "y": 466,
+   "w": 1604,
+   "h": 24
+  }
+ ],
+ "ekranlar/calisani-goruntule/sgk-bilgileri-2.png": [],
+ "ekranlar/calisani-goruntule/ek-mesai-talepleri.png": [
+  {
+   "no": 20,
+   "baslik": "Ek mesai kaydı ekleme",
+   "x": 1682,
+   "y": 242,
+   "w": 180,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisani-goruntule/ek-mesai-talepleri-2.png": [],
+ "ekranlar/calisani-goruntule/zimmetler.png": [
+  {
+   "no": 21,
+   "baslik": "Zimmetleri ve seyahatleri görüntüleme",
+   "x": 258,
+   "y": 434,
+   "w": 1604,
+   "h": 326
+  }
+ ],
+ "ekranlar/calisani-goruntule/zimmetler-2.png": [],
+ "ekranlar/calisani-goruntule/seyahatler.png": [],
+ "ekranlar/calisani-goruntule/seyahatler-2.png": [],
+ "ekranlar/calisani-goruntule/masraflar.png": [
+  {
+   "no": 22,
+   "baslik": "Masrafları görüntüleme, masraf kaydı ekleme ve karar verme",
+   "x": 258,
+   "y": 449,
+   "w": 1604,
+   "h": 612
+  }
+ ],
+ "ekranlar/calisani-goruntule/masraflar-2.png": [],
+ "ekranlar/calisani-goruntule/performans.png": [
+  {
+   "no": 23,
+   "baslik": "Performans geçmişini inceleme",
+   "x": 233,
+   "y": 291,
+   "w": 1654,
+   "h": 335
+  }
+ ],
+ "ekranlar/calisani-goruntule/performans-2.png": [],
+ "ekranlar/calisani-goruntule/gorevler.png": [
+  {
+   "no": 24,
+   "baslik": "Görev atama ve görevleri yönetme",
+   "x": 1749,
+   "y": 303,
+   "w": 113,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisani-goruntule/gorevler-2.png": [],
+ "ekranlar/calisani-goruntule/puantaj.png": [
+  {
+   "no": 25,
+   "baslik": "Puantajı görüntüleme",
+   "x": 258,
+   "y": 227,
+   "w": 1604,
+   "h": 853
+  }
+ ],
+ "ekranlar/calisani-goruntule/puantaj-2.png": [],
+ "ekranlar/calisani-goruntule/dokuman-talepleri.png": [
+  {
+   "no": 26,
+   "baslik": "Doküman taleplerini ve dokümanları görüntüleme",
+   "x": 258,
+   "y": 514,
+   "w": 1604,
+   "h": 395
+  }
+ ],
+ "ekranlar/calisani-goruntule/dokuman-talepleri-2.png": [],
+ "ekranlar/calisani-goruntule/dokumanlar.png": [],
+ "ekranlar/calisani-goruntule/dokumanlar-2.png": [],
+ "ekranlar/calisani-goruntule/calisan-uyarilari.png": [
+  {
+   "no": 27,
+   "baslik": "Çalışanı uyarma",
+   "x": 1727,
+   "y": 303,
+   "w": 135,
+   "h": 32
+  },
+  {
+   "no": 28,
+   "baslik": "Uyarı detayını görme, belgesini indirme ve uyarıyı silme",
+   "x": 1726,
+   "y": 430,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisani-goruntule/calisan-uyarilari-2.png": [],
+ "ekranlar/calisani-goruntule/ise-giris-cikis.png": [
+  {
+   "no": 29,
+   "baslik": "İşe giriş sürecini başlatma ve süreçleri görme",
+   "x": 258,
+   "y": 371,
+   "w": 1604,
+   "h": 159
+  }
+ ],
+ "ekranlar/calisani-goruntule/ise-giris-cikis-2.png": [],
+ "ekranlar/calisani-duzenle/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Düzenleme sayfasını açma",
+   "x": 257,
+   "y": 315,
+   "w": 107,
+   "h": 46
+  },
+  {
+   "no": 2,
+   "baslik": "Temel bilgileri güncelleme",
+   "x": 257,
+   "y": 377,
+   "w": 1606,
+   "h": 378
+  },
+  {
+   "no": 5,
+   "baslik": "Şirkete özel bilgi alanlarını güncelleme",
+   "x": 534,
+   "y": 315,
+   "w": 169,
+   "h": 46
+  },
+  {
+   "no": 7,
+   "baslik": "Kaydedilmemiş değişiklikleri atma",
+   "x": 1444,
+   "y": 1008,
+   "w": 316,
+   "h": 48
+  }
+ ],
+ "ekranlar/calisani-duzenle/ana-2.png": [],
+ "ekranlar/calisani-duzenle/bordro-bilgileri.png": [
+  {
+   "no": 8,
+   "baslik": "Maaş tipi, ücret bazı ve aylık çalışma gününü değiştirme",
+   "x": 257,
+   "y": 152,
+   "w": 78,
+   "h": 22
+  },
+  {
+   "no": 9,
+   "baslik": "Sabit ödemeleri girme",
+   "x": 280,
+   "y": 324,
+   "w": 150,
+   "h": 25
+  },
+  {
+   "no": 10,
+   "baslik": "Bordro profillerini atama",
+   "x": 279,
+   "y": 892,
+   "w": 152,
+   "h": 25
+  },
+  {
+   "no": 11,
+   "baslik": "Geçmiş kümülatif vergi matrahını girme",
+   "x": 273,
+   "y": 679,
+   "w": 273,
+   "h": 25
+  },
+  {
+   "no": 12,
+   "baslik": "Varsayılan kanun / teşvik ve vergi istisnası seçme",
+   "x": 277,
+   "y": 989,
+   "w": 204,
+   "h": 25
+  }
+ ],
+ "ekranlar/calisani-duzenle/bordro-bilgileri-2.png": [
+  {
+   "no": 13,
+   "baslik": "Bireysel Emeklilik (BES) bilgilerini girme",
+   "x": 273,
+   "y": 302,
+   "w": 271,
+   "h": 25
+  }
+ ],
+ "ekranlar/calisani-duzenle/bordro-bilgileri-3.png": [],
+ "ekranlar/isten-cikarma-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "İşten çıkarılan çalışanları listeleme",
+   "x": 232,
+   "y": 298,
+   "w": 1656,
+   "h": 191
+  },
+  {
+   "no": 2,
+   "baslik": "Çalışan arama",
+   "x": 257,
+   "y": 177,
+   "w": 390,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Listeyi filtreleme",
+   "x": 675,
+   "y": 178,
+   "w": 366,
+   "h": 30
+  },
+  {
+   "no": 4,
+   "baslik": "Çıkış detayını görüntüleme",
+   "x": 1731,
+   "y": 383,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Ayrılan çalışanın kartını açma",
+   "x": 1771,
+   "y": 383,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Ayrılan çalışanı yeniden işe alma",
+   "x": 1771,
+   "y": 383,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisan-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Çalışan listesini görüntüleme",
+   "x": 232,
+   "y": 237,
+   "w": 318,
+   "h": 286
+  },
+  {
+   "no": 2,
+   "baslik": "Çalışan arama",
+   "x": 247,
+   "y": 167,
+   "w": 380,
+   "h": 38
+  },
+  {
+   "no": 3,
+   "baslik": "Çalışanları filtreleme",
+   "x": 643,
+   "y": 167,
+   "w": 94,
+   "h": 38
+  },
+  {
+   "no": 4,
+   "baslik": "Listeyi sıralama",
+   "x": 765,
+   "y": 174,
+   "w": 196,
+   "h": 30
+  },
+  {
+   "no": 7,
+   "baslik": "Çalışana kullanıcı hesabı oluşturma",
+   "x": 819,
+   "y": 247,
+   "w": 34,
+   "h": 34
+  }
+ ],
+ "ekranlar/calisan-yonetimi/ana-2.png": [],
+ "ekranlar/calisan-yonetimi/islemler-menusu.png": [
+  {
+   "no": 6,
+   "baslik": "Yeni çalışan ekleme",
+   "x": 1638,
+   "y": 98,
+   "w": 118,
+   "h": 32
+  },
+  {
+   "no": 24,
+   "baslik": "Çalışan listesini dışa aktarma",
+   "x": 1642,
+   "y": 170,
+   "w": 196,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisan-yonetimi/islemler-menusu-2.png": [],
+ "ekranlar/dokuman-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Talep özetini ve listeleri görüntüleme",
+   "x": 232,
+   "y": 514,
+   "w": 1656,
+   "h": 392
+  },
+  {
+   "no": 13,
+   "baslik": "Toplu İşlem",
+   "x": 1325,
+   "y": 221,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 14,
+   "baslik": "Talep listelerini dışa aktarma",
+   "x": 1772,
+   "y": 221,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokuman-yonetimi/talepler-yonetim-dokuman-talepleri.png": [
+  {
+   "no": 2,
+   "baslik": "Çalışandan belge isteme (Talep Oluştur)",
+   "x": 1628,
+   "y": 221,
+   "w": 136,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Çalışanın yüklediği belgeyi onaylama veya reddetme",
+   "x": 1651,
+   "y": 565,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Bekleyen belge talepleri için hatırlatma gönderme",
+   "x": 1325,
+   "y": 221,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Belgeyi inceleme ve indirme",
+   "x": 1723,
+   "y": 565,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Talep detaylarını görüntüleme",
+   "x": 1759,
+   "y": 565,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokuman-yonetimi/talepler-calisan-dokuman-talepleri.png": [
+  {
+   "no": 6,
+   "baslik": "Çalışanın istediği belgeyi hazırlayıp onaylama",
+   "x": 1706,
+   "y": 567,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Belgeyi şablondan oluşturma",
+   "x": 1706,
+   "y": 567,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Çalışanın belge talebini reddetme",
+   "x": 1742,
+   "y": 567,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokuman-yonetimi/talepler-yonetim-tarafindan-gonderilen.png": [
+  {
+   "no": 9,
+   "baslik": "Çalışana belge gönderme (Doküman Gönder)",
+   "x": 1456,
+   "y": 221,
+   "w": 164,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokuman-yonetimi/talepler-calisan-tarafindan-gonderilen.png": [
+  {
+   "no": 10,
+   "baslik": "Çalışanın gönderdiği belgeyi onaylama veya reddetme",
+   "x": 1713,
+   "y": 589,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokuman-yonetimi/ekip-dosyalari.png": [
+  {
+   "no": 15,
+   "baslik": "Ekip dosyalarını görüntüleme ve filtreleme",
+   "x": 232,
+   "y": 269,
+   "w": 1656,
+   "h": 771
+  },
+  {
+   "no": 16,
+   "baslik": "Çalışanın dosyalarını inceleme",
+   "x": 1818,
+   "y": 322,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 17,
+   "baslik": "Ekip dosyalarında toplu işlemler",
+   "x": 1252,
+   "y": 217,
+   "w": 140,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokuman-yonetimi/ekip-dosyalari-2.png": [],
+ "ekranlar/dokuman-yonetimi/sirket-dosyalari.png": [
+  {
+   "no": 18,
+   "baslik": "Şirket dosyası yükleme (Yeni Dosya)",
+   "x": 1766,
+   "y": 221,
+   "w": 122,
+   "h": 32
+  },
+  {
+   "no": 19,
+   "baslik": "Şirket dosyasını görüntüleme, düzenleme ve silme",
+   "x": 1691,
+   "y": 320,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokuman-yonetimi/talepler.png": [],
+ "ekranlar/duyurular/ana.png": [
+  {
+   "no": 5,
+   "baslik": "Yeni duyuru oluşturma",
+   "x": 1740,
+   "y": 96,
+   "w": 148,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Duyuru alıcılarını seçme (departman / pozisyon / kişi)",
+   "x": 1740,
+   "y": 96,
+   "w": 148,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Duyuruya dosya ekleme",
+   "x": 1740,
+   "y": 96,
+   "w": 148,
+   "h": 32
+  }
+ ],
+ "ekranlar/duyurular/gelen-duyurular.png": [
+  {
+   "no": 1,
+   "baslik": "Gelen duyuruları listeleme",
+   "x": 257,
+   "y": 240,
+   "w": 1606,
+   "h": 340
+  },
+  {
+   "no": 2,
+   "baslik": "Duyuruyu okuma (Detaylar)",
+   "x": 1701,
+   "y": 287,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Duyuru ekini indirme",
+   "x": 1701,
+   "y": 287,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/duyurular/giden-duyurular.png": [
+  {
+   "no": 8,
+   "baslik": "Giden duyuruları ve okunma durumunu izleme",
+   "x": 257,
+   "y": 240,
+   "w": 1606,
+   "h": 202
+  },
+  {
+   "no": 9,
+   "baslik": "Duyuruyu düzenleme",
+   "x": 257,
+   "y": 240,
+   "w": 1606,
+   "h": 202
+  },
+  {
+   "no": 10,
+   "baslik": "Duyuruyu silme veya alıcı çıkarma",
+   "x": 257,
+   "y": 240,
+   "w": 1606,
+   "h": 202
+  }
+ ],
+ "ekranlar/anketler/ana.png": [
+  {
+   "no": 5,
+   "baslik": "Yeni anket oluşturma",
+   "x": 1750,
+   "y": 96,
+   "w": 138,
+   "h": 32
+  }
+ ],
+ "ekranlar/anketler/gelen-anketler.png": [
+  {
+   "no": 1,
+   "baslik": "Gelen anketleri listeleme",
+   "x": 232,
+   "y": 215,
+   "w": 1656,
+   "h": 269
+  },
+  {
+   "no": 2,
+   "baslik": "Anketi yanıtlama",
+   "x": 1778,
+   "y": 266,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Verdiğim cevapları görüntüleme",
+   "x": 1778,
+   "y": 266,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/anketler/gonderilen-anketler.png": [
+  {
+   "no": 11,
+   "baslik": "Gönderilen anketleri listeleme ve filtreleme",
+   "x": 232,
+   "y": 263,
+   "w": 1656,
+   "h": 275
+  },
+  {
+   "no": 12,
+   "baslik": "Alıcı listesini görme",
+   "x": 232,
+   "y": 263,
+   "w": 1656,
+   "h": 275
+  },
+  {
+   "no": 13,
+   "baslik": "Anket sonuçlarını görme",
+   "x": 1796,
+   "y": 315,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 16,
+   "baslik": "Anketi düzenleme veya silme",
+   "x": 232,
+   "y": 263,
+   "w": 1656,
+   "h": 275
+  }
+ ],
+ "ekranlar/anketler/zamanlanmis-anketler.png": [
+  {
+   "no": 17,
+   "baslik": "Zamanlanmış anketleri listeleme",
+   "x": 232,
+   "y": 215,
+   "w": 1656,
+   "h": 206
+  },
+  {
+   "no": 18,
+   "baslik": "Zamanlamayı açma / kapatma",
+   "x": 232,
+   "y": 215,
+   "w": 1656,
+   "h": 206
+  },
+  {
+   "no": 19,
+   "baslik": "Zamanlamayı düzenleme",
+   "x": 232,
+   "y": 215,
+   "w": 1656,
+   "h": 206
+  },
+  {
+   "no": 20,
+   "baslik": "Zamanlamayı silme",
+   "x": 232,
+   "y": 215,
+   "w": 1656,
+   "h": 206
+  }
+ ],
+ "ekranlar/ek-mesai-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Ek mesai taleplerini görüntüleme",
+   "x": 232,
+   "y": 480,
+   "w": 1656,
+   "h": 392
+  },
+  {
+   "no": 2,
+   "baslik": "Talepleri arama ve filtreleme",
+   "x": 1604,
+   "y": 225,
+   "w": 156,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Talep detayını görüntüleme",
+   "x": 1820,
+   "y": 531,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Talebi PDF olarak indirme",
+   "x": 1820,
+   "y": 531,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Toplu onay / ret (Toplu İşlem)",
+   "x": 1468,
+   "y": 225,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Talep listesini dışa aktarma",
+   "x": 1772,
+   "y": 225,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/ek-mesai-yonetimi/talepler-bekleyen-talepler.png": [
+  {
+   "no": 5,
+   "baslik": "Ek mesai talebini onaylama",
+   "x": 1748,
+   "y": 531,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Ek mesai talebini reddetme",
+   "x": 1784,
+   "y": 531,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/ek-mesai-yonetimi/ekip-ek-mesaileri-ek-mesai-takvimi.png": [
+  {
+   "no": 9,
+   "baslik": "Ekip ek mesai takvimini görüntüleme",
+   "x": 465,
+   "y": 344,
+   "w": 14,
+   "h": 14
+  }
+ ],
+ "ekranlar/ek-mesai-yonetimi/ekip-ek-mesaileri-tum-talepler.png": [
+  {
+   "no": 10,
+   "baslik": "Ekip taleplerini listeleme ve filtreleme",
+   "x": 232,
+   "y": 326,
+   "w": 1656,
+   "h": 754
+  }
+ ],
+ "ekranlar/ek-mesai-yonetimi/ekip-ek-mesaileri-tum-talepler-2.png": [],
+ "ekranlar/ek-mesai-yonetimi/ekip-ek-mesaileri-bekleyen-talepler.png": [],
+ "ekranlar/ek-mesai-yonetimi/raporlar.png": [
+  {
+   "no": 11,
+   "baslik": "Departman ek mesai raporunu inceleme",
+   "x": 232,
+   "y": 407,
+   "w": 1656,
+   "h": 235
+  },
+  {
+   "no": 12,
+   "baslik": "En çok ek mesai yapan çalışanları görme",
+   "x": 232,
+   "y": 666,
+   "w": 1656,
+   "h": 220
+  }
+ ],
+ "ekranlar/ek-mesai-yonetimi/calisan-ek-mesaileri-ek-mesai-ozeti.png": [
+  {
+   "no": 13,
+   "baslik": "Çalışan ek mesai özetini görüntüleme",
+   "x": 257,
+   "y": 440,
+   "w": 1606,
+   "h": 225
+  },
+  {
+   "no": 14,
+   "baslik": "Tamamlanan ek mesaileri dışa aktarma",
+   "x": 1563,
+   "y": 356,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 15,
+   "baslik": "Çalışanlar adına ek mesai girişi ekleme",
+   "x": 1687,
+   "y": 356,
+   "w": 176,
+   "h": 32
+  },
+  {
+   "no": 16,
+   "baslik": "Tek bir çalışana ek mesai atama",
+   "x": 1713,
+   "y": 549,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 17,
+   "baslik": "Ek mesai gününü düzenleme",
+   "x": 1713,
+   "y": 549,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 18,
+   "baslik": "Ek mesai kaydını veya tek bir gününü silme",
+   "x": 1713,
+   "y": 549,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/ek-mesai-yonetimi/talepler.png": [],
+ "ekranlar/gorev-yonetimi/ana.png": [
+  {
+   "no": 3,
+   "baslik": "Çalışana görev atama",
+   "x": 1647,
+   "y": 96,
+   "w": 113,
+   "h": 32
+  },
+  {
+   "no": 14,
+   "baslik": "Görev raporunu dışa aktarma",
+   "x": 1772,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 15,
+   "baslik": "Kendi görevlerinize geçiş",
+   "x": 1060,
+   "y": 96,
+   "w": 120,
+   "h": 32
+  }
+ ],
+ "ekranlar/gorev-yonetimi/ana-2.png": [],
+ "ekranlar/gorev-yonetimi/takvim.png": [
+  {
+   "no": 1,
+   "baslik": "Ekip takvimini görüntüleme",
+   "x": 232,
+   "y": 152,
+   "w": 1656,
+   "h": 928
+  },
+  {
+   "no": 4,
+   "baslik": "Atanmış görevi düzenleme",
+   "x": 988,
+   "y": 516,
+   "w": 205,
+   "h": 16
+  },
+  {
+   "no": 5,
+   "baslik": "Göreve çalışan ekleme",
+   "x": 988,
+   "y": 516,
+   "w": 205,
+   "h": 16
+  },
+  {
+   "no": 6,
+   "baslik": "Görev adımlarını düzenleme",
+   "x": 988,
+   "y": 516,
+   "w": 205,
+   "h": 16
+  },
+  {
+   "no": 7,
+   "baslik": "Adım durumunu güncelleme",
+   "x": 988,
+   "y": 516,
+   "w": 205,
+   "h": 16
+  },
+  {
+   "no": 8,
+   "baslik": "Görevi silme",
+   "x": 988,
+   "y": 516,
+   "w": 205,
+   "h": 16
+  },
+  {
+   "no": 20,
+   "baslik": "Çalışan takvim rengini belirleme",
+   "x": 300,
+   "y": 251,
+   "w": 57,
+   "h": 19
+  }
+ ],
+ "ekranlar/gorev-yonetimi/takvim-2.png": [],
+ "ekranlar/gorev-yonetimi/talepler.png": [
+  {
+   "no": 9,
+   "baslik": "Görev taleplerini listeleme ve filtreleme",
+   "x": 232,
+   "y": 480,
+   "w": 1656,
+   "h": 527
+  },
+  {
+   "no": 12,
+   "baslik": "Toplu onaylama ve reddetme",
+   "x": 1468,
+   "y": 225,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 13,
+   "baslik": "Talep listesini dışa aktarma",
+   "x": 1772,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/gorev-yonetimi/talepler-bekleyen.png": [
+  {
+   "no": 2,
+   "baslik": "Görev detayını görüntüleme",
+   "x": 1842,
+   "y": 533,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Görev gününü onaylama",
+   "x": 1770,
+   "y": 533,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Görev gününü reddetme",
+   "x": 1806,
+   "y": 533,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/izin-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "İzin taleplerini görüntüleme",
+   "x": 232,
+   "y": 480,
+   "w": 1656,
+   "h": 491
+  },
+  {
+   "no": 2,
+   "baslik": "Talep arama ve filtreleme",
+   "x": 1604,
+   "y": 225,
+   "w": 156,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Talep detayını görüntüleme",
+   "x": 1830,
+   "y": 555,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Toplu onay / ret (Toplu İşlem)",
+   "x": 1468,
+   "y": 225,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Talepleri dışa aktarma",
+   "x": 1772,
+   "y": 225,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "İzin belgesi (talep formu) çıktısı alma",
+   "x": 1830,
+   "y": 555,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/izin-yonetimi/talepler-bekleyen-talepler.png": [
+  {
+   "no": 4,
+   "baslik": "İzin talebini onaylama",
+   "x": 1758,
+   "y": 555,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "İzin talebini reddetme",
+   "x": 1794,
+   "y": 555,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/izin-yonetimi/ekip-izinleri-izin-takvimi.png": [
+  {
+   "no": 9,
+   "baslik": "Ekip izin takvimini görüntüleme",
+   "x": 465,
+   "y": 344,
+   "w": 14,
+   "h": 14
+  }
+ ],
+ "ekranlar/izin-yonetimi/ekip-izinleri-tum-talepler.png": [
+  {
+   "no": 10,
+   "baslik": "Ekip taleplerini listeleme ve arama",
+   "x": 232,
+   "y": 260,
+   "w": 1656,
+   "h": 820
+  },
+  {
+   "no": 11,
+   "baslik": "Çalışan adına izin girme (Toplu İşlem)",
+   "x": 1765,
+   "y": 102,
+   "w": 123,
+   "h": 32
+  }
+ ],
+ "ekranlar/izin-yonetimi/ekip-izinleri-tum-talepler-2.png": [],
+ "ekranlar/izin-yonetimi/ekip-izinleri-bekleyen-talepler.png": [],
+ "ekranlar/izin-yonetimi/izin-bakiyeleri-bakiyeler.png": [
+  {
+   "no": 12,
+   "baslik": "Çalışan izin bakiyelerini görüntüleme",
+   "x": 257,
+   "y": 366,
+   "w": 1606,
+   "h": 686
+  },
+  {
+   "no": 13,
+   "baslik": "Çalışanın izin hareketlerini (defterini) inceleme",
+   "x": 1812,
+   "y": 475,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 14,
+   "baslik": "İzin günü ekleme (hak ediş ekleme)",
+   "x": 852,
+   "y": 225,
+   "w": 142,
+   "h": 32
+  },
+  {
+   "no": 15,
+   "baslik": "Kullanılan izin ekleme",
+   "x": 1002,
+   "y": 225,
+   "w": 170,
+   "h": 32
+  },
+  {
+   "no": 16,
+   "baslik": "Hak ediş veya kullanım kaydını düzenleme / silme",
+   "x": 1812,
+   "y": 475,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 17,
+   "baslik": "Bakiyeleri dışa aktarma",
+   "x": 1179,
+   "y": 225,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 18,
+   "baslik": "Tahmini (ileri tarihli) bakiye görüntüleme",
+   "x": 1797,
+   "y": 227,
+   "w": 66,
+   "h": 28
+  }
+ ],
+ "ekranlar/izin-yonetimi/izin-bakiyeleri-bakiyeler-2.png": [],
+ "ekranlar/izin-yonetimi/izin-bakiyeleri-degisiklik-gecmisi.png": [
+  {
+   "no": 19,
+   "baslik": "Değişiklik geçmişini inceleme ve filtreleme",
+   "x": 232,
+   "y": 488,
+   "w": 1656,
+   "h": 326
+  },
+  {
+   "no": 20,
+   "baslik": "Bekleyen değişikliği zorla onaylama / reddetme",
+   "x": 232,
+   "y": 488,
+   "w": 1656,
+   "h": 326
+  },
+  {
+   "no": 21,
+   "baslik": "Bekleyen değişikliği geri çekme veya hatırlatma gönderme (Toplu İşlem)",
+   "x": 1641,
+   "y": 427,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 22,
+   "baslik": "Değişiklik geçmişini dışa aktarma",
+   "x": 1772,
+   "y": 427,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/izin-yonetimi/bakiye-duzeltme-izin-yeniden-hesaplama.png": [
+  {
+   "no": 23,
+   "baslik": "İzin yeniden hesaplama",
+   "x": 1737,
+   "y": 406,
+   "w": 125,
+   "h": 32
+  }
+ ],
+ "ekranlar/izin-yonetimi/bakiye-duzeltme-bakiye-aktarimi-aktarim.png": [
+  {
+   "no": 24,
+   "baslik": "Bakiye aktarımı (departman değişikliğinde)",
+   "x": 232,
+   "y": 397,
+   "w": 1656,
+   "h": 94
+  }
+ ],
+ "ekranlar/izin-yonetimi/bakiye-duzeltme-bakiye-aktarimi-gecmis.png": [
+  {
+   "no": 25,
+   "baslik": "Aktarım geçmişini görüntüleme",
+   "x": 232,
+   "y": 501,
+   "w": 1656,
+   "h": 94
+  }
+ ],
+ "ekranlar/izin-yonetimi/talepler.png": [],
+ "ekranlar/izin-yonetimi/ekip-izinleri.png": [],
+ "ekranlar/masraf-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Onayınızı bekleyen talepleri görüntüleme",
+   "x": 232,
+   "y": 480,
+   "w": 1656,
+   "h": 600
+  },
+  {
+   "no": 2,
+   "baslik": "Talepleri arama ve filtreleme",
+   "x": 1604,
+   "y": 225,
+   "w": 156,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Masraf talebinin detayını görme",
+   "x": 1833,
+   "y": 531,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Toplu onay / ret",
+   "x": 1468,
+   "y": 225,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Talepleri dışa aktarma",
+   "x": 1772,
+   "y": 225,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Geri ödemeleri takip etme",
+   "x": 512,
+   "y": 153,
+   "w": 146,
+   "h": 46
+  }
+ ],
+ "ekranlar/masraf-yonetimi/ana-2.png": [],
+ "ekranlar/masraf-yonetimi/talepler-bekleyen-talepler.png": [
+  {
+   "no": 4,
+   "baslik": "Masraf talebini onaylama",
+   "x": 1761,
+   "y": 531,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Masraf talebini reddetme",
+   "x": 1797,
+   "y": 531,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/masraf-yonetimi/ekip-masraflari.png": [
+  {
+   "no": 8,
+   "baslik": "Ekip masraflarını görüntüleme ve filtreleme",
+   "x": 232,
+   "y": 417,
+   "w": 1656,
+   "h": 663
+  },
+  {
+   "no": 9,
+   "baslik": "Onaylayanlara hatırlatma gönderme",
+   "x": 1303,
+   "y": 162,
+   "w": 110,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Çalışan adına masraf kaydı ekleme",
+   "x": 1722,
+   "y": 162,
+   "w": 166,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Ekip masraflarını dışa aktarma",
+   "x": 1594,
+   "y": 162,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/masraf-yonetimi/ekip-masraflari-2.png": [],
+ "ekranlar/masraf-yonetimi/ekip-masraflari-bekleyen-talepler.png": [],
+ "ekranlar/masraf-yonetimi/ekip-masraflari-bekleyen-talepler-2.png": [],
+ "ekranlar/masraf-yonetimi/ekip-masraflari-iptal-edilen-talepler.png": [],
+ "ekranlar/masraf-yonetimi/geri-odemeler-odeme-bekleyen.png": [
+  {
+   "no": 13,
+   "baslik": "Masrafları ödendi olarak işaretleme",
+   "x": 1717,
+   "y": 211,
+   "w": 171,
+   "h": 32
+  }
+ ],
+ "ekranlar/masraf-yonetimi/geri-odemeler-odeme-bekleyen-2.png": [],
+ "ekranlar/masraf-yonetimi/geri-odemeler-odenen.png": [
+  {
+   "no": 14,
+   "baslik": "Ödendi işaretini geri alma",
+   "x": 232,
+   "y": 536,
+   "w": 1656,
+   "h": 94
+  }
+ ],
+ "ekranlar/masraf-yonetimi/masraf-raporlari.png": [
+  {
+   "no": 16,
+   "baslik": "Masraf raporlarını inceleme",
+   "x": 232,
+   "y": 333,
+   "w": 1656,
+   "h": 446
+  }
+ ],
+ "ekranlar/masraf-yonetimi/masraf-raporlari-onaydaki-raporlar.png": [],
+ "ekranlar/masraf-yonetimi/masraf-ozeti.png": [
+  {
+   "no": 17,
+   "baslik": "Masraf özetini görüntüleme",
+   "x": 257,
+   "y": 357,
+   "w": 1606,
+   "h": 723
+  },
+  {
+   "no": 18,
+   "baslik": "Masraf özetini dışa aktarma",
+   "x": 1772,
+   "y": 158,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/masraf-yonetimi/masraf-ozeti-2.png": [],
+ "ekranlar/masraf-yonetimi/talepler.png": [],
+ "ekranlar/masraf-yonetimi/talepler-2.png": [],
+ "ekranlar/masraf-yonetimi/geri-odemeler.png": [],
+ "ekranlar/masraf-yonetimi/geri-odemeler-2.png": [],
+ "ekranlar/mesai-takibi/ana.png": [],
+ "ekranlar/mesai-takibi/qr-yonetimi.png": [
+  {
+   "no": 1,
+   "baslik": "Giriş veya çıkış QR kodunu ekranda gösterme",
+   "x": 232,
+   "y": 221,
+   "w": 180,
+   "h": 28
+  },
+  {
+   "no": 2,
+   "baslik": "Konum iznini yeniden isteme",
+   "x": 1000,
+   "y": 531,
+   "w": 156,
+   "h": 32
+  }
+ ],
+ "ekranlar/mesai-takibi/sabit-qr-lar.png": [
+  {
+   "no": 3,
+   "baslik": "Sabit QR'ları listeleme ve filtreleme",
+   "x": 232,
+   "y": 354,
+   "w": 1656,
+   "h": 153
+  },
+  {
+   "no": 4,
+   "baslik": "Yeni sabit QR oluşturma",
+   "x": 1751,
+   "y": 281,
+   "w": 137,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Sabit QR'ı düzenleme",
+   "x": 1752,
+   "y": 405,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Sabit QR'ı aktif / pasif yapma",
+   "x": 1788,
+   "y": 405,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Sabit QR'ı silme",
+   "x": 1824,
+   "y": 405,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/mesai-takibi/mesailer-gunluk-mesailer.png": [
+  {
+   "no": 8,
+   "baslik": "Günlük mesaileri görüntüleme ve filtreleme",
+   "x": 232,
+   "y": 501,
+   "w": 1656,
+   "h": 214
+  },
+  {
+   "no": 9,
+   "baslik": "Mesai kaydının konumunu görüntüleme",
+   "x": 232,
+   "y": 501,
+   "w": 1656,
+   "h": 214
+  },
+  {
+   "no": 10,
+   "baslik": "Günlük mesaileri dışa aktarma",
+   "x": 1759,
+   "y": 344,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/mesai-takibi/mesailer-ekip-mesaileri-mesai-takvimi.png": [
+  {
+   "no": 11,
+   "baslik": "Ekip mesai takvimini görüntüleme",
+   "x": 233,
+   "y": 438,
+   "w": 1680,
+   "h": 520
+  },
+  {
+   "no": 12,
+   "baslik": "Çalışanların takvim rengini belirleme",
+   "x": 233,
+   "y": 438,
+   "w": 1680,
+   "h": 520
+  }
+ ],
+ "ekranlar/mesai-takibi/mesailer-ekip-mesaileri-mesai-bakiyeleri.png": [
+  {
+   "no": 13,
+   "baslik": "Mesai bakiyelerini görüntüleme",
+   "x": 232,
+   "y": 227,
+   "w": 1656,
+   "h": 853
+  },
+  {
+   "no": 14,
+   "baslik": "Manuel mesai girişi yapma",
+   "x": 1711,
+   "y": 152,
+   "w": 177,
+   "h": 32
+  }
+ ],
+ "ekranlar/mesai-takibi/mesailer-ekip-mesaileri-mesai-bakiyeleri-2.png": [],
+ "ekranlar/mesai-takibi/ev-konumlari-konumlar.png": [
+  {
+   "no": 15,
+   "baslik": "Çalışanların ev konumlarını görüntüleme",
+   "x": 232,
+   "y": 416,
+   "w": 1656,
+   "h": 217
+  }
+ ],
+ "ekranlar/mesai-takibi/ev-konumlari-konum-degisim-talepleri-bekleyen-talepler.png": [
+  {
+   "no": 16,
+   "baslik": "Ev konumu değişim talebini onaylama",
+   "x": 1788,
+   "y": 549,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 17,
+   "baslik": "Ev konumu değişim talebini reddetme",
+   "x": 1824,
+   "y": 549,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 18,
+   "baslik": "Konum değişim taleplerini duruma göre listeleme",
+   "x": 715,
+   "y": 331,
+   "w": 86,
+   "h": 46
+  }
+ ],
+ "ekranlar/mesai-takibi/cihazlar-yasakli-cihazlar.png": [
+  {
+   "no": 19,
+   "baslik": "Yasaklı cihazları görüntüleme",
+   "x": 232,
+   "y": 331,
+   "w": 1656,
+   "h": 214
+  },
+  {
+   "no": 20,
+   "baslik": "Cihaz yasağını kaldırma",
+   "x": 232,
+   "y": 331,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/mesai-takibi/cihazlar-eskiden-yasakli.png": [
+  {
+   "no": 21,
+   "baslik": "Eskiden yasaklı cihazları görüntüleme",
+   "x": 232,
+   "y": 331,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/mesai-takibi/cihazlar-tum-cihazlar.png": [
+  {
+   "no": 22,
+   "baslik": "Tüm cihazları ve cihaz geçmişini görüntüleme",
+   "x": 232,
+   "y": 331,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/mesai-takibi/cihazlar-calisan-cihazlari.png": [
+  {
+   "no": 23,
+   "baslik": "Çalışan cihazlarını görüntüleme",
+   "x": 232,
+   "y": 416,
+   "w": 1656,
+   "h": 214
+  }
+ ],
+ "ekranlar/mesai-takibi/duzeltme-talepleri.png": [
+  {
+   "no": 24,
+   "baslik": "Düzeltme taleplerini listeleme, arama ve filtreleme",
+   "x": 232,
+   "y": 333,
+   "w": 1656,
+   "h": 466
+  },
+  {
+   "no": 27,
+   "baslik": "Düzeltme taleplerini dışa aktarma",
+   "x": 1772,
+   "y": 225,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/mesai-takibi/duzeltme-talepleri-bekleyen.png": [
+  {
+   "no": 25,
+   "baslik": "Düzeltme talebini onaylama veya reddetme",
+   "x": 1766,
+   "y": 386,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 26,
+   "baslik": "Düzeltme taleplerini toplu onaylama / reddetme",
+   "x": 1468,
+   "y": 225,
+   "w": 123,
+   "h": 32
+  }
+ ],
+ "ekranlar/mesai-takibi/ev-konumlari-konum-degisim-talepleri.png": [],
+ "ekranlar/ozluk-islemleri/ana.png": [],
+ "ekranlar/ozluk-islemleri/calisan-ozluk-bilgileri.png": [
+  {
+   "no": 1,
+   "baslik": "Çalışan özlük bilgilerini Excel'e aktarma",
+   "x": 1772,
+   "y": 221,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/ozluk-islemleri/ozluk-aktarimi-aktarim.png": [
+  {
+   "no": 2,
+   "baslik": "Aktarım bekleyen çalışanları listeleme ve arama",
+   "x": 232,
+   "y": 335,
+   "w": 1656,
+   "h": 94
+  },
+  {
+   "no": 3,
+   "baslik": "Bir çalışanın özlük alanlarını eşleştirme",
+   "x": 232,
+   "y": 335,
+   "w": 1656,
+   "h": 94
+  },
+  {
+   "no": 4,
+   "baslik": "Eşleşmeyen değeri düzeltme",
+   "x": 232,
+   "y": 335,
+   "w": 1656,
+   "h": 94
+  },
+  {
+   "no": 5,
+   "baslik": "Tek çalışan için özlük aktarımını uygulama",
+   "x": 232,
+   "y": 335,
+   "w": 1656,
+   "h": 94
+  },
+  {
+   "no": 6,
+   "baslik": "Birden fazla çalışan için toplu kaydetme",
+   "x": 1736,
+   "y": 283,
+   "w": 152,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Yapılan eşleştirmeleri geri alma",
+   "x": 1578,
+   "y": 283,
+   "w": 150,
+   "h": 32
+  }
+ ],
+ "ekranlar/ozluk-islemleri/ozluk-aktarimi-gecmis.png": [
+  {
+   "no": 8,
+   "baslik": "Aktarım geçmişini inceleme",
+   "x": 232,
+   "y": 439,
+   "w": 1656,
+   "h": 94
+  }
+ ],
+ "ekranlar/calisan-disa-aktarma/ana.png": [
+  {
+   "no": 5,
+   "baslik": "Belirli çalışanları seçme",
+   "x": 258,
+   "y": 299,
+   "w": 137,
+   "h": 25
+  },
+  {
+   "no": 6,
+   "baslik": "Aktif filtreleri görüntüleme",
+   "x": 1532,
+   "y": 221,
+   "w": 98,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Verileri önizleme",
+   "x": 1646,
+   "y": 221,
+   "w": 110,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Excel dosyasını indirme",
+   "x": 1772,
+   "y": 221,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Sizi bekleyen işleri görme",
+   "x": 232,
+   "y": 269,
+   "w": 1656,
+   "h": 186
+  }
+ ],
+ "ekranlar/performans-yonetimi/ana-2.png": [],
+ "ekranlar/performans-yonetimi/kokpit-donem-kokpiti.png": [
+  {
+   "no": 2,
+   "baslik": "Dönem aşamalarını izleme (Dönem Kokpiti)",
+   "x": 232,
+   "y": 160,
+   "w": 203,
+   "h": 28
+  },
+  {
+   "no": 3,
+   "baslik": "Bekleyen değerlendiricileri listeleme",
+   "x": 232,
+   "y": 821,
+   "w": 1656,
+   "h": 259
+  },
+  {
+   "no": 4,
+   "baslik": "Sonraki aşamaya geçme",
+   "x": 892,
+   "y": 213,
+   "w": 147,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Aşama süresini uzatma",
+   "x": 448,
+   "y": 457,
+   "w": 103,
+   "h": 24
+  }
+ ],
+ "ekranlar/performans-yonetimi/kokpit-donem-kokpiti-2.png": [],
+ "ekranlar/performans-yonetimi/kokpit-talepler.png": [
+  {
+   "no": 6,
+   "baslik": "Değerlendirme taleplerini listeleme ve filtreleme",
+   "x": 232,
+   "y": 653,
+   "w": 1656,
+   "h": 339
+  },
+  {
+   "no": 9,
+   "baslik": "Değerlendirme taleplerini dışa aktarma",
+   "x": 1772,
+   "y": 543,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/kokpit-talepler-bekleyen-talepler.png": [
+  {
+   "no": 7,
+   "baslik": "Değerlendirme talebini onaylama",
+   "x": 1754,
+   "y": 706,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Değerlendirme talebini reddetme",
+   "x": 1754,
+   "y": 706,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/kokpit-aktif-degerlendirmeler.png": [
+  {
+   "no": 10,
+   "baslik": "Aktif değerlendirmeleri izleme",
+   "x": 232,
+   "y": 591,
+   "w": 1656,
+   "h": 461
+  },
+  {
+   "no": 11,
+   "baslik": "Değerlendirme detayını görüntüleme",
+   "x": 1780,
+   "y": 644,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Yeni değerlendirme başlatma",
+   "x": 1665,
+   "y": 539,
+   "w": 223,
+   "h": 32
+  },
+  {
+   "no": 13,
+   "baslik": "Değerlendirici ekleme ve akran atama",
+   "x": 1780,
+   "y": 644,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 14,
+   "baslik": "Değerlendirmeyi düzenleme veya silme",
+   "x": 1780,
+   "y": 644,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 15,
+   "baslik": "Yönetici değerlendirmesi yapma",
+   "x": 1780,
+   "y": 644,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/kokpit-aktif-degerlendirmeler-2.png": [],
+ "ekranlar/performans-yonetimi/kokpit-itirazlar.png": [
+  {
+   "no": 16,
+   "baslik": "İtirazları listeleme",
+   "x": 232,
+   "y": 661,
+   "w": 1656,
+   "h": 144
+  },
+  {
+   "no": 18,
+   "baslik": "İtirazları dışa aktarma",
+   "x": 1772,
+   "y": 543,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/kokpit-itirazlar-bekleyen-itirazlar.png": [
+  {
+   "no": 17,
+   "baslik": "İtirazı sonuçlandırma",
+   "x": 1734,
+   "y": 708,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/kokpit-aksiyonlar.png": [
+  {
+   "no": 19,
+   "baslik": "Yetenek aksiyonlarını listeleme ve filtreleme",
+   "x": 232,
+   "y": 661,
+   "w": 1656,
+   "h": 202
+  },
+  {
+   "no": 20,
+   "baslik": "9-Box önerilerinden aksiyon oluşturma",
+   "x": 1616,
+   "y": 543,
+   "w": 148,
+   "h": 32
+  },
+  {
+   "no": 23,
+   "baslik": "Aksiyonu başlatma, ilerleme ve adım girme",
+   "x": 232,
+   "y": 661,
+   "w": 1656,
+   "h": 202
+  },
+  {
+   "no": 24,
+   "baslik": "Aksiyonu düzenleme, tamamlama veya iptal etme",
+   "x": 232,
+   "y": 661,
+   "w": 1656,
+   "h": 202
+  },
+  {
+   "no": 25,
+   "baslik": "Aksiyonları dışa aktarma",
+   "x": 1772,
+   "y": 543,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/kokpit-aksiyonlar-onay-bekleyen.png": [
+  {
+   "no": 22,
+   "baslik": "Yetenek aksiyonunu onaylama veya reddetme",
+   "x": 232,
+   "y": 713,
+   "w": 1656,
+   "h": 202
+  }
+ ],
+ "ekranlar/performans-yonetimi/kokpit-pip.png": [
+  {
+   "no": 26,
+   "baslik": "PIP listesini görüntüleme",
+   "x": 232,
+   "y": 703,
+   "w": 1656,
+   "h": 263
+  },
+  {
+   "no": 27,
+   "baslik": "PIP başlatma / PIP hedeflerini girme",
+   "x": 1774,
+   "y": 543,
+   "w": 114,
+   "h": 32
+  },
+  {
+   "no": 28,
+   "baslik": "PIP check-in görüşmesi girme",
+   "x": 1809,
+   "y": 767,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 29,
+   "baslik": "PIP süresini uzatma veya PIP’i kapatma",
+   "x": 1809,
+   "y": 767,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-donemler.png": [
+  {
+   "no": 30,
+   "baslik": "Dönem özet kartlarını görüntüleme",
+   "x": 245,
+   "y": 326,
+   "w": 376,
+   "h": 22
+  },
+  {
+   "no": 31,
+   "baslik": "Yeni performans dönemi oluşturma",
+   "x": 1761,
+   "y": 510,
+   "w": 127,
+   "h": 32
+  },
+  {
+   "no": 32,
+   "baslik": "Dönem hazırlık kontrolü ve dönemi başlatma",
+   "x": 232,
+   "y": 562,
+   "w": 1656,
+   "h": 217
+  },
+  {
+   "no": 33,
+   "baslik": "Dönemi düzenleme",
+   "x": 1733,
+   "y": 615,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 34,
+   "baslik": "Dönemi kapatma veya iptal etme",
+   "x": 1769,
+   "y": 615,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 35,
+   "baslik": "Dönem raporu indirme",
+   "x": 1606,
+   "y": 510,
+   "w": 146,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-hedef-kartlari.png": [
+  {
+   "no": 36,
+   "baslik": "Hedefleri görüntüleme ve filtreleme",
+   "x": 253,
+   "y": 674,
+   "w": 160,
+   "h": 16
+  },
+  {
+   "no": 37,
+   "baslik": "Yeni hedef oluşturma (OKR / KPI)",
+   "x": 1767,
+   "y": 598,
+   "w": 121,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-hedef-kartlari-2.png": [
+  {
+   "no": 40,
+   "baslik": "Hedef ilerlemesini ve anahtar sonuçları güncelleme",
+   "x": 245,
+   "y": 313,
+   "w": 103,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-hedef-kartlari-3.png": [],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-hedef-agaci.png": [
+  {
+   "no": 42,
+   "baslik": "Hedef ağacını inceleme",
+   "x": 232,
+   "y": 430,
+   "w": 1656,
+   "h": 650
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-hedef-agaci-2.png": [],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-ilerleme-ozeti.png": [
+  {
+   "no": 43,
+   "baslik": "İlerleme özetini inceleme",
+   "x": 245,
+   "y": 733,
+   "w": 794,
+   "h": 22
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-ilerleme-ozeti-2.png": [],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-liste.png": [
+  {
+   "no": 38,
+   "baslik": "Hedefi düzenleme, silme veya onaya gönderme",
+   "x": 232,
+   "y": 875,
+   "w": 1656,
+   "h": 205
+  },
+  {
+   "no": 39,
+   "baslik": "Hedefi onaylama, iade etme veya reddetme",
+   "x": 350,
+   "y": 821,
+   "w": 122,
+   "h": 38
+  },
+  {
+   "no": 41,
+   "baslik": "Hedefi tamamlama veya yeniden hesaplama",
+   "x": 1807,
+   "y": 984,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 44,
+   "baslik": "Hedefleri dışa aktarma",
+   "x": 1772,
+   "y": 556,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 46,
+   "baslik": "Hedef revizyonu başlatma",
+   "x": 1771,
+   "y": 984,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-liste-2.png": [],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-revizyon-talepleri.png": [
+  {
+   "no": 45,
+   "baslik": "Hedef revizyon taleplerini değerlendirme",
+   "x": 232,
+   "y": 886,
+   "w": 1656,
+   "h": 194
+  },
+  {
+   "no": 47,
+   "baslik": "Revizyon taleplerini dışa aktarma",
+   "x": 1772,
+   "y": 515,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-revizyon-talepleri-2.png": [],
+ "ekranlar/performans-yonetimi/donem-yonetimi-ara-donem-gorusmeleri.png": [
+  {
+   "no": 48,
+   "baslik": "Ara dönem görüşmesi kaydetme",
+   "x": 232,
+   "y": 570,
+   "w": 1656,
+   "h": 211
+  },
+  {
+   "no": 49,
+   "baslik": "Ara dönem görüşmesini düzenleme veya silme",
+   "x": 1779,
+   "y": 621,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-potansiyel-degerlendirmeleri.png": [
+  {
+   "no": 50,
+   "baslik": "Potansiyel değerlendirmesi açma",
+   "x": 1720,
+   "y": 510,
+   "w": 168,
+   "h": 32
+  },
+  {
+   "no": 51,
+   "baslik": "Potansiyel değerlendiricisi atama",
+   "x": 232,
+   "y": 618,
+   "w": 1656,
+   "h": 224
+  },
+  {
+   "no": 52,
+   "baslik": "Potansiyel puanlarını girme",
+   "x": 232,
+   "y": 618,
+   "w": 1656,
+   "h": 224
+  },
+  {
+   "no": 53,
+   "baslik": "Potansiyel değerlendirmesini onaylama veya geri gönderme",
+   "x": 232,
+   "y": 618,
+   "w": 1656,
+   "h": 224
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-kalibrasyon.png": [
+  {
+   "no": 54,
+   "baslik": "Performans kalibrasyon oturumu oluşturma",
+   "x": 1758,
+   "y": 510,
+   "w": 130,
+   "h": 32
+  },
+  {
+   "no": 55,
+   "baslik": "Kalibrasyon düzeltmesi girme ve oturumu sonuçlandırma",
+   "x": 232,
+   "y": 562,
+   "w": 1656,
+   "h": 217
+  },
+  {
+   "no": 56,
+   "baslik": "Kalibrasyon oturumunu onaylama veya reddetme",
+   "x": 1782,
+   "y": 615,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 57,
+   "baslik": "Kalibrasyon oturumunu düzenleme veya silme",
+   "x": 1782,
+   "y": 615,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-9-box.png": [
+  {
+   "no": 58,
+   "baslik": "9-Box matrisini görüntüleme ve üretme",
+   "x": 1581,
+   "y": 448,
+   "w": 120,
+   "h": 32
+  },
+  {
+   "no": 59,
+   "baslik": "Yeni 9-Box değerlendirmesi ekleme",
+   "x": 1710,
+   "y": 448,
+   "w": 178,
+   "h": 32
+  },
+  {
+   "no": 60,
+   "baslik": "9-Box kalibrasyon oturumu ve kutu taşıma",
+   "x": 1375,
+   "y": 448,
+   "w": 199,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-9-box-2.png": [],
+ "ekranlar/performans-yonetimi/donem-yonetimi-trend-analizi.png": [
+  {
+   "no": 61,
+   "baslik": "Dönemler arası trendi inceleme",
+   "x": 245,
+   "y": 332,
+   "w": 1630,
+   "h": 22
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-trend-analizi-2.png": [],
+ "ekranlar/performans-yonetimi/donem-yonetimi-yetkinlikler-degerlendirmeler.png": [
+  {
+   "no": 62,
+   "baslik": "Yetkinlik değerlendirmelerini görüntüleme",
+   "x": 240,
+   "y": 632,
+   "w": 1640,
+   "h": 130
+  },
+  {
+   "no": 63,
+   "baslik": "Yetkinlik değerlendirmesi yapma",
+   "x": 232,
+   "y": 578,
+   "w": 323,
+   "h": 28
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-yetkinlikler-yetkinlik-acigi.png": [
+  {
+   "no": 64,
+   "baslik": "Yetkinlik açığını analiz etme",
+   "x": 1772,
+   "y": 576,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-yedekleme.png": [
+  {
+   "no": 65,
+   "baslik": "Yedekleme (halef) planı başlatma",
+   "x": 1723,
+   "y": 514,
+   "w": 165,
+   "h": 32
+  },
+  {
+   "no": 66,
+   "baslik": "Yöneticilerden yedekleme isteği gönderme",
+   "x": 1723,
+   "y": 514,
+   "w": 165,
+   "h": 32
+  },
+  {
+   "no": 67,
+   "baslik": "Yedekleme planını görüntüleme, düzenleme veya silme",
+   "x": 232,
+   "y": 570,
+   "w": 1656,
+   "h": 156
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-takdir-akisi-akis.png": [
+  {
+   "no": 68,
+   "baslik": "Takdir gönderme",
+   "x": 1746,
+   "y": 514,
+   "w": 142,
+   "h": 32
+  },
+  {
+   "no": 69,
+   "baslik": "Takdir akışını izleme",
+   "x": 1526,
+   "y": 515,
+   "w": 196,
+   "h": 30
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-takdir-akisi-onay-bekleyenler.png": [
+  {
+   "no": 70,
+   "baslik": "Takdirleri onaylama veya reddetme",
+   "x": 480,
+   "y": 620,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 71,
+   "baslik": "Takdir kaydını silme ve dışa aktarma",
+   "x": 611,
+   "y": 620,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-baglilik-anketi.png": [
+  {
+   "no": 72,
+   "baslik": "Bağlılık anketi bağlama ve sonuçları izleme",
+   "x": 1533,
+   "y": 510,
+   "w": 127,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-baglilik-anketi-2.png": [],
+ "ekranlar/performans-yonetimi/kutuphane-sablonlar.png": [
+  {
+   "no": 73,
+   "baslik": "Yeni değerlendirme şablonu oluşturma",
+   "x": 1762,
+   "y": 341,
+   "w": 126,
+   "h": 32
+  },
+  {
+   "no": 74,
+   "baslik": "Şablonu düzenleme, kopyalama veya silme",
+   "x": 232,
+   "y": 397,
+   "w": 1656,
+   "h": 160
+  }
+ ],
+ "ekranlar/performans-yonetimi/kutuphane-potansiyel-sablonlari.png": [
+  {
+   "no": 75,
+   "baslik": "Potansiyel şablonu ekleme ve düzenleme",
+   "x": 1763,
+   "y": 337,
+   "w": 125,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/kutuphane-yetkinlikler-yetkinlik-tanimlari.png": [
+  {
+   "no": 76,
+   "baslik": "Yetkinlik tanımlama",
+   "x": 1753,
+   "y": 403,
+   "w": 135,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/kutuphane-yetkinlikler-pozisyon-yetkinlik-matrisi.png": [
+  {
+   "no": 77,
+   "baslik": "Pozisyon yetkinlik beklentilerini girme",
+   "x": 232,
+   "y": 232,
+   "w": 1656,
+   "h": 848
+  }
+ ],
+ "ekranlar/performans-yonetimi/kutuphane-yetkinlikler-pozisyon-yetkinlik-matrisi-2.png": [],
+ "ekranlar/performans-yonetimi/kutuphane-takdir-tipleri.png": [
+  {
+   "no": 78,
+   "baslik": "Takdir tipi ekleme ve düzenleme",
+   "x": 1808,
+   "y": 337,
+   "w": 80,
+   "h": 32
+  }
+ ],
+ "ekranlar/performans-yonetimi/raporlar-surec-ilerlemesi.png": [
+  {
+   "no": 79,
+   "baslik": "Süreç ilerlemesi raporu",
+   "x": 232,
+   "y": 457,
+   "w": 820,
+   "h": 223
+  }
+ ],
+ "ekranlar/performans-yonetimi/raporlar-performans-dagilimi.png": [
+  {
+   "no": 80,
+   "baslik": "Performans dağılımı raporu",
+   "x": 232,
+   "y": 527,
+   "w": 1656,
+   "h": 193
+  }
+ ],
+ "ekranlar/performans-yonetimi/raporlar-hedef-ve-kpi-analizi.png": [
+  {
+   "no": 81,
+   "baslik": "Hedef ve KPI analizi raporu",
+   "x": 232,
+   "y": 289,
+   "w": 257,
+   "h": 28
+  }
+ ],
+ "ekranlar/performans-yonetimi/raporlar-yetkinlik-analizi.png": [
+  {
+   "no": 82,
+   "baslik": "Yetkinlik analizi raporu",
+   "x": 245,
+   "y": 875,
+   "w": 1630,
+   "h": 205
+  }
+ ],
+ "ekranlar/performans-yonetimi/raporlar-yetkinlik-analizi-2.png": [],
+ "ekranlar/performans-yonetimi/raporlar-aksiyon-ve-pip.png": [
+  {
+   "no": 83,
+   "baslik": "Aksiyon ve PIP raporu",
+   "x": 260,
+   "y": 289,
+   "w": 217,
+   "h": 28
+  }
+ ],
+ "ekranlar/performans-yonetimi/raporlar-calisan-karnesi.png": [
+  {
+   "no": 84,
+   "baslik": "Çalışan karnesini görüntüleme ve indirme",
+   "x": 232,
+   "y": 343,
+   "w": 1656,
+   "h": 339
+  }
+ ],
+ "ekranlar/servis-yonetimi/ana.png": [],
+ "ekranlar/servis-yonetimi/rotalar.png": [
+  {
+   "no": 1,
+   "baslik": "Rotaları görüntüleme",
+   "x": 232,
+   "y": 273,
+   "w": 1656,
+   "h": 389
+  },
+  {
+   "no": 2,
+   "baslik": "Yeni rota oluşturma",
+   "x": 1778,
+   "y": 221,
+   "w": 110,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Rotayı ve duraklarını düzenleme",
+   "x": 1745,
+   "y": 320,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Rotayı silme",
+   "x": 1785,
+   "y": 320,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/servis-yonetimi/servisler.png": [
+  {
+   "no": 5,
+   "baslik": "Servis seferlerini görüntüleme",
+   "x": 232,
+   "y": 273,
+   "w": 1656,
+   "h": 438
+  },
+  {
+   "no": 6,
+   "baslik": "Yeni servis (sefer) oluşturma",
+   "x": 1767,
+   "y": 221,
+   "w": 121,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Servis seferini düzenleme",
+   "x": 1778,
+   "y": 320,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Servis seferini silme",
+   "x": 1818,
+   "y": 320,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 13,
+   "baslik": "Araç tanımlama ve düzenleme",
+   "x": 1767,
+   "y": 221,
+   "w": 121,
+   "h": 32
+  }
+ ],
+ "ekranlar/servis-yonetimi/atamalar.png": [
+  {
+   "no": 9,
+   "baslik": "Yolcu atamalarını görüntüleme ve filtreleme",
+   "x": 232,
+   "y": 346,
+   "w": 1656,
+   "h": 206
+  },
+  {
+   "no": 10,
+   "baslik": "Çalışanı servise atama",
+   "x": 1769,
+   "y": 221,
+   "w": 119,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Atama durumunu güncelleme",
+   "x": 232,
+   "y": 346,
+   "w": 1656,
+   "h": 206
+  },
+  {
+   "no": 12,
+   "baslik": "Atamayı iptal etme",
+   "x": 232,
+   "y": 346,
+   "w": 1656,
+   "h": 206
+  },
+  {
+   "no": 14,
+   "baslik": "Çalışanın bindiği durağı belirleme",
+   "x": 1769,
+   "y": 221,
+   "w": 119,
+   "h": 32
+  }
+ ],
+ "ekranlar/seyahat-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Onay bekleyen talepleri görüntüleme",
+   "x": 232,
+   "y": 333,
+   "w": 1656,
+   "h": 392
+  },
+  {
+   "no": 2,
+   "baslik": "Talep arama ve filtreleme",
+   "x": 1604,
+   "y": 225,
+   "w": 156,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Seyahat talebinin detayını görüntüleme",
+   "x": 1832,
+   "y": 384,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Toplu onay / ret (Toplu İşlem)",
+   "x": 1468,
+   "y": 225,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Talepleri dışa aktarma",
+   "x": 1772,
+   "y": 225,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Seyahat talebini düzenleme (yönetici)",
+   "x": 1832,
+   "y": 384,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Seyahat talebini silme veya iptal etme (yönetici)",
+   "x": 1832,
+   "y": 384,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/seyahat-yonetimi/talepler-bekleyen-talepler.png": [
+  {
+   "no": 4,
+   "baslik": "Seyahat talebini onaylama",
+   "x": 1760,
+   "y": 384,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Seyahat talebini reddetme",
+   "x": 1796,
+   "y": 384,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/seyahat-yonetimi/ekip-seyahatleri-seyahat-takvimi.png": [
+  {
+   "no": 8,
+   "baslik": "Ekip seyahat takvimini görüntüleme",
+   "x": 236,
+   "y": 287,
+   "w": 14,
+   "h": 14
+  }
+ ],
+ "ekranlar/seyahat-yonetimi/ekip-seyahatleri-tum-talepler.png": [
+  {
+   "no": 9,
+   "baslik": "Ekip seyahatlerini listeleme",
+   "x": 232,
+   "y": 333,
+   "w": 1656,
+   "h": 690
+  }
+ ],
+ "ekranlar/seyahat-yonetimi/ekip-seyahatleri-bekleyen-talepler.png": [],
+ "ekranlar/seyahat-yonetimi/seyahat-bakiyesi-seyahat-giderleri.png": [
+  {
+   "no": 13,
+   "baslik": "Seyahat giderlerini ve avansları izleme",
+   "x": 232,
+   "y": 542,
+   "w": 1656,
+   "h": 219
+  },
+  {
+   "no": 14,
+   "baslik": "Seyahat avansını ve gider kapamayı takip etme",
+   "x": 556,
+   "y": 490,
+   "w": 186,
+   "h": 40
+  }
+ ],
+ "ekranlar/seyahat-yonetimi/seyahat-bakiyesi-seyahat-bakiyeleri.png": [
+  {
+   "no": 15,
+   "baslik": "Seyahat bakiyelerini görüntüleme",
+   "x": 232,
+   "y": 343,
+   "w": 1656,
+   "h": 681
+  },
+  {
+   "no": 16,
+   "baslik": "Seyahat kaydı ekleme",
+   "x": 1715,
+   "y": 287,
+   "w": 173,
+   "h": 32
+  }
+ ],
+ "ekranlar/seyahat-yonetimi/talepler.png": [],
+ "ekranlar/vardiya-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Haftalık planı görüntüleme",
+   "x": 232,
+   "y": 400,
+   "w": 1656,
+   "h": 680
+  },
+  {
+   "no": 2,
+   "baslik": "Çalışana vardiya atama",
+   "x": 232,
+   "y": 400,
+   "w": 1656,
+   "h": 680
+  },
+  {
+   "no": 3,
+   "baslik": "Atamayı kaldırma veya değiştirme",
+   "x": 232,
+   "y": 400,
+   "w": 1656,
+   "h": 680
+  },
+  {
+   "no": 4,
+   "baslik": "Uygun aday önerilerini görme",
+   "x": 245,
+   "y": 455,
+   "w": 175,
+   "h": 16
+  },
+  {
+   "no": 5,
+   "baslik": "Haftayı kopyalama",
+   "x": 1499,
+   "y": 281,
+   "w": 151,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Planı yeniden üretme",
+   "x": 1755,
+   "y": 281,
+   "w": 133,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Günlük vardiyayı iptal etme, kilitleme veya kilidini açma",
+   "x": 232,
+   "y": 400,
+   "w": 1656,
+   "h": 680
+  },
+  {
+   "no": 10,
+   "baslik": "Planı yazdırma",
+   "x": 1657,
+   "y": 281,
+   "w": 89,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Atama geçmişini görme",
+   "x": 232,
+   "y": 400,
+   "w": 1656,
+   "h": 680
+  },
+  {
+   "no": 12,
+   "baslik": "Atamaya not ekleme ve fazla mesai uygunluğu",
+   "x": 232,
+   "y": 400,
+   "w": 1656,
+   "h": 680
+  },
+  {
+   "no": 14,
+   "baslik": "İki çalışanın vardiyasını yerinde değiştirme",
+   "x": 232,
+   "y": 400,
+   "w": 1656,
+   "h": 680
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/ana-2.png": [
+  {
+   "no": 8,
+   "baslik": "Açık vardiya yayınlama",
+   "x": 245,
+   "y": 901,
+   "w": 175,
+   "h": 16
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/talepler-onayimi-bekleyenler.png": [
+  {
+   "no": 15,
+   "baslik": "Onayınızı bekleyen talepleri görüntüleme",
+   "x": 232,
+   "y": 395,
+   "w": 1656,
+   "h": 515
+  },
+  {
+   "no": 18,
+   "baslik": "Toplu onay / ret",
+   "x": 1468,
+   "y": 287,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 19,
+   "baslik": "Talep ayrıntısını ve etkisini görme",
+   "x": 1837,
+   "y": 450,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 20,
+   "baslik": "Talebi PDF olarak indirme",
+   "x": 1837,
+   "y": 450,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 22,
+   "baslik": "Talep listesini dışa aktarma",
+   "x": 1772,
+   "y": 287,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/talepler-onayimi-bekleyenler-bekleyen-talepler.png": [
+  {
+   "no": 16,
+   "baslik": "Vardiya değişim talebini onaylama",
+   "x": 1765,
+   "y": 450,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 17,
+   "baslik": "Vardiya değişim talebini reddetme",
+   "x": 1801,
+   "y": 450,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/talepler-ekip-talepleri.png": [
+  {
+   "no": 21,
+   "baslik": "Ekip taleplerini görüntüleme",
+   "x": 232,
+   "y": 312,
+   "w": 1656,
+   "h": 768
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/talepler-ekip-talepleri-2.png": [],
+ "ekranlar/vardiya-yonetimi/talepler-ekip-talepleri-bekleyen-talepler.png": [],
+ "ekranlar/vardiya-yonetimi/ekip-listesi.png": [
+  {
+   "no": 23,
+   "baslik": "Ekip vardiya listesini görüntüleme ve filtreleme",
+   "x": 232,
+   "y": 342,
+   "w": 1656,
+   "h": 673
+  },
+  {
+   "no": 24,
+   "baslik": "Giriş / çıkış kaydını elle girme",
+   "x": 232,
+   "y": 342,
+   "w": 1656,
+   "h": 673
+  },
+  {
+   "no": 25,
+   "baslik": "Vardiya atamasını iptal etme",
+   "x": 232,
+   "y": 342,
+   "w": 1656,
+   "h": 673
+  },
+  {
+   "no": 26,
+   "baslik": "Ekip listesini dışa aktarma",
+   "x": 1772,
+   "y": 281,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/bakiyeler.png": [
+  {
+   "no": 27,
+   "baslik": "Vardiya bakiyelerini görüntüleme",
+   "x": 232,
+   "y": 342,
+   "w": 1656,
+   "h": 211
+  },
+  {
+   "no": 28,
+   "baslik": "Bakiyeleri dışa aktarma",
+   "x": 1772,
+   "y": 281,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/yasal-uyum.png": [
+  {
+   "no": 29,
+   "baslik": "Yasal uyum kayıtlarını görüntüleme",
+   "x": 232,
+   "y": 426,
+   "w": 1656,
+   "h": 624
+  },
+  {
+   "no": 30,
+   "baslik": "Uyum taramasını çalıştırma",
+   "x": 1730,
+   "y": 365,
+   "w": 158,
+   "h": 32
+  },
+  {
+   "no": 31,
+   "baslik": "Uyum kaydını gördüm olarak işaretleme",
+   "x": 1818,
+   "y": 501,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 32,
+   "baslik": "Çalışanın yıllık fazla mesai durumunu görme",
+   "x": 1818,
+   "y": 501,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/yasal-uyum-2.png": [],
+ "ekranlar/vardiya-yonetimi/tanimlar-vardiya-sablonlari.png": [
+  {
+   "no": 33,
+   "baslik": "Yeni vardiya şablonu tanımlama",
+   "x": 1701,
+   "y": 343,
+   "w": 187,
+   "h": 32
+  },
+  {
+   "no": 34,
+   "baslik": "Vardiya şablonlarını arama ve filtreleme",
+   "x": 232,
+   "y": 404,
+   "w": 1656,
+   "h": 673
+  },
+  {
+   "no": 35,
+   "baslik": "Vardiya şablonunu düzenleme",
+   "x": 1804,
+   "y": 455,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 36,
+   "baslik": "Şablon ayrıntısını ve sürüm geçmişini görme",
+   "x": 1768,
+   "y": 455,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 37,
+   "baslik": "Vardiya şablonunu kullanımdan kaldırma veya silme",
+   "x": 1840,
+   "y": 455,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/tanimlar-vardiya-sablonlari-2.png": [],
+ "ekranlar/vardiya-yonetimi/tanimlar-rotasyon-desenleri.png": [
+  {
+   "no": 38,
+   "baslik": "Yeni rotasyon deseni tanımlama",
+   "x": 1746,
+   "y": 343,
+   "w": 142,
+   "h": 32
+  },
+  {
+   "no": 39,
+   "baslik": "Rotasyon desenini düzenleme veya silme",
+   "x": 1827,
+   "y": 451,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/tanimlar-calisan-kurallari.png": [
+  {
+   "no": 40,
+   "baslik": "Yeni çalışan kuralı oluşturma",
+   "x": 1774,
+   "y": 343,
+   "w": 114,
+   "h": 32
+  },
+  {
+   "no": 41,
+   "baslik": "Çalışan kurallarını filtreleme",
+   "x": 232,
+   "y": 404,
+   "w": 1656,
+   "h": 211
+  },
+  {
+   "no": 42,
+   "baslik": "Çalışan kuralını düzenleme, sonlandırma veya silme",
+   "x": 1820,
+   "y": 455,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiya-yonetimi/planlama.png": [],
+ "ekranlar/vardiya-yonetimi/planlama-2.png": [],
+ "ekranlar/vardiya-yonetimi/talepler.png": [],
+ "ekranlar/vardiya-yonetimi/talepler-2.png": [],
+ "ekranlar/ise-giris-cikis/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Süreçleri listeleme ve filtreleme",
+   "x": 232,
+   "y": 542,
+   "w": 1656,
+   "h": 223
+  },
+  {
+   "no": 2,
+   "baslik": "Süreç detayını görüntüleme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Çalışanın geçmiş süreçlerini görüntüleme",
+   "x": 232,
+   "y": 542,
+   "w": 1656,
+   "h": 223
+  },
+  {
+   "no": 4,
+   "baslik": "Yeni çalışan ekleme (işe giriş süreci başlatma)",
+   "x": 1728,
+   "y": 287,
+   "w": 160,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Çalışanın doldurduğu maddeyi inceleme (onay / ret)",
+   "x": 1089,
+   "y": 363,
+   "w": 137,
+   "h": 16
+  },
+  {
+   "no": 7,
+   "baslik": "Maddeyi sorumlu adına doldurma",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Maddeyi \"Uygulanamaz\" olarak işaretleme ve yeniden açma",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Sürece madde veya şablon ekleme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Sürece görev ekleme, görev durumunu güncelleme ve görev silme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Hedef tarihi değiştirme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Çalışana form bağlantısını yeniden gönderme / yenileme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 13,
+   "baslik": "Süreç raporu alma",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 14,
+   "baslik": "İşe giriş sürecini tamamlama",
+   "x": 671,
+   "y": 363,
+   "w": 132,
+   "h": 16
+  },
+  {
+   "no": 15,
+   "baslik": "İşe giriş bölümlerini yürütme (zimmet teslimi, SGK işe giriş, bordro başlangıcı)",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 16,
+   "baslik": "SGK işe giriş / çıkış bildirimini dışarıda yapıldı olarak işaretleme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 17,
+   "baslik": "SGK işe giriş / çıkış bildirgesini sorgulama ve indirme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 18,
+   "baslik": "Süreci iptal etme",
+   "x": 1818,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 22,
+   "baslik": "Toplu işe giriş (Excel ile)",
+   "x": 1728,
+   "y": 287,
+   "w": 160,
+   "h": 32
+  },
+  {
+   "no": 38,
+   "baslik": "Süreç şablonlarını yönetme (işe giriş / işten çıkış)",
+   "x": 1794,
+   "y": 96,
+   "w": 94,
+   "h": 32
+  },
+  {
+   "no": 39,
+   "baslik": "Birim süreç ayarlarını belirleme",
+   "x": 1794,
+   "y": 96,
+   "w": 94,
+   "h": 32
+  }
+ ],
+ "ekranlar/ise-giris-cikis/ise-giris-surecler-onay-bekleyen.png": [
+  {
+   "no": 5,
+   "baslik": "Süreci onaylama veya reddetme",
+   "x": 1694,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/ise-giris-cikis/ise-giris-surecler-tamamlanan.png": [],
+ "ekranlar/ise-giris-cikis/ise-giris-surecler-tamamlanan-2.png": [],
+ "ekranlar/ise-giris-cikis/ise-giris-talepler.png": [
+  {
+   "no": 19,
+   "baslik": "İşe alım taleplerini görüntüleme",
+   "x": 232,
+   "y": 395,
+   "w": 1656,
+   "h": 392
+  },
+  {
+   "no": 21,
+   "baslik": "Talepleri dışa aktarma",
+   "x": 1772,
+   "y": 287,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/ise-giris-cikis/ise-giris-talepler-bekleyen-talepler.png": [
+  {
+   "no": 20,
+   "baslik": "İşe alım / işten çıkış talebini onaylama veya reddetme",
+   "x": 1715,
+   "y": 446,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/ise-giris-cikis/ise-giris-deneme-suresi.png": [
+  {
+   "no": 24,
+   "baslik": "Deneme süresini takip etme",
+   "x": 232,
+   "y": 395,
+   "w": 1656,
+   "h": 334
+  },
+  {
+   "no": 25,
+   "baslik": "Deneme süresi değerlendirme sonuçlarını görüntüleme",
+   "x": 1806,
+   "y": 446,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/ise-giris-cikis/isten-cikis.png": [
+  {
+   "no": 23,
+   "baslik": "Toplu işten çıkış (Excel ile veya doğrudan)",
+   "x": 1714,
+   "y": 287,
+   "w": 174,
+   "h": 32
+  },
+  {
+   "no": 26,
+   "baslik": "Çalışanı işten çıkarma (işten çıkış süreci başlatma)",
+   "x": 1714,
+   "y": 287,
+   "w": 174,
+   "h": 32
+  },
+  {
+   "no": 27,
+   "baslik": "İşten çıkış kaydını düzenleme veya silme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 28,
+   "baslik": "Çıkış tarihini değiştirme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 29,
+   "baslik": "Çıkıştaki izin haklarını ve kapanmamış izinleri kontrol etme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 30,
+   "baslik": "Kıdem tazminatı kararını verme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 31,
+   "baslik": "İhbar tazminatı kararını verme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 32,
+   "baslik": "Son bordro adımını tamamlama",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 33,
+   "baslik": "Zimmet iadesini kontrol etme",
+   "x": 1782,
+   "y": 594,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 34,
+   "baslik": "İşten çıkışı kesinleştirme",
+   "x": 671,
+   "y": 363,
+   "w": 120,
+   "h": 16
+  }
+ ],
+ "ekranlar/ise-giris-cikis/isten-cikis-surecler-onay-bekleyen.png": [],
+ "ekranlar/ise-giris-cikis/isten-cikis-surecler-kesinlesen.png": [],
+ "ekranlar/ise-giris-cikis/isten-cikis-talepler.png": [],
+ "ekranlar/ise-giris-cikis/isten-cikis-talepler-bekleyen-talepler.png": [],
+ "ekranlar/ise-giris-cikis/ise-giris-surecler.png": [],
+ "ekranlar/zimmet-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Onayınızı bekleyen talepleri görüntüleme",
+   "x": 232,
+   "y": 480,
+   "w": 1656,
+   "h": 600
+  },
+  {
+   "no": 2,
+   "baslik": "Talepleri arama ve filtreleme",
+   "x": 1604,
+   "y": 225,
+   "w": 156,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Toplu onay veya ret",
+   "x": 1468,
+   "y": 225,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Talep detayını ve onay geçmişini görüntüleme",
+   "x": 1818,
+   "y": 553,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Talebe yorum ekleme ve silme",
+   "x": 1818,
+   "y": 553,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Onay listesini dışa aktarma",
+   "x": 1772,
+   "y": 225,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/zimmet-yonetimi/ana-2.png": [],
+ "ekranlar/zimmet-yonetimi/taleplerim-bekleyen-talepler.png": [
+  {
+   "no": 3,
+   "baslik": "Zimmet talebini onaylama",
+   "x": 1746,
+   "y": 553,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Zimmet talebini reddetme",
+   "x": 1782,
+   "y": 553,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Havuz (ortak kullanım) talebini onaylama veya reddetme",
+   "x": 1854,
+   "y": 553,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/zimmet-yonetimi/diger-talepler.png": [
+  {
+   "no": 10,
+   "baslik": "Ekibin diğer taleplerini izleme",
+   "x": 232,
+   "y": 316,
+   "w": 1656,
+   "h": 764
+  }
+ ],
+ "ekranlar/zimmet-yonetimi/diger-talepler-2.png": [],
+ "ekranlar/zimmet-yonetimi/diger-talepler-bekleyen-talepler.png": [],
+ "ekranlar/zimmet-yonetimi/diger-talepler-bekleyen-talepler-2.png": [],
+ "ekranlar/zimmet-yonetimi/ekip-zimmetleri.png": [
+  {
+   "no": 11,
+   "baslik": "Ekip zimmetlerini görüntüleme",
+   "x": 232,
+   "y": 218,
+   "w": 1656,
+   "h": 862
+  },
+  {
+   "no": 12,
+   "baslik": "Ekip zimmetlerini dışa aktarma",
+   "x": 1772,
+   "y": 162,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/zimmet-yonetimi/ekip-zimmetleri-2.png": [],
+ "ekranlar/zimmet-yonetimi/taleplerim.png": [],
+ "ekranlar/stok-yonetimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Stok birimini seçme",
+   "x": 1700,
+   "y": 97,
+   "w": 176,
+   "h": 30
+  },
+  {
+   "no": 2,
+   "baslik": "Ürünleri listeleme, arama ve filtreleme",
+   "x": 232,
+   "y": 517,
+   "w": 1656,
+   "h": 563
+  },
+  {
+   "no": 3,
+   "baslik": "Yeni ürün ekleme",
+   "x": 1776,
+   "y": 473,
+   "w": 112,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Toplu ürün girişi",
+   "x": 1650,
+   "y": 473,
+   "w": 119,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Ürün detayını, geçmişini ve görsellerini görüntüleme",
+   "x": 1744,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Ürün düzenleme ve görsel silme",
+   "x": 1744,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Ürün silme",
+   "x": 1744,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Ürünü çalışana zimmetleme (atama)",
+   "x": 1780,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Zimmeti iade alma",
+   "x": 1780,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Zimmeti değiştirme (yeni ürünle takas)",
+   "x": 1780,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Teslimi iptal etme ve atamayı kaldırma",
+   "x": 1780,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Ürünü bakıma alma ve diğer malzeme işlemleri",
+   "x": 1780,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 13,
+   "baslik": "Ürün listesini dışa aktarma",
+   "x": 1380,
+   "y": 473,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/stok-yonetimi/ana-2.png": [],
+ "ekranlar/stok-yonetimi/urun-yonetimi-kategoriler.png": [
+  {
+   "no": 14,
+   "baslik": "Kategori ekleme",
+   "x": 1753,
+   "y": 473,
+   "w": 135,
+   "h": 32
+  },
+  {
+   "no": 15,
+   "baslik": "Kategori düzenleme ve silme",
+   "x": 1815,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 16,
+   "baslik": "Kategoriye hatırlatma alanı tanımlama",
+   "x": 1815,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/stok-yonetimi/urun-yonetimi-envanter-paketleri.png": [
+  {
+   "no": 17,
+   "baslik": "Envanter paketi oluşturma",
+   "x": 1771,
+   "y": 473,
+   "w": 117,
+   "h": 32
+  },
+  {
+   "no": 18,
+   "baslik": "Envanter paketini düzenleme ve silme",
+   "x": 1752,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/stok-yonetimi/urun-yonetimi-havuz-takvimi.png": [
+  {
+   "no": 19,
+   "baslik": "Havuz takvimini görüntüleme",
+   "x": 232,
+   "y": 479,
+   "w": 203,
+   "h": 28
+  }
+ ],
+ "ekranlar/stok-yonetimi/urun-yonetimi-stok-satin-alma.png": [
+  {
+   "no": 20,
+   "baslik": "Stok satın alma kaydı oluşturma",
+   "x": 1738,
+   "y": 473,
+   "w": 150,
+   "h": 32
+  },
+  {
+   "no": 21,
+   "baslik": "Satın alma durumunu güncelleme",
+   "x": 1790,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 22,
+   "baslik": "Satın alınan ürünleri kayda bağlama",
+   "x": 1754,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 23,
+   "baslik": "Satın alma kaydını silme",
+   "x": 1790,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/stok-yonetimi/stok-talepleri.png": [
+  {
+   "no": 24,
+   "baslik": "Stok taleplerini görüntüleme ve filtreleme",
+   "x": 232,
+   "y": 517,
+   "w": 1656,
+   "h": 442
+  },
+  {
+   "no": 25,
+   "baslik": "Stok talebini üstlenme veya bir sorumluya atama",
+   "x": 1774,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 30,
+   "baslik": "Havuz talebini teslim etme",
+   "x": 1810,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/stok-yonetimi/stok-talepleri-bana-atananlar.png": [
+  {
+   "no": 26,
+   "baslik": "Stok talebini işleme alma, beklemeye alma veya talep sahibinden bilgi isteme",
+   "x": 1737,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 27,
+   "baslik": "Stok talebini başka birime veya yöneticiye aktarma",
+   "x": 1773,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 28,
+   "baslik": "Stok talebini reddetme veya iptal etme",
+   "x": 1773,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 29,
+   "baslik": "Talep edilen ürünü teslim etme",
+   "x": 1773,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 31,
+   "baslik": "Talep sahibiyle mesajlaşma",
+   "x": 1809,
+   "y": 568,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/stok-yonetimi/stok-ticket-lari.png": [
+  {
+   "no": 32,
+   "baslik": "Stok ticket'larını görüntüleme",
+   "x": 232,
+   "y": 473,
+   "w": 1656,
+   "h": 406
+  },
+  {
+   "no": 33,
+   "baslik": "Ticketı üstlenme, işleme alma, beklemeye alma",
+   "x": 1790,
+   "y": 546,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/stok-yonetimi/stok-ticket-lari-bana-atananlar.png": [
+  {
+   "no": 34,
+   "baslik": "Arızalı ürünü tamire alma",
+   "x": 1718,
+   "y": 524,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 35,
+   "baslik": "Ticket için yeni ürün teslim etme",
+   "x": 1754,
+   "y": 524,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 36,
+   "baslik": "Ticketı aktarma, reddetme, iptal etme veya tamamlama",
+   "x": 1754,
+   "y": 524,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 37,
+   "baslik": "Ticket sahibiyle mesajlaşma",
+   "x": 1790,
+   "y": 524,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/stok-yonetimi/stok-raporlari.png": [
+  {
+   "no": 38,
+   "baslik": "Stok raporunu görüntüleme",
+   "x": 637,
+   "y": 153,
+   "w": 106,
+   "h": 56
+  },
+  {
+   "no": 39,
+   "baslik": "Rapor alarmı oluşturma",
+   "x": 1713,
+   "y": 433,
+   "w": 150,
+   "h": 32
+  },
+  {
+   "no": 40,
+   "baslik": "Rapor alarmını hemen gönderme, düzenleme veya silme",
+   "x": 232,
+   "y": 401,
+   "w": 1656,
+   "h": 242
+  }
+ ],
+ "ekranlar/stok-yonetimi/urun-yonetimi-urunler.png": [],
+ "ekranlar/stok-yonetimi/urun-yonetimi-urunler-2.png": [],
+ "ekranlar/calisani-goruntule/calisan-islemleri-menusu.png": [
+  {
+   "no": 6,
+   "baslik": "Çalışanı düzenlemeye geçme",
+   "x": 1685,
+   "y": 191,
+   "w": 178,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Çalışanın dosyalarını güncelleme",
+   "x": 1614,
+   "y": 262,
+   "w": 245,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Çalışanın profilini değiştirme",
+   "x": 1614,
+   "y": 358,
+   "w": 245,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Çalışma belgesi alma",
+   "x": 1614,
+   "y": 390,
+   "w": 245,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Çalışanı sonlandırma (işten çıkarma)",
+   "x": 1614,
+   "y": 454,
+   "w": 245,
+   "h": 32
+  },
+  {
+   "no": 13,
+   "baslik": "Mevcut pozisyonu düzenleme",
+   "x": 1614,
+   "y": 294,
+   "w": 245,
+   "h": 32
+  },
+  {
+   "no": 14,
+   "baslik": "Pozisyon değiştirme",
+   "x": 1614,
+   "y": 326,
+   "w": 245,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisani-goruntule/calisan-islemleri-menusu-2.png": [],
+ "ekranlar/calisani-goruntule/calisan-islemleri-menusu-3.png": [],
+ "ekranlar/calisani-goruntule/calisan-islemleri-menusu-4.png": [],
+ "ekranlar/isten-cikarma-yonetimi/isten-cikarilan-calisan-detaylari.png": [
+  {
+   "no": 5,
+   "baslik": "İşten ayrılma belgesini indirme",
+   "x": 1067,
+   "y": 838,
+   "w": 185,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisan-yonetimi/calisan-karti-kisisel-bilgiler.png": [
+  {
+   "no": 5,
+   "baslik": "Çalışan kartını (detayını) açma",
+   "x": 245,
+   "y": 91,
+   "w": 128,
+   "h": 40
+  },
+  {
+   "no": 29,
+   "baslik": "Çalışanın modül kayıtlarını görüntüleme",
+   "x": 589,
+   "y": 91,
+   "w": 119,
+   "h": 40
+  }
+ ],
+ "ekranlar/calisan-yonetimi/calisan-karti-kisisel-bilgiler-2.png": [],
+ "ekranlar/calisan-yonetimi/calisan-karti-kisisel-bilgiler-3.png": [],
+ "ekranlar/calisan-yonetimi/calisan-karti-kisisel-bilgiler-4.png": [],
+ "ekranlar/calisan-yonetimi/calisan-karti-kariyer.png": [
+  {
+   "no": 8,
+   "baslik": "Çalışan bilgilerini düzenleme",
+   "x": 1685,
+   "y": 135,
+   "w": 178,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Belgeleri toplu yükleme",
+   "x": 1685,
+   "y": 135,
+   "w": 178,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Pozisyon ataması ekleme / değiştirme",
+   "x": 1697,
+   "y": 304,
+   "w": 165,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Birim değişikliği (birimler arası transfer)",
+   "x": 1685,
+   "y": 135,
+   "w": 178,
+   "h": 32
+  },
+  {
+   "no": 14,
+   "baslik": "Sözleşme ekleme ve düzenleme",
+   "x": 1560,
+   "y": 304,
+   "w": 129,
+   "h": 32
+  },
+  {
+   "no": 27,
+   "baslik": "Çalışma belgesi alma",
+   "x": 1685,
+   "y": 135,
+   "w": 178,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisan-yonetimi/calisan-karti-kariyer-2.png": [],
+ "ekranlar/calisan-yonetimi/calisan-karti-aile-bilgileri.png": [
+  {
+   "no": 15,
+   "baslik": "Aile bilgisi (eş / çocuk) ekleme",
+   "x": 1636,
+   "y": 383,
+   "w": 95,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisan-yonetimi/calisan-karti-aile-bilgileri-2.png": [],
+ "ekranlar/calisan-yonetimi/calisan-karti-calisan-uyarilari.png": [
+  {
+   "no": 21,
+   "baslik": "Çalışan uyarısı (disiplin) verme",
+   "x": 1727,
+   "y": 303,
+   "w": 135,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisan-yonetimi/calisan-karti-calisan-uyarilari-2.png": [],
+ "ekranlar/calisan-yonetimi/calisan-karti-bordro-bilgileri.png": [
+  {
+   "no": 20,
+   "baslik": "Bordro bilgilerini düzenleme",
+   "x": 233,
+   "y": 347,
+   "w": 1654,
+   "h": 733
+  }
+ ],
+ "ekranlar/calisan-yonetimi/calisan-karti-bordro-bilgileri-2.png": [
+  {
+   "no": 16,
+   "baslik": "Banka hesabı ekleme ve onaylama",
+   "x": 369,
+   "y": 316,
+   "w": 124,
+   "h": 25
+  },
+  {
+   "no": 17,
+   "baslik": "Önceki hizmet dönemi ekleme",
+   "x": 1747,
+   "y": 826,
+   "w": 127,
+   "h": 32
+  }
+ ],
+ "ekranlar/calisan-yonetimi/calisan-karti-bordro-bilgileri-3.png": [
+  {
+   "no": 13,
+   "baslik": "Masraf yeri dağılımı",
+   "x": 233,
+   "y": 646,
+   "w": 1654,
+   "h": 350
+  }
+ ],
+ "ekranlar/anketler/anket-olustur.png": [
+  {
+   "no": 6,
+   "baslik": "Soru ve seçenek ekleme",
+   "x": 240,
+   "y": 795,
+   "w": 1640,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Bağlı (koşullu) soru tanımlama",
+   "x": 240,
+   "y": 795,
+   "w": 1640,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Şablondan anket yükleme",
+   "x": 1721,
+   "y": 104,
+   "w": 159,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Anket alıcılarını seçme",
+   "x": 1729,
+   "y": 497,
+   "w": 125,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Zamanlı (düzenli tekrarlanan) anket kurma",
+   "x": 286,
+   "y": 698,
+   "w": 98,
+   "h": 17
+  }
+ ],
+ "ekranlar/anketler/anket-sonuclari.png": [
+  {
+   "no": 14,
+   "baslik": "Anket sonuçlarını dışa aktarma",
+   "x": 1629,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 15,
+   "baslik": "Anket adresini kopyalama",
+   "x": 1488,
+   "y": 96,
+   "w": 132,
+   "h": 32
+  }
+ ],
+ "ekranlar/anketler/anket-sonuclari-2.png": [],
+ "ekranlar/calisan-disa-aktarma/temel-bilgi-alanlari.png": [
+  {
+   "no": 1,
+   "baslik": "Dosyaya girecek temel alanları seçme",
+   "x": 257,
+   "y": 491,
+   "w": 207,
+   "h": 48
+  },
+  {
+   "no": 3,
+   "baslik": "Alan bazında filtre koyma",
+   "x": 316,
+   "y": 571,
+   "w": 73,
+   "h": 17
+  }
+ ],
+ "ekranlar/calisan-disa-aktarma/ozel-alanlar.png": [
+  {
+   "no": 2,
+   "baslik": "Özel alanları seçme",
+   "x": 466,
+   "y": 90,
+   "w": 161,
+   "h": 48
+  }
+ ],
+ "ekranlar/calisan-disa-aktarma/ozel-alanlar-2.png": [],
+ "ekranlar/calisan-disa-aktarma/ozel-alanlar-3.png": [],
+ "ekranlar/calisan-disa-aktarma/organizasyon-bilgileri.png": [
+  {
+   "no": 4,
+   "baslik": "Organizasyon bilgilerine göre filtreleme",
+   "x": 629,
+   "y": 491,
+   "w": 225,
+   "h": 48
+  }
+ ],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-hedef-kartlari-4.png": [],
+ "ekranlar/performans-yonetimi/donem-yonetimi-hedefler-liste-3.png": [],
+ "ekranlar/calisani-goruntule/ana-5.png": [],
+ "ekranlar/calisani-goruntule/ana-6.png": [],
+ "ekranlar/calisani-goruntule/calisan-islemleri-menusu-5.png": [],
+ "ekranlar/calisani-goruntule/calisan-islemleri-menusu-6.png": [],
+ "ekranlar/calisani-goruntule/kisisel-bilgiler-5.png": [],
+ "ekranlar/calisani-goruntule/kisisel-bilgiler-6.png": [],
+ "ekranlar/calisan-yonetimi/calisan-karti-kisisel-bilgiler-5.png": [],
+ "ekranlar/calisan-yonetimi/calisan-karti-kisisel-bilgiler-6.png": []
+}

@@ -1,0 +1,99 @@
+{
+  "vardiya-yonetimi": [
+    {
+      "islem": 2,
+      "baslik": "Çalışana vardiya atama",
+      "yok": "Planlama hücresindeki + simgesinin yazısı yok; tarif adımlarıyla tıklanamıyor"
+    },
+    {
+      "islem": 5,
+      "baslik": "Haftayı kopyalama",
+      "ekran": null,
+      "ac": [
+        {
+          "buton": "Haftayı Kopyala"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form \"Haftayı Kopyala\" (yasak kelime: kopyala) butonuyla açılıyor"
+    },
+    {
+      "islem": 8,
+      "baslik": "Açık vardiya yayınlama",
+      "yok": "Açık vardiyalar satırındaki hücrelerin yazısı yok; işlem ayrıca \"yayınla\" içeriyor"
+    },
+    {
+      "islem": 12,
+      "baslik": "Atamaya not ekleme ve fazla mesai uygunluğu",
+      "yok": "Planlama tablosunda atanmış vardiya kutusu yok; açılacak öğe bulunmuyor"
+    },
+    {
+      "islem": 16,
+      "baslik": "Vardiya değişim talebini onaylama",
+      "ekran": "Talepler > Onayımı Bekleyenler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form yasak kelimeli (onayla/reddet) butonla açılıyor"
+    },
+    {
+      "islem": 17,
+      "baslik": "Vardiya değişim talebini reddetme",
+      "ekran": "Talepler > Onayımı Bekleyenler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form yasak kelimeli (onayla/reddet) butonla açılıyor"
+    },
+    {
+      "islem": 24,
+      "baslik": "Giriş / çıkış kaydını elle girme",
+      "yok": "Ekip Listesi satırlarında işlem butonu yok"
+    },
+    {
+      "islem": 31,
+      "baslik": "Uyum kaydını gördüm olarak işaretleme",
+      "ekran": "Yasal Uyum",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "buton": "Gördüm"
+        }
+      ],
+      "eskiGerekce": "yeniden çekim"
+    }
+  ],
+  "vardiyalarim": [
+    {
+      "islem": 9,
+      "baslik": "Gelen devretme / takas talebini kabul etme",
+      "yok": "Form \"Kabul Et\" (yasak kelime) butonuyla açılıyor"
+    },
+    {
+      "islem": 10,
+      "baslik": "Gelen devretme / takas talebini reddetme",
+      "yok": "Form \"Reddet\" (yasak kelime) butonuyla açılıyor"
+    },
+    {
+      "islem": 11,
+      "baslik": "Açık vardiyaya talip olma",
+      "ekran": "Açık Vardiyalar",
+      "yok": "Talip Ol tek tıkla talep gönderir; ayrı form penceresi açılmaz."
+    },
+    {
+      "islem": 12,
+      "baslik": "Vardiya tercihlerini bildirme",
+      "ekran": "Tercihlerim",
+      "yerinde": true,
+      "kaydir": "Çalışamayacağım haftanın günleri"
+    }
+  ]
+}

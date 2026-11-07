@@ -1,0 +1,51 @@
+{
+  "birim-yonetimi-genel": [
+    {
+      "islem": 25,
+      "baslik": "Doğum günü bildirimlerini ayarlama",
+      "ekran": "Bildirim Yönetimi > Doğum Günü Bildirimleri",
+      "yerinde": true,
+      "kaydir": "Gönderim Kuralları",
+      "pencereSekmeleri": [
+        "Çalışan",
+        "Hatırlatıcı",
+        "Gününde"
+      ]
+    },
+    {
+      "islem": 26,
+      "baslik": "Kutlama görseli yükleme veya kaldırma",
+      "ekran": "Bildirim Yönetimi > Doğum Günü Bildirimleri",
+      "yerinde": true,
+      "kaydir": "Kutlama Görseli"
+    },
+    {
+      "islem": 29,
+      "baslik": "Deneme süresi bildirimlerini ve varsayılan günleri ayarlama",
+      "ekran": "Bildirim Yönetimi > Deneme Süresi Bildirimleri",
+      "yerinde": true,
+      "kaydir": "Varsayılan Hatırlatma Günleri"
+    },
+    {
+      "islem": 30,
+      "baslik": "Sözleşme bitiş bildirimlerini ayarlama",
+      "ekran": "Bildirim Yönetimi > Sözleşme Bitiş Bildirimleri",
+      "yerinde": true,
+      "kaydir": "Varsayılan Hatırlatma Günleri"
+    },
+    {
+      "islem": 31,
+      "baslik": "Değerlendirme anketi ekleme (deneme süresi / sözleşme bitişi)",
+      "ekran": "Bildirim Yönetimi > Deneme Süresi Bildirimleri",
+      "yerinde": true,
+      "kaydir": "Değerlendirme Anketi"
+    },
+    {
+      "islem": 32,
+      "baslik": "İzin akışı ek bildirim kişilerini belirleme",
+      "ekran": "Bildirim Yönetimi > İş Akışı Bildirimleri",
+      "yerinde": true,
+      "kaydir": "Onaylandığında bildir"
+    }
+  ]
+}

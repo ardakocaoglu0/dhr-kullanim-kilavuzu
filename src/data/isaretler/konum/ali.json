@@ -1,0 +1,1731 @@
+{
+ "ekranlar/masraflarim/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Masraf taleplerini görüntüleme",
+   "x": 232,
+   "y": 321,
+   "w": 1656,
+   "h": 708
+  },
+  {
+   "no": 2,
+   "baslik": "Talep detayını görüntüleme",
+   "x": 1788,
+   "y": 380,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Yeni masraf talebi oluşturma",
+   "x": 1594,
+   "y": 96,
+   "w": 170,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Masraf taleplerini dışa aktarma",
+   "x": 1772,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/masraflarim/masraf-talepleri-bekleyen.png": [
+  {
+   "no": 4,
+   "baslik": "Masraf talebini düzenleme",
+   "x": 1770,
+   "y": 384,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Masraf talebini iptal etme",
+   "x": 1806,
+   "y": 384,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/masraflarim/masraf-raporlarim.png": [
+  {
+   "no": 7,
+   "baslik": "Masraf raporlarını görüntüleme",
+   "x": 232,
+   "y": 395,
+   "w": 1656,
+   "h": 299
+  },
+  {
+   "no": 8,
+   "baslik": "Yeni masraf raporu oluşturma",
+   "x": 1769,
+   "y": 221,
+   "w": 119,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Taslak raporu düzenleme veya silme",
+   "x": 1751,
+   "y": 442,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Masraf raporunu onaya gönderme",
+   "x": 1751,
+   "y": 442,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/zimmetlerim/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Zimmetlerimi görüntüleme",
+   "x": 232,
+   "y": 537,
+   "w": 1656,
+   "h": 326
+  },
+  {
+   "no": 2,
+   "baslik": "Yeni ekipman talep etme",
+   "x": 1305,
+   "y": 96,
+   "w": 161,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Havuzdan ürün talep etme (rezervasyon)",
+   "x": 1475,
+   "y": 96,
+   "w": 171,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Ticket açma (arıza veya sorun bildirme)",
+   "x": 1654,
+   "y": 96,
+   "w": 110,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Ekipman taleplerimi izleme",
+   "x": 352,
+   "y": 421,
+   "w": 154,
+   "h": 46
+  },
+  {
+   "no": 12,
+   "baslik": "Zimmet listesini dışa aktarma",
+   "x": 1772,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/zimmetlerim/ekipman-taleplerim.png": [
+  {
+   "no": 6,
+   "baslik": "Talebi düzenleme, iptal etme veya silme",
+   "x": 1696,
+   "y": 484,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Talebe yorum ekleme",
+   "x": 1732,
+   "y": 484,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/zimmetlerim/ticketlarim.png": [
+  {
+   "no": 8,
+   "baslik": "Stok yöneticisiyle mesajlaşma",
+   "x": 1674,
+   "y": 588,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Ticketlarımı izleme ve iptal etme",
+   "x": 232,
+   "y": 537,
+   "w": 1656,
+   "h": 269
+  }
+ ],
+ "ekranlar/zimmetlerim/teslim-iade.png": [
+  {
+   "no": 10,
+   "baslik": "Teslim ve iade kayıtlarını görüntüleme",
+   "x": 232,
+   "y": 537,
+   "w": 1656,
+   "h": 211
+  },
+  {
+   "no": 11,
+   "baslik": "Ürünü teslim aldığını onaylama",
+   "x": 232,
+   "y": 537,
+   "w": 1656,
+   "h": 211
+  }
+ ],
+ "ekranlar/bordrom/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Bordrolarımı görüntüleme",
+   "x": 256,
+   "y": 828,
+   "w": 1608,
+   "h": 252
+  },
+  {
+   "no": 2,
+   "baslik": "Bordro pusulasını görüntüleme ve indirme",
+   "x": 256,
+   "y": 828,
+   "w": 1608,
+   "h": 252
+  },
+  {
+   "no": 3,
+   "baslik": "E-postayla gelen bordronun şifresini görme",
+   "x": 256,
+   "y": 828,
+   "w": 1608,
+   "h": 252
+  },
+  {
+   "no": 4,
+   "baslik": "Bordroya itiraz etme",
+   "x": 256,
+   "y": 828,
+   "w": 1608,
+   "h": 252
+  }
+ ],
+ "ekranlar/bordrom/arsiv.png": [
+  {
+   "no": 6,
+   "baslik": "Arşiv bordrolarımı görüntüleme",
+   "x": 240,
+   "y": 229,
+   "w": 112,
+   "h": 28
+  }
+ ],
+ "ekranlar/bordrom/mektuplarim.png": [
+  {
+   "no": 7,
+   "baslik": "Mektuplarımı görüntüleme ve indirme",
+   "x": 232,
+   "y": 321,
+   "w": 1656,
+   "h": 94
+  },
+  {
+   "no": 8,
+   "baslik": "Mektubu “Okudum” olarak işaretleme",
+   "x": 232,
+   "y": 321,
+   "w": 1656,
+   "h": 94
+  }
+ ],
+ "ekranlar/bordrom/avanslarim.png": [
+  {
+   "no": 9,
+   "baslik": "Avanslarımı görüntüleme",
+   "x": 232,
+   "y": 273,
+   "w": 1656,
+   "h": 339
+  },
+  {
+   "no": 10,
+   "baslik": "Yeni avans talebi oluşturma",
+   "x": 1724,
+   "y": 221,
+   "w": 164,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Avans talebini geri çekme",
+   "x": 1592,
+   "y": 332,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 12,
+   "baslik": "Değiştirilen avans tutarını kabul etme",
+   "x": 1556,
+   "y": 332,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 13,
+   "baslik": "İş avansı için mahsuplaşma yapma",
+   "x": 1556,
+   "y": 332,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/bilgilerim/ana.png": [
+  {
+   "no": 2,
+   "baslik": "Bilgilerimde arama",
+   "x": 1477,
+   "y": 147,
+   "w": 200,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Bilgilerimi güncelleme / değişiklik talebi",
+   "x": 1685,
+   "y": 147,
+   "w": 178,
+   "h": 32
+  }
+ ],
+ "ekranlar/bilgilerim/kisisel-bilgiler.png": [
+  {
+   "no": 1,
+   "baslik": "Kişisel bilgilerimi görüntüleme",
+   "x": 245,
+   "y": 91,
+   "w": 128,
+   "h": 40
+  }
+ ],
+ "ekranlar/bilgilerim/kariyer.png": [
+  {
+   "no": 5,
+   "baslik": "Kariyer bilgilerimi, sözleşmelerimi ve pozisyon geçmişimi görüntüleme",
+   "x": 233,
+   "y": 247,
+   "w": 1654,
+   "h": 224
+  }
+ ],
+ "ekranlar/bilgilerim/aile-bilgileri.png": [
+  {
+   "no": 6,
+   "baslik": "Aile bilgilerimi görüntüleme",
+   "x": 469,
+   "y": 191,
+   "w": 114,
+   "h": 40
+  }
+ ],
+ "ekranlar/bilgilerim/izin-talepleri.png": [
+  {
+   "no": 7,
+   "baslik": "İzin ve ek mesai taleplerimi görüntüleme",
+   "x": 588,
+   "y": 191,
+   "w": 120,
+   "h": 40
+  }
+ ],
+ "ekranlar/bilgilerim/zimmetler.png": [
+  {
+   "no": 8,
+   "baslik": "Zimmet, seyahat ve masraf kayıtlarımı görüntüleme",
+   "x": 871,
+   "y": 191,
+   "w": 105,
+   "h": 40
+  }
+ ],
+ "ekranlar/bilgilerim/performans.png": [
+  {
+   "no": 9,
+   "baslik": "Performans bilgilerimi görüntüleme",
+   "x": 1199,
+   "y": 191,
+   "w": 114,
+   "h": 40
+  }
+ ],
+ "ekranlar/bilgilerim/puantaj.png": [
+  {
+   "no": 10,
+   "baslik": "İşe giriş/çıkış süreçlerimi, görevlerimi ve puantajımı görüntüleme",
+   "x": 1556,
+   "y": 91,
+   "w": 88,
+   "h": 40
+  }
+ ],
+ "ekranlar/bilgilerim/dokuman-talepleri.png": [
+  {
+   "no": 11,
+   "baslik": "Doküman taleplerimi ve dokümanlarımı görüntüleme",
+   "x": 1650,
+   "y": 191,
+   "w": 157,
+   "h": 40
+  }
+ ],
+ "ekranlar/bilgilerim/calisan-uyarilari.png": [
+  {
+   "no": 12,
+   "baslik": "Uyarılarımı ve bordro bilgilerimi görüntüleme",
+   "x": 258,
+   "y": 327,
+   "w": 1604,
+   "h": 160
+  }
+ ],
+ "ekranlar/dokumanlarim/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Belge özetini ve listeleri görüntüleme",
+   "x": 232,
+   "y": 372,
+   "w": 1656,
+   "h": 440
+  },
+  {
+   "no": 9,
+   "baslik": "Talep detaylarını görüntüleme",
+   "x": 1744,
+   "y": 435,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Belgelerimi dışa aktarma",
+   "x": 1772,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokumanlarim/yonetim-dokuman-talepleri.png": [
+  {
+   "no": 2,
+   "baslik": "İstenen belgeyi yükleme (Doküman Yükle)",
+   "x": 1708,
+   "y": 435,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Reddedilen belgeyi yeniden yükleme",
+   "x": 1708,
+   "y": 435,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokumanlarim/calisan-dokuman-talepleri.png": [
+  {
+   "no": 4,
+   "baslik": "Belge talep etme (Yeni Talep)",
+   "x": 1648,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Belge talebini düzenleme veya geri çekme",
+   "x": 232,
+   "y": 372,
+   "w": 1656,
+   "h": 450
+  },
+  {
+   "no": 6,
+   "baslik": "Hazırlanan belgeyi görüntüleme ve indirme",
+   "x": 232,
+   "y": 372,
+   "w": 1656,
+   "h": 450
+  }
+ ],
+ "ekranlar/dokumanlarim/yonetim-tarafindan-gonderilen.png": [
+  {
+   "no": 7,
+   "baslik": "Gönderilen belgeyi görüntüleme ve onaylama",
+   "x": 1727,
+   "y": 437,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/dokumanlarim/calisan-tarafindan-gonderilen.png": [
+  {
+   "no": 8,
+   "baslik": "Yönetime belge gönderme (Doküman Gönder)",
+   "x": 1476,
+   "y": 96,
+   "w": 164,
+   "h": 32
+  }
+ ],
+ "ekranlar/ek-mesailerim/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Aylık ek mesai özetini görüntüleme",
+   "x": 232,
+   "y": 269,
+   "w": 1656,
+   "h": 145
+  },
+  {
+   "no": 2,
+   "baslik": "Ek mesai takvimini kullanma",
+   "x": 232,
+   "y": 491,
+   "w": 1656,
+   "h": 589
+  },
+  {
+   "no": 3,
+   "baslik": "Yeni ek mesai talebi oluşturma",
+   "x": 1778,
+   "y": 96,
+   "w": 110,
+   "h": 32
+  }
+ ],
+ "ekranlar/ek-mesailerim/onay-gecmisi.png": [
+  {
+   "no": 4,
+   "baslik": "Onay geçmişini görüntüleme ve filtreleme",
+   "x": 232,
+   "y": 435,
+   "w": 1656,
+   "h": 396
+  },
+  {
+   "no": 5,
+   "baslik": "Talep detayını görüntüleme",
+   "x": 1751,
+   "y": 494,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Bekleyen talebi düzenleme",
+   "x": 1751,
+   "y": 494,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Bekleyen talebi iptal etme",
+   "x": 1787,
+   "y": 494,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Talebi PDF olarak indirme",
+   "x": 1751,
+   "y": 494,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 9,
+   "baslik": "Ek mesailerimi dışa aktarma",
+   "x": 1772,
+   "y": 391,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/genel-arayuz/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Menüde gezinme ve menüyü daraltma",
+   "x": 42,
+   "y": 175,
+   "w": 143,
+   "h": 20
+  },
+  {
+   "no": 9,
+   "baslik": "Anketleri yanıtlama",
+   "x": 1620,
+   "y": 430,
+   "w": 76,
+   "h": 19
+  },
+  {
+   "no": 10,
+   "baslik": "Verdiğim anket yanıtlarını görüntüleme",
+   "x": 1620,
+   "y": 430,
+   "w": 76,
+   "h": 19
+  },
+  {
+   "no": 16,
+   "baslik": "Profilinizi görüntüleme",
+   "x": 0,
+   "y": 248,
+   "w": 191,
+   "h": 38
+  },
+  {
+   "no": 19,
+   "baslik": "Günün sözü",
+   "x": 1427,
+   "y": 101,
+   "w": 446,
+   "h": 14
+  },
+  {
+   "no": 20,
+   "baslik": "Tema ve dil değiştirme",
+   "x": 1759,
+   "y": 12,
+   "w": 145,
+   "h": 40
+  },
+  {
+   "no": 21,
+   "baslik": "Sayfa bilgisi (i simgesi)",
+   "x": 232,
+   "y": 96,
+   "w": 256,
+   "h": 32
+  }
+ ],
+ "ekranlar/kontrol-panelim/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Günlük özeti görüntüleme",
+   "x": 1722,
+   "y": 183,
+   "w": 149,
+   "h": 32
+  },
+  {
+   "no": 2,
+   "baslik": "İşe giriş sürecini takip etme",
+   "x": 232,
+   "y": 167,
+   "w": 1656,
+   "h": 303
+  },
+  {
+   "no": 3,
+   "baslik": "İzin bakiyesini ve son izin taleplerini görme",
+   "x": 791,
+   "y": 487,
+   "w": 539,
+   "h": 593
+  }
+ ],
+ "ekranlar/kontrol-panelim/yonetim-talepleri.png": [
+  {
+   "no": 4,
+   "baslik": "Yönetim taleplerini görüntüleme",
+   "x": 1366,
+   "y": 90,
+   "w": 168,
+   "h": 32
+  }
+ ],
+ "ekranlar/kontrol-panelim/talepleriniz.png": [
+  {
+   "no": 5,
+   "baslik": "Kendi doküman taleplerinizi görüntüleme",
+   "x": 1535,
+   "y": 90,
+   "w": 168,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Son masraf taleplerini görme",
+   "x": 791,
+   "y": 673,
+   "w": 539,
+   "h": 400
+  },
+  {
+   "no": 9,
+   "baslik": "Pozisyon şemasında gezinme",
+   "x": 1349,
+   "y": 673,
+   "w": 539,
+   "h": 400
+  },
+  {
+   "no": 13,
+   "baslik": "Yaklaşan doğum günlerini görme",
+   "x": 232,
+   "y": 673,
+   "w": 539,
+   "h": 400
+  }
+ ],
+ "ekranlar/kontrol-panelim/gonderilen-dokumanlar.png": [
+  {
+   "no": 6,
+   "baslik": "Size gönderilen dokümanları görüntüleme",
+   "x": 1703,
+   "y": 90,
+   "w": 168,
+   "h": 32
+  }
+ ],
+ "ekranlar/gorevlerim/ana.png": [
+  {
+   "no": 2,
+   "baslik": "Görev kaydı ekleme",
+   "x": 1652,
+   "y": 96,
+   "w": 113,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Görev kayıtlarını dışa aktarma",
+   "x": 1772,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/gorevlerim/takvim.png": [
+  {
+   "no": 1,
+   "baslik": "Takvimi görüntüleme",
+   "x": 232,
+   "y": 106,
+   "w": 14,
+   "h": 14
+  }
+ ],
+ "ekranlar/gorevlerim/kayitlarim.png": [
+  {
+   "no": 3,
+   "baslik": "Kayıtlarınızı listeleme",
+   "x": 232,
+   "y": 215,
+   "w": 1656,
+   "h": 644
+  },
+  {
+   "no": 4,
+   "baslik": "Kayıt detayını görüntüleme",
+   "x": 1794,
+   "y": 266,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Bekleyen kaydı iptal etme",
+   "x": 1830,
+   "y": 266,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Adım durumunu güncelleme",
+   "x": 1794,
+   "y": 266,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Kaydı düzenleme ve silme",
+   "x": 1794,
+   "y": 266,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/izinlerim/ana.png": [
+  {
+   "no": 1,
+   "baslik": "İzin bakiyesini görüntüleme",
+   "x": 232,
+   "y": 153,
+   "w": 1099,
+   "h": 771
+  },
+  {
+   "no": 2,
+   "baslik": "Tahmini bakiye hesaplama",
+   "x": 1138,
+   "y": 198,
+   "w": 147,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "İzin takvimini ve resmi tatilleri görüntüleme",
+   "x": 232,
+   "y": 153,
+   "w": 1099,
+   "h": 771
+  },
+  {
+   "no": 4,
+   "baslik": "Yeni izin talebi oluşturma (tam gün)",
+   "x": 1648,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Saatlik izin talebi oluşturma",
+   "x": 1648,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  },
+  {
+   "no": 6,
+   "baslik": "Taleplerimi listeleme ve filtreleme",
+   "x": 232,
+   "y": 948,
+   "w": 166,
+   "h": 46
+  },
+  {
+   "no": 9,
+   "baslik": "İzin belgesi indirme",
+   "x": 622,
+   "y": 948,
+   "w": 178,
+   "h": 46
+  },
+  {
+   "no": 10,
+   "baslik": "Taleplerimi dışa aktarma",
+   "x": 1772,
+   "y": 96,
+   "w": 116,
+   "h": 32
+  }
+ ],
+ "ekranlar/izinlerim/bekleyen-talepler.png": [
+  {
+   "no": 7,
+   "baslik": "Talep detayını görüntüleme",
+   "x": 1756,
+   "y": 811,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "İzin talebini iptal etme",
+   "x": 1792,
+   "y": 811,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/izinlerim/degisiklik-onaylari.png": [
+  {
+   "no": 11,
+   "baslik": "Bakiye değişikliğini onaylama",
+   "x": 232,
+   "y": 882,
+   "w": 1656,
+   "h": 198
+  },
+  {
+   "no": 12,
+   "baslik": "Bakiye değişikliğini reddetme",
+   "x": 232,
+   "y": 882,
+   "w": 1656,
+   "h": 198
+  },
+  {
+   "no": 13,
+   "baslik": "Geçmiş değişiklikleri görüntüleme",
+   "x": 316,
+   "y": 840,
+   "w": 59,
+   "h": 28
+  }
+ ],
+ "ekranlar/bilgilerimi-duzenle/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Düzenleme sayfasını açma",
+   "x": 1682,
+   "y": 147,
+   "w": 181,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Profil fotoğrafı yükleme ve kırpma",
+   "x": 339,
+   "y": 121,
+   "w": 258,
+   "h": 27
+  },
+  {
+   "no": 8,
+   "baslik": "Profil fotoğrafını büyütme ve silme",
+   "x": 339,
+   "y": 121,
+   "w": 258,
+   "h": 27
+  },
+  {
+   "no": 9,
+   "baslik": "Kaydedilmemiş değişiklikleri atma",
+   "x": 1444,
+   "y": 1008,
+   "w": 316,
+   "h": 48
+  }
+ ],
+ "ekranlar/bilgilerimi-duzenle/temel-bilgiler.png": [
+  {
+   "no": 2,
+   "baslik": "Temel bilgilerimi ve organizasyon bilgilerimi kontrol etme",
+   "x": 257,
+   "y": 90,
+   "w": 107,
+   "h": 46
+  }
+ ],
+ "ekranlar/bilgilerimi-duzenle/kisisel-bilgiler-sekmesi.png": [
+  {
+   "no": 3,
+   "baslik": "Kişisel ve iletişim bilgilerimi güncelleme",
+   "x": 392,
+   "y": 90,
+   "w": 169,
+   "h": 46
+  },
+  {
+   "no": 5,
+   "baslik": "Belge alanına dosya yükleme (onaya gönderme)",
+   "x": 1496,
+   "y": 882,
+   "w": 199,
+   "h": 22
+  },
+  {
+   "no": 6,
+   "baslik": "Mevcut belgeyi görüntüleme ve indirme",
+   "x": 1737,
+   "y": 824,
+   "w": 88,
+   "h": 32
+  }
+ ],
+ "ekranlar/bilgilerimi-duzenle/egitim-bilgileri-sekmesi.png": [
+  {
+   "no": 4,
+   "baslik": "Eğitim bilgilerimi ekleme (çok kayıtlı alanlar)",
+   "x": 758,
+   "y": 152,
+   "w": 171,
+   "h": 46
+  }
+ ],
+ "ekranlar/bilgilerimi-duzenle/yasal-bilgiler-sekmesi.png": [
+  {
+   "no": 10,
+   "baslik": "IBAN ve banka bilgisi",
+   "x": 1322,
+   "y": 552,
+   "w": 524,
+   "h": 152
+  }
+ ],
+ "ekranlar/calisan-geri-bildirimi/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Geri bildirim oluşturma",
+   "x": 1708,
+   "y": 96,
+   "w": 180,
+   "h": 32
+  },
+  {
+   "no": 2,
+   "baslik": "Anonim geri bildirim gönderme",
+   "x": 1708,
+   "y": 96,
+   "w": 180,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Şikayet / mobbing bildiriminde ilgili çalışanları belirtme",
+   "x": 1708,
+   "y": 96,
+   "w": 180,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Geri bildirimi düzenleme veya silme",
+   "x": 257,
+   "y": 256,
+   "w": 1606,
+   "h": 24
+  }
+ ],
+ "ekranlar/calisan-geri-bildirimi/giden-geri-bildirimler.png": [
+  {
+   "no": 4,
+   "baslik": "Gönderdiğim geri bildirimleri görüntüleme",
+   "x": 232,
+   "y": 153,
+   "w": 140,
+   "h": 46
+  }
+ ],
+ "ekranlar/calisan-geri-bildirimi/gelen-geri-bildirimler.png": [
+  {
+   "no": 5,
+   "baslik": "Gelen geri bildirimleri okuma",
+   "x": 400,
+   "y": 153,
+   "w": 140,
+   "h": 46
+  },
+  {
+   "no": 6,
+   "baslik": "Ek belgeyi indirme",
+   "x": 400,
+   "y": 153,
+   "w": 140,
+   "h": 46
+  }
+ ],
+ "ekranlar/mesailerim/bugunku-mesaim.png": [
+  {
+   "no": 1,
+   "baslik": "Bugünkü mesaiyi görüntüleme",
+   "x": 232,
+   "y": 477,
+   "w": 1656,
+   "h": 164
+  },
+  {
+   "no": 2,
+   "baslik": "QR okutarak giriş veya çıkış yapma",
+   "x": 267,
+   "y": 298,
+   "w": 1608,
+   "h": 22
+  },
+  {
+   "no": 3,
+   "baslik": "Uzaktan giriş / çıkış yapma",
+   "x": 1621,
+   "y": 221,
+   "w": 136,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Ev konumunu ilk kez tanımlama",
+   "x": 1765,
+   "y": 221,
+   "w": 123,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Ev konumu değişim talebi gönderme",
+   "x": 1765,
+   "y": 221,
+   "w": 123,
+   "h": 32
+  }
+ ],
+ "ekranlar/mesailerim/mesai-gecmisim.png": [
+  {
+   "no": 6,
+   "baslik": "Mesai geçmişini takvim veya tablo olarak görüntüleme",
+   "x": 232,
+   "y": 359,
+   "w": 1656,
+   "h": 361
+  },
+  {
+   "no": 7,
+   "baslik": "Mesai düzeltme talebi oluşturma",
+   "x": 232,
+   "y": 359,
+   "w": 1656,
+   "h": 361
+  },
+  {
+   "no": 8,
+   "baslik": "Düzeltme taleplerimi görüntüleme ve iptal etme",
+   "x": 314,
+   "y": 491,
+   "w": 87,
+   "h": 10
+  },
+  {
+   "no": 9,
+   "baslik": "Mesai geçmişini dışa aktarma",
+   "x": 790,
+   "y": 298,
+   "w": 264,
+   "h": 32
+  }
+ ],
+ "ekranlar/performansim/hedeflerim.png": [
+  {
+   "no": 1,
+   "baslik": "Hedeflerimi dönem bazında görüntüleme",
+   "x": 1660,
+   "y": 159,
+   "w": 216,
+   "h": 30
+  },
+  {
+   "no": 2,
+   "baslik": "Hedef detayını görüntüleme",
+   "x": 257,
+   "y": 618,
+   "w": 103,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Hedefe check-in yapma (ilerleme bildirme)",
+   "x": 368,
+   "y": 618,
+   "w": 131,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Hedef ilerlemesini güncelleme",
+   "x": 368,
+   "y": 618,
+   "w": 131,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Anahtar sonuç güncel değerini girme",
+   "x": 257,
+   "y": 487,
+   "w": 1606,
+   "h": 119
+  },
+  {
+   "no": 6,
+   "baslik": "Kilometre taşını tamamlandı olarak işaretleme",
+   "x": 257,
+   "y": 618,
+   "w": 103,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Hedef değişiklik talebi (revizyon) oluşturma",
+   "x": 507,
+   "y": 618,
+   "w": 155,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Değişiklik taleplerimi izleme ve iptal etme",
+   "x": 507,
+   "y": 618,
+   "w": 155,
+   "h": 32
+  }
+ ],
+ "ekranlar/performansim/degerlendirmem.png": [
+  {
+   "no": 9,
+   "baslik": "Aktif değerlendirmemi görüntüleme",
+   "x": 232,
+   "y": 269,
+   "w": 1656,
+   "h": 88
+  },
+  {
+   "no": 10,
+   "baslik": "Öz değerlendirme doldurma ve gönderme",
+   "x": 1792,
+   "y": 316,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 11,
+   "baslik": "Değerlendirme sonucunu görüntüleme ve onaylama",
+   "x": 1792,
+   "y": 316,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/performansim/ara-donem-gorusmelerim.png": [
+  {
+   "no": 12,
+   "baslik": "Ara dönem görüşmelerimi görüntüleme",
+   "x": 232,
+   "y": 325,
+   "w": 1656,
+   "h": 153
+  },
+  {
+   "no": 13,
+   "baslik": "Ara dönem görüşmesine çalışan yorumu ekleme",
+   "x": 1778,
+   "y": 376,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 14,
+   "baslik": "Görüşmeden hedeflere geçiş",
+   "x": 1736,
+   "y": 221,
+   "w": 152,
+   "h": 32
+  }
+ ],
+ "ekranlar/performansim/yonetici-degerlendirmelerim.png": [
+  {
+   "no": 15,
+   "baslik": "Ekibimin değerlendirmelerini puanlama",
+   "x": 1804,
+   "y": 316,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/performansim/atanan-degerlendirmeler.png": [
+  {
+   "no": 16,
+   "baslik": "Bana atanan (360 derece) değerlendirmeyi doldurma",
+   "x": 232,
+   "y": 269,
+   "w": 1656,
+   "h": 185
+  }
+ ],
+ "ekranlar/performansim/rozetlerim.png": [
+  {
+   "no": 17,
+   "baslik": "Rozetlerimi ve takdir puanımı görüntüleme",
+   "x": 257,
+   "y": 294,
+   "w": 491,
+   "h": 22
+  }
+ ],
+ "ekranlar/performansim/yetkinlik-acigim.png": [
+  {
+   "no": 19,
+   "baslik": "Yetkinlik açığımı görüntüleme",
+   "x": 257,
+   "y": 798,
+   "w": 1606,
+   "h": 240
+  }
+ ],
+ "ekranlar/performansim/itirazlarim.png": [
+  {
+   "no": 22,
+   "baslik": "Değerlendirme sonucuna itiraz etme",
+   "x": 1758,
+   "y": 221,
+   "w": 130,
+   "h": 32
+  },
+  {
+   "no": 23,
+   "baslik": "İtirazlarımı izleme",
+   "x": 232,
+   "y": 273,
+   "w": 1656,
+   "h": 144
+  }
+ ],
+ "ekranlar/performansim/kariyer-beyanim.png": [
+  {
+   "no": 24,
+   "baslik": "Kariyer ve mobilite beyanı doldurma",
+   "x": 245,
+   "y": 342,
+   "w": 121,
+   "h": 22
+  }
+ ],
+ "ekranlar/performansim/gelisim-aksiyonlarim.png": [
+  {
+   "no": 25,
+   "baslik": "Gelişim aksiyonlarımı görüntüleme",
+   "x": 232,
+   "y": 269,
+   "w": 1656,
+   "h": 225
+  },
+  {
+   "no": 26,
+   "baslik": "Gelişim aksiyonuna ilerleme girme",
+   "x": 232,
+   "y": 269,
+   "w": 1656,
+   "h": 225
+  },
+  {
+   "no": 27,
+   "baslik": "Performans geliştirme planına (PIP) check-in yapma",
+   "x": 232,
+   "y": 269,
+   "w": 1656,
+   "h": 225
+  }
+ ],
+ "ekranlar/seyahatlerim/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Seyahat taleplerimi görüntüleme",
+   "x": 232,
+   "y": 275,
+   "w": 1656,
+   "h": 348
+  },
+  {
+   "no": 2,
+   "baslik": "Yeni seyahat talebi oluşturma",
+   "x": 1711,
+   "y": 96,
+   "w": 177,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Talep detayını görüntüleme",
+   "x": 1793,
+   "y": 322,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 4,
+   "baslik": "Bekleyen talebi düzenleme",
+   "x": 1793,
+   "y": 322,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 5,
+   "baslik": "Seyahat talebini iptal etme",
+   "x": 1829,
+   "y": 322,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Seyahate bağlı masrafları görüntüleme",
+   "x": 1403,
+   "y": 275,
+   "w": 181,
+   "h": 39
+  },
+  {
+   "no": 8,
+   "baslik": "Seyahat belgesini indirme",
+   "x": 1793,
+   "y": 322,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiyalarim/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Vardiya özetini ve takvimi görüntüleme",
+   "x": 232,
+   "y": 480,
+   "w": 1339,
+   "h": 600
+  },
+  {
+   "no": 13,
+   "baslik": "Vardiyaya giriş / çıkış yapma",
+   "x": 245,
+   "y": 203,
+   "w": 515,
+   "h": 20
+  },
+  {
+   "no": 14,
+   "baslik": "Aynı vardiyadaki iş arkadaşlarını görme",
+   "x": 232,
+   "y": 480,
+   "w": 1339,
+   "h": 600
+  }
+ ],
+ "ekranlar/vardiyalarim/yaklasan.png": [
+  {
+   "no": 2,
+   "baslik": "Vardiyayı kendi takviminize ekleme",
+   "x": 802,
+   "y": 268,
+   "w": 135,
+   "h": 32
+  },
+  {
+   "no": 3,
+   "baslik": "Yaklaşan vardiyaları görüntüleme",
+   "x": 232,
+   "y": 480,
+   "w": 1656,
+   "h": 585
+  },
+  {
+   "no": 4,
+   "baslik": "Vardiya değişiklik talebi oluşturma (bırakma, devretme, takas)",
+   "x": 1482,
+   "y": 527,
+   "w": 155,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiyalarim/taleplerim-gonderdiklerim.png": [
+  {
+   "no": 5,
+   "baslik": "Gönderdiğiniz talepleri izleme",
+   "x": 232,
+   "y": 378,
+   "w": 1656,
+   "h": 702
+  },
+  {
+   "no": 6,
+   "baslik": "Talep ayrıntısını görme",
+   "x": 1763,
+   "y": 444,
+   "w": 103,
+   "h": 32
+  },
+  {
+   "no": 7,
+   "baslik": "Talebi PDF olarak indirme",
+   "x": 1763,
+   "y": 444,
+   "w": 103,
+   "h": 32
+  },
+  {
+   "no": 8,
+   "baslik": "Talebi iptal etme",
+   "x": 1623,
+   "y": 444,
+   "w": 137,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiyalarim/taleplerim-gelenler.png": [
+  {
+   "no": 9,
+   "baslik": "Gelen devretme / takas talebini kabul etme",
+   "x": 1573,
+   "y": 608,
+   "w": 102,
+   "h": 32
+  },
+  {
+   "no": 10,
+   "baslik": "Gelen devretme / takas talebini reddetme",
+   "x": 1679,
+   "y": 608,
+   "w": 95,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiyalarim/acik-vardiyalar.png": [
+  {
+   "no": 11,
+   "baslik": "Açık vardiyaya talip olma",
+   "x": 1710,
+   "y": 527,
+   "w": 97,
+   "h": 32
+  }
+ ],
+ "ekranlar/vardiyalarim/tercihlerim.png": [
+  {
+   "no": 12,
+   "baslik": "Vardiya tercihlerini bildirme",
+   "x": 232,
+   "y": 434,
+   "w": 249,
+   "h": 28
+  }
+ ],
+ "ekranlar/bordrom/ana-2.png": [
+  {
+   "no": 5,
+   "baslik": "İtirazlarımı izleme ve iptal etme",
+   "x": 232,
+   "y": 793,
+   "w": 1656,
+   "h": 205
+  }
+ ],
+ "ekranlar/bilgilerim/ana-2.png": [],
+ "ekranlar/bilgilerim/ana-3.png": [],
+ "ekranlar/bilgilerim/ana-4.png": [],
+ "ekranlar/bilgilerim/kisisel-bilgiler-2.png": [],
+ "ekranlar/bilgilerim/kisisel-bilgiler-3.png": [],
+ "ekranlar/bilgilerim/kisisel-bilgiler-4.png": [],
+ "ekranlar/bilgilerim/kariyer-2.png": [],
+ "ekranlar/bilgilerim/aile-bilgileri-2.png": [],
+ "ekranlar/bilgilerim/izin-talepleri-2.png": [],
+ "ekranlar/bilgilerim/izin-talepleri-bekleyen-izinler.png": [],
+ "ekranlar/bilgilerim/izin-talepleri-bekleyen-izinler-2.png": [],
+ "ekranlar/bilgilerim/ek-mesai-talepleri.png": [],
+ "ekranlar/bilgilerim/ek-mesai-talepleri-2.png": [],
+ "ekranlar/bilgilerim/ek-mesai-talepleri-bekleyen-talepler.png": [],
+ "ekranlar/bilgilerim/ek-mesai-talepleri-bekleyen-talepler-2.png": [],
+ "ekranlar/bilgilerim/zimmetler-2.png": [],
+ "ekranlar/bilgilerim/zimmetler-ekipman-taleplerim.png": [],
+ "ekranlar/bilgilerim/zimmetler-ekipman-taleplerim-2.png": [],
+ "ekranlar/bilgilerim/zimmetler-ticketlarim.png": [],
+ "ekranlar/bilgilerim/zimmetler-ticketlarim-2.png": [],
+ "ekranlar/bilgilerim/zimmetler-teslim-iade.png": [],
+ "ekranlar/bilgilerim/zimmetler-teslim-iade-2.png": [],
+ "ekranlar/bilgilerim/seyahatler.png": [],
+ "ekranlar/bilgilerim/seyahatler-2.png": [],
+ "ekranlar/bilgilerim/masraflar.png": [],
+ "ekranlar/bilgilerim/masraflar-2.png": [],
+ "ekranlar/bilgilerim/masraflar-bekleyen.png": [],
+ "ekranlar/bilgilerim/masraflar-bekleyen-2.png": [],
+ "ekranlar/bilgilerim/performans-2.png": [],
+ "ekranlar/bilgilerim/performans-hedefler.png": [],
+ "ekranlar/bilgilerim/performans-hedefler-2.png": [],
+ "ekranlar/bilgilerim/performans-yetkinlikler.png": [],
+ "ekranlar/bilgilerim/performans-yetkinlikler-2.png": [],
+ "ekranlar/bilgilerim/performans-yetenek-aksiyonlari.png": [],
+ "ekranlar/bilgilerim/performans-yetenek-aksiyonlari-2.png": [],
+ "ekranlar/bilgilerim/performans-takdirler.png": [],
+ "ekranlar/bilgilerim/performans-takdirler-2.png": [],
+ "ekranlar/bilgilerim/ise-giris-cikis.png": [],
+ "ekranlar/bilgilerim/ise-giris-cikis-2.png": [],
+ "ekranlar/bilgilerim/gorevler.png": [],
+ "ekranlar/bilgilerim/gorevler-2.png": [],
+ "ekranlar/bilgilerim/puantaj-2.png": [],
+ "ekranlar/bilgilerim/dokuman-talepleri-2.png": [],
+ "ekranlar/bilgilerim/dokuman-talepleri-calisan-dokuman-talepleri.png": [],
+ "ekranlar/bilgilerim/dokuman-talepleri-calisan-dokuman-talepleri-2.png": [],
+ "ekranlar/bilgilerim/dokuman-talepleri-yonetim-tarafindan-gonderilen.png": [],
+ "ekranlar/bilgilerim/dokuman-talepleri-yonetim-tarafindan-gonderilen-2.png": [],
+ "ekranlar/bilgilerim/dokuman-talepleri-calisan-tarafindan-gonderilen.png": [],
+ "ekranlar/bilgilerim/dokuman-talepleri-calisan-tarafindan-gonderilen-2.png": [],
+ "ekranlar/bilgilerim/dokumanlar.png": [],
+ "ekranlar/bilgilerim/dokumanlar-2.png": [],
+ "ekranlar/bilgilerim/calisan-uyarilari-2.png": [],
+ "ekranlar/bilgilerim/bordro-bilgileri.png": [],
+ "ekranlar/bilgilerim/bordro-bilgileri-2.png": [],
+ "ekranlar/ek-mesailerim/ana-2.png": [],
+ "ekranlar/ek-mesailerim/ek-mesai-cizelgesi.png": [],
+ "ekranlar/ek-mesailerim/ek-mesai-cizelgesi-2.png": [],
+ "ekranlar/genel-arayuz/ana-2.png": [
+  {
+   "no": 7,
+   "baslik": "Duyuruları okuma",
+   "x": 1349,
+   "y": 667,
+   "w": 539,
+   "h": 413
+  },
+  {
+   "no": 11,
+   "baslik": "Ruh hali bildirimi (Bugün nasıl hissediyorsun?)",
+   "x": 791,
+   "y": 667,
+   "w": 539,
+   "h": 413
+  },
+  {
+   "no": 18,
+   "baslik": "Doğum günleri ve iş yıldönümleri",
+   "x": 232,
+   "y": 247,
+   "w": 539,
+   "h": 400
+  }
+ ],
+ "ekranlar/genel-arayuz/ana-3.png": [],
+ "ekranlar/kontrol-panelim/ana-2.png": [
+  {
+   "no": 7,
+   "baslik": "Taleplerinizi Talep Merkezi'nden takip etme",
+   "x": 232,
+   "y": 667,
+   "w": 539,
+   "h": 413
+  },
+  {
+   "no": 10,
+   "baslik": "Ruh halinizi bildirme",
+   "x": 791,
+   "y": 667,
+   "w": 539,
+   "h": 413
+  },
+  {
+   "no": 11,
+   "baslik": "Duyuruları okuma",
+   "x": 1349,
+   "y": 667,
+   "w": 539,
+   "h": 413
+  }
+ ],
+ "ekranlar/kontrol-panelim/ana-3.png": [
+  {
+   "no": 12,
+   "baslik": "İzindeki ekip arkadaşlarını ve vardiyanızı görme",
+   "x": 232,
+   "y": 732,
+   "w": 539,
+   "h": 266
+  }
+ ],
+ "ekranlar/kontrol-panelim/yonetim-talepleri-2.png": [],
+ "ekranlar/kontrol-panelim/talepleriniz-2.png": [],
+ "ekranlar/kontrol-panelim/gonderilen-dokumanlar-2.png": [],
+ "ekranlar/gorevlerim/ana-2.png": [],
+ "ekranlar/gorevlerim/takvim-2.png": [],
+ "ekranlar/izinlerim/ana-2.png": [],
+ "ekranlar/izinlerim/bekleyen-talepler-2.png": [],
+ "ekranlar/izinlerim/degisiklik-onaylari-2.png": [],
+ "ekranlar/izinlerim/tum-izin-talepleri.png": [],
+ "ekranlar/izinlerim/tum-izin-talepleri-2.png": [],
+ "ekranlar/izinlerim/onaylanan-talepler.png": [],
+ "ekranlar/izinlerim/onaylanan-talepler-2.png": [],
+ "ekranlar/bilgilerimi-duzenle/ana-2.png": [],
+ "ekranlar/bilgilerimi-duzenle/temel-bilgiler-2.png": [],
+ "ekranlar/bilgilerimi-duzenle/kisisel-bilgiler-sekmesi-2.png": [],
+ "ekranlar/bilgilerimi-duzenle/kisisel-bilgiler-sekmesi-3.png": [],
+ "ekranlar/bilgilerimi-duzenle/is-bilgileri-sekmesi.png": [],
+ "ekranlar/bilgilerimi-duzenle/is-bilgileri-sekmesi-2.png": [],
+ "ekranlar/bilgilerimi-duzenle/egitim-bilgileri-sekmesi-2.png": [],
+ "ekranlar/bilgilerimi-duzenle/yasal-bilgiler-sekmesi-2.png": [],
+ "ekranlar/masraflarim/masraf-talepleri-iptal-edilen.png": [],
+ "ekranlar/masraflarim/masraf-talepleri.png": [],
+ "ekranlar/mesailerim/ana.png": [
+  {
+   "no": 10,
+   "baslik": "Çalışma saati türümü görüntüleme",
+   "x": 232,
+   "y": 223,
+   "w": 229,
+   "h": 28
+  }
+ ],
+ "ekranlar/performansim/ana.png": [],
+ "ekranlar/performansim/ana-2.png": [],
+ "ekranlar/performansim/hedeflerim-2.png": [],
+ "ekranlar/performansim/yetkinlik-acigim-2.png": [],
+ "ekranlar/vardiyalarim/ana-2.png": [],
+ "ekranlar/vardiyalarim/yaklasan-2.png": [],
+ "ekranlar/vardiyalarim/taleplerim-gonderdiklerim-2.png": [],
+ "ekranlar/vardiyalarim/takvim.png": [],
+ "ekranlar/vardiyalarim/takvim-2.png": [],
+ "ekranlar/vardiyalarim/taleplerim.png": [],
+ "ekranlar/zimmetlerim/ekipman-taleplerim-2.png": [],
+ "ekranlar/zimmetlerim/zimmetler.png": [],
+ "ekranlar/bilgilerim/kisisel-bilgiler-5.png": [
+  {
+   "no": 4,
+   "baslik": "IBAN (banka hesabı) değişikliği",
+   "x": 1365,
+   "y": 496,
+   "w": 32,
+   "h": 16
+  }
+ ],
+ "ekranlar/bilgilerim/kisisel-bilgiler-6.png": [],
+ "ekranlar/bilgilerim/ana-5.png": [],
+ "ekranlar/bilgilerim/ana-6.png": [],
+ "ekranlar/sisteme-giris/ana.png": [
+  {
+   "no": 1,
+   "baslik": "Sisteme giriş yapma",
+   "x": 778,
+   "y": 638,
+   "w": 364,
+   "h": 48
+  },
+  {
+   "no": 2,
+   "baslik": "Şifremi unuttum (parola sıfırlama)",
+   "x": 778,
+   "y": 708,
+   "w": 114,
+   "h": 17
+  },
+  {
+   "no": 5,
+   "baslik": "İki adımlı doğrulama ile giriş",
+   "x": 778,
+   "y": 638,
+   "w": 364,
+   "h": 48
+  },
+  {
+   "no": 8,
+   "baslik": "Tema ve dil seçimi",
+   "x": 1685,
+   "y": 20,
+   "w": 215,
+   "h": 56
+  }
+ ]
+}

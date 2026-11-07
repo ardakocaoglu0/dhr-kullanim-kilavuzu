@@ -1,0 +1,1177 @@
+{
+  "birim-yonetimi-moduller": [
+    {
+      "islem": 1,
+      "baslik": "Birimin modül ayarlarını açma",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Üst birimden gelen ayarı birime özel tanımlama",
+      "ekran": "Bordro Yönetimi > Genel Ayarlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Birime özel tanımı kaldırıp üst birime dönme",
+      "ekran": "Bordro Yönetimi > Eksik Gün Nedenleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Özel tanımı kaldır, parent'tan devral"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "İzin onay akışını tanımlama",
+      "ekran": "İzin Yönetimi > İzin İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "İzin için pozisyona özel akış tanımlama",
+      "ekran": "İzin Yönetimi > İzin İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Ek izin türü ekleme",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Ekle"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Çalışma saat türü ekleme",
+      "ekran": "İzin Yönetimi > Çalışma Saati Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Tür Ekle"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Çalışma saat türünü düzenleme, silme ve arama",
+      "ekran": "İzin Yönetimi > Çalışma Saati Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Düzenle"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Otomatik izin mutabakatı kuralı ekleme",
+      "ekran": "İzin Yönetimi > Ayarlar > Mutabakat",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Kural"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Anlık mutabakat gönderme",
+      "ekran": "İzin Yönetimi > Ayarlar > Mutabakat",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Anlık Mutabakat Gönder"
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Bakiye değişikliklerinde çalışan onayı ayarlama",
+      "ekran": "İzin Yönetimi > Ayarlar > Çalışan Onayı",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kullanılan izin düzenlendiğinde ya da silindiğinde çalışandan onay iste"
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Ek mesai onay akışını tanımlama",
+      "ekran": "Ek Mesai Yönetimi > Ek Mesai İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Ek mesai için pozisyona özel akış tanımlama",
+      "ekran": "Ek Mesai Yönetimi > Ek Mesai İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Ek mesai türü oluşturma",
+      "ekran": "Ek Mesai Yönetimi > Ek Mesai Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Tür Ekle"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Ek mesai sınırlarını belirleme",
+      "ekran": "Ek Mesai Yönetimi > Ek Mesai Sınırları",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Yıllık En Fazla Ek Mesai (saat)"
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "Seyahat onay akışını tanımlama",
+      "ekran": "Seyahat Yönetimi > Seyahat İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "Seyahat için pozisyona özel akış tanımlama",
+      "ekran": "Seyahat Yönetimi > Seyahat İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 30,
+      "baslik": "Seyahat türü ekleme",
+      "ekran": "Seyahat Yönetimi > Seyahat Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Seyahat Türü"
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "Mesai düzeltme onay akışını tanımlama",
+      "ekran": "Mesai Düzeltme",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 33,
+      "baslik": "Mesai düzeltme için pozisyona özel akış tanımlama",
+      "ekran": "Mesai Düzeltme",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "Görev kategorisi ekleme",
+      "ekran": "Görev Yönetimi > Kategoriler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Kategori"
+      }
+    },
+    {
+      "islem": 36,
+      "baslik": "Görev kategorisi için onay akışı tanımlama",
+      "ekran": "Görev Yönetimi > Görev İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 37,
+      "baslik": "Görev kategorisi için pozisyona özel akış tanımlama",
+      "ekran": "Görev Yönetimi > Görev İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 38,
+      "baslik": "Görev akışını kategoriler arasında kopyalama",
+      "ekran": "Görev Yönetimi > Görev İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kopyala"
+      }
+    },
+    {
+      "islem": 39,
+      "baslik": "Bordro tamamlama onay akışını tanımlama",
+      "ekran": "Bordro Yönetimi > Bordro Tamamlama İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 40,
+      "baslik": "Banka ödeme onay akışını tanımlama",
+      "ekran": "Bordro Yönetimi > Banka Ödeme Onay Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 41,
+      "baslik": "Avans onay akışını tanımlama",
+      "ekran": "Bordro Yönetimi > Avans Onay Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 48,
+      "baslik": "SGK işyeri ayarlarını girme",
+      "ekran": "Bordro Yönetimi > SGK Ayarları",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "SGK İşyeri Ayarları"
+      }
+    },
+    {
+      "islem": 50,
+      "baslik": "SGK bağlantısını kontrol etme",
+      "ekran": "Bordro Yönetimi > SGK Ayarları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bağlantıyı Test Et"
+      }
+    },
+    {
+      "islem": 52,
+      "baslik": "Meslek kodunu pasife alma, aktifleştirme ve arama",
+      "ekran": "Bordro Yönetimi > SGK Meslek Kodları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 54,
+      "baslik": "BES (bireysel emeklilik) ayarlarını yapma",
+      "ekran": "Bordro Yönetimi > BES Ayarları",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bireysel Emeklilik Sistemi (BES) Ayarları"
+      }
+    },
+    {
+      "islem": 55,
+      "baslik": "Şirket alanlarına değer girme",
+      "ekran": "Bordro Yönetimi > Şirket Bilgileri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Şirket Alanları"
+      }
+    },
+    {
+      "islem": 56,
+      "baslik": "Şirket banka hesabı ekleme, düzenleme ve silme",
+      "ekran": "Bordro Yönetimi > Şirket Bilgileri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Banka Hesapları"
+      }
+    },
+    {
+      "islem": 73,
+      "baslik": "Mektup şablonu düzenleme",
+      "ekran": "Bordro Yönetimi > Mektup Şablonları",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Yıllık Prim Mektubu"
+      }
+    },
+    {
+      "islem": 77,
+      "baslik": "Bordro parametresini düzenleme, silme veya dışa aktarma",
+      "ekran": "Bordro Yönetimi > Bordro Parametreleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 81,
+      "baslik": "Eksik gün nedeni ekleme",
+      "ekran": "Bordro Yönetimi > Eksik Gün Nedenleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Neden Ekle"
+      }
+    },
+    {
+      "islem": 82,
+      "baslik": "Eksik gün nedenini düzenleme veya silme",
+      "ekran": "Bordro Yönetimi > Eksik Gün Nedenleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 83,
+      "baslik": "Avans ayarlarını yapma",
+      "ekran": "Bordro Yönetimi > Avans Ayarları",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Maaş Avansına İzin Ver"
+      }
+    },
+    {
+      "islem": 84,
+      "baslik": "İzin harçlığı kuralı ekleme",
+      "ekran": "Bordro Yönetimi > İzin Harçlığı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kural Ekle"
+      }
+    },
+    {
+      "islem": 86,
+      "baslik": "Çocuk / eş yardımı kuralı ekleme",
+      "ekran": "Bordro Yönetimi > Çocuk / Eş Yardımı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Kural"
+      }
+    },
+    {
+      "islem": 89,
+      "baslik": "Kıdem tazminatı ayarlarını yapma",
+      "ekran": "Bordro Yönetimi > Tazminat Ayarları",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Kıdem Tazminatı Ayarları"
+      }
+    },
+    {
+      "islem": 91,
+      "baslik": "Hesap planına hesap ekleme",
+      "ekran": "Bordro Yönetimi > Muhasebe Hesapları",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Hesap Planı"
+      }
+    },
+    {
+      "islem": 93,
+      "baslik": "Bordro kalemlerini muhasebe hesaplarıyla eşleme",
+      "ekran": "Bordro Yönetimi > Muhasebe Hesapları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 96,
+      "baslik": "Masraf onay akışını tanımlama",
+      "ekran": "Masraf Yönetimi > Masraf İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 97,
+      "baslik": "Masraf için pozisyona özel akış tanımlama",
+      "ekran": "Masraf Yönetimi > Masraf İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 98,
+      "baslik": "Masraf etiketi ekleme",
+      "ekran": "Masraf Yönetimi > Masraf Etiketleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Etiket"
+      }
+    },
+    {
+      "islem": 99,
+      "baslik": "Masraf etiketini düzenleme veya silme",
+      "ekran": "Masraf Yönetimi > Masraf Etiketleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 100,
+      "baslik": "Yeni masraf yeri ekleme",
+      "ekran": "Masraf Yönetimi > Masraf Yerleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Masraf Yeri"
+      }
+    },
+    {
+      "islem": 101,
+      "baslik": "Masraf yerini düzenleme, pasife alma veya silme",
+      "ekran": "Masraf Yönetimi > Masraf Yerleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Filtreleri Temizle"
+      }
+    },
+    {
+      "islem": 102,
+      "baslik": "Eski masraf yeri bilgisini aktarma",
+      "ekran": "Masraf Yönetimi > Masraf Yerleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Eski masraf yeri bilgisini aktar"
+      }
+    },
+    {
+      "islem": 103,
+      "baslik": "Masraf geri ödeme yolunu belirleme",
+      "ekran": "Masraf Yönetimi > Geri Ödeme",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Ayrı ödeme"
+      }
+    },
+    {
+      "islem": 104,
+      "baslik": "Doküman onay akışını tanımlama",
+      "ekran": "Doküman Yönetimi > İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 105,
+      "baslik": "Pozisyona özel doküman onay akışı tanımlama",
+      "ekran": "Doküman Yönetimi > İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 106,
+      "baslik": "Varsayılan doküman şablonu ekleme",
+      "ekran": "Doküman Yönetimi > Varsayılan Şablon",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Şablon Ekle"
+      }
+    },
+    {
+      "islem": 107,
+      "baslik": "Doküman şablonunu düzenleme, indirme veya silme",
+      "ekran": "Doküman Yönetimi > Varsayılan Şablon",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 108,
+      "baslik": "Doküman talep kategorisi ekleme",
+      "ekran": "Doküman Yönetimi > Talep Kategorileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Kategori"
+      }
+    },
+    {
+      "islem": 110,
+      "baslik": "Zimmet onay akışını tanımlama",
+      "ekran": "Stok Yönetimi > Zimmet İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 111,
+      "baslik": "Zimmet için pozisyona özel akış tanımlama",
+      "ekran": "Stok Yönetimi > Zimmet İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 112,
+      "baslik": "Stok onay akışını tanımlama",
+      "ekran": "Stok Yönetimi > Stok İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 113,
+      "baslik": "Pozisyona özel stok onay akışı tanımlama",
+      "ekran": "Stok Yönetimi > Stok İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 114,
+      "baslik": "Stok yöneticisi ekleme",
+      "ekran": "Stok Yönetimi > Stok Yöneticileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Pozisyon Ekle"
+      }
+    },
+    {
+      "islem": 116,
+      "baslik": "İşe giriş / çıkış şablonu oluşturma",
+      "ekran": "İşe Giriş / Çıkış > Şablonlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Çalışan Formu"
+      }
+    },
+    {
+      "islem": 117,
+      "baslik": "İşe giriş / çıkış şablonunu düzenleme veya silme",
+      "ekran": "İşe Giriş / Çıkış > Şablonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 118,
+      "baslik": "İşe giriş / çıkış birim kurallarını belirleme",
+      "ekran": "İşe Giriş / Çıkış > Birim Kuralları",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "İşe Giriş"
+      }
+    },
+    {
+      "islem": 119,
+      "baslik": "İşe giriş onay akışını tanımlama",
+      "ekran": "İşe Giriş / Çıkış > İşe Giriş İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 120,
+      "baslik": "İşe giriş için pozisyona özel akış tanımlama",
+      "ekran": "İşe Giriş / Çıkış > İşe Giriş İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 121,
+      "baslik": "İşten çıkış onay akışını tanımlama",
+      "ekran": "İşe Giriş / Çıkış > İşten Çıkış İş Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 122,
+      "baslik": "İşten çıkış için pozisyona özel akış tanımlama",
+      "ekran": "İşe Giriş / Çıkış > İşten Çıkış İş Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 123,
+      "baslik": "Vardiya onay akışını tanımlama",
+      "ekran": "Vardiya > Onay Akışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 124,
+      "baslik": "Vardiya planlama kurallarını belirleme",
+      "ekran": "Vardiya > Planlama Kuralları",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Planlama"
+      }
+    },
+    {
+      "islem": 125,
+      "baslik": "Çalışma süresi ayarlarını belirleme",
+      "ekran": "Vardiya > Çalışma Süresi",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Çalışma Süresi Kaynağı"
+      }
+    },
+    {
+      "islem": 126,
+      "baslik": "Uzaktan mesai ayarlarını yapma",
+      "ekran": "Mesai Yönetimi > Uzaktan Mesai",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Uzaktan Giriş Açık"
+      }
+    },
+    {
+      "islem": 127,
+      "baslik": "QR ile mesai toleransını ayarlama",
+      "ekran": "Mesai Yönetimi > QR ile Mesai",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Varsayılan QR toleransı (metre)"
+      }
+    },
+    {
+      "islem": 129,
+      "baslik": "Bütçe hesap planı ve eşleme kurallarını yönetme",
+      "ekran": "Bütçe Yönetimi > Eşleme Kuralları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 130,
+      "baslik": "Bütçe boyutları ve dağıtım eğrilerini tanımlama",
+      "ekran": "Bütçe Yönetimi > Dağıtım Eğrileri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 131,
+      "baslik": "Ekipman kategorileri ve ücret politikasını tanımlama",
+      "ekran": "Bütçe Yönetimi > Ücret Politikası",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Band"
+      }
+    },
+    {
+      "islem": 132,
+      "baslik": "Bütçe özel alanlarını ve onay akışını tanımlama",
+      "ekran": "Bütçe Yönetimi > Bütçe Onay Akışı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 133,
+      "baslik": "Performans modül bileşenlerini açma veya kapatma",
+      "ekran": "Performans Yönetimi > Modül Bileşenleri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Ara dönem görüşmeleri"
+      }
+    },
+    {
+      "islem": 134,
+      "baslik": "Performans genel kurallarını düzenleme",
+      "ekran": "Performans Yönetimi > Genel Kurallar",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Skor gösterim hassasiyeti"
+      }
+    },
+    {
+      "islem": 136,
+      "baslik": "Performans onay akışını tanımlama",
+      "ekran": "Performans Yönetimi > İş Akışları ve Onaylar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İş Akışını Düzenle"
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Gönderilen mutabakatları inceleme",
+      "ekran": "İzin Yönetimi > Ayarlar > Mutabakat",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Gönderilen Mutabakatlar"
+      }
+    },
+    {
+      "islem": 90,
+      "baslik": "İhbar tazminatı ayarlarını yapma",
+      "ekran": "Bordro Yönetimi > Tazminat Ayarları",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "İhbar Tazminatı Ayarları"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "İzin türünün hak ediş kurallarını ayarlama",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Ekle"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "İzin devretme ve bakiye üst sınırını ayarlama",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Ekle"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Kıdeme göre izin günlerini tanımlama",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Ekle"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Yaş bazlı hak ediş kuralı ekleme",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Ekle"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Rol bazlı izin ayarı tanımlama",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Ekle"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Çalışan bazlı izin ayarlarını düzenleme",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Ekle"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "İzin türünü pasife alma veya aktif yapma",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Ek İzin Türleri"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "İzin türünü silme",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Ek İzin Türleri"
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Çalışma saat türünü kullanan pozisyonları görme",
+      "ekran": "İzin Yönetimi > Çalışma Saati Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bilgi"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Mutabakat kuralını düzenleme veya silme",
+      "ekran": "İzin Yönetimi > Ayarlar > Mutabakat",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "Ek mesai türünü düzenleme veya silme",
+      "ekran": "Ek Mesai Yönetimi > Ek Mesai Türleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "Seyahat türünü düzenleme veya silme",
+      "ekran": "Seyahat Yönetimi > Seyahat Türleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 35,
+      "baslik": "Görev kategorisini düzenleme, pasife alma veya silme",
+      "ekran": "Görev Yönetimi > Kategoriler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 42,
+      "baslik": "Maaş hesaplama ayarlarını belirleme",
+      "ekran": "Bordro Yönetimi > Genel Ayarlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 43,
+      "baslik": "Dönem ve puantaj ayarlarını belirleme",
+      "ekran": "Bordro Yönetimi > Genel Ayarlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 44,
+      "baslik": "Ek mesainin bordroya aktarım ayarları",
+      "ekran": "Bordro Yönetimi > Genel Ayarlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 45,
+      "baslik": "Yuvarlama ve anomali tespiti ayarları",
+      "ekran": "Bordro Yönetimi > Genel Ayarlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 46,
+      "baslik": "Bordro itirazı ayarını yapma",
+      "ekran": "Bordro Yönetimi > Genel Ayarlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 47,
+      "baslik": "Diğer genel bordro ayarları (para birimi, teşvik, IBAN onayı)",
+      "ekran": "Bordro Yönetimi > Genel Ayarlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 49,
+      "baslik": "MUHSGK (muhtasar beyanname) bilgilerini girme",
+      "ekran": "Bordro Yönetimi > SGK Ayarları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 57,
+      "baslik": "Birincil banka hesabını belirleme",
+      "ekran": "Bordro Yönetimi > Şirket Bilgileri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Banka Hesapları"
+      }
+    },
+    {
+      "islem": 58,
+      "baslik": "Banka ödeme kanalını ayarlama",
+      "ekran": "Bordro Yönetimi > Şirket Bilgileri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Banka Hesapları"
+      }
+    },
+    {
+      "islem": 59,
+      "baslik": "Ödeme kanalı bağlantısını kontrol etme",
+      "ekran": "Bordro Yönetimi > Şirket Bilgileri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Banka Hesapları"
+      }
+    },
+    {
+      "islem": 60,
+      "baslik": "Kesinti yapısı ekleme",
+      "ekran": "Bordro Yönetimi > Kesinti Yapıları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 61,
+      "baslik": "Kesinti yapısına kesinti ekleme",
+      "ekran": "Bordro Yönetimi > Kesinti Yapıları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 62,
+      "baslik": "Dilim grubu ve vergi dilimi tanımlama",
+      "ekran": "Bordro Yönetimi > Kesinti Yapıları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 63,
+      "baslik": "Dilim grubunu yeni yıla kopyalama",
+      "ekran": "Bordro Yönetimi > Kesinti Yapıları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 64,
+      "baslik": "Kesinti yapısı, kesinti veya dilimi düzenleme ve silme",
+      "ekran": "Bordro Yönetimi > Kesinti Yapıları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 65,
+      "baslik": "Ek kazanç veya kesinti tanımlama",
+      "ekran": "Bordro Yönetimi > Ek Kazançlar/Kesintiler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 66,
+      "baslik": "Kesinti sınıfı ve yasal sınır belirleme",
+      "ekran": "Bordro Yönetimi > Ek Kazançlar/Kesintiler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 67,
+      "baslik": "Kazanç / kesinti için ek alan tanımlama",
+      "ekran": "Bordro Yönetimi > Ek Kazançlar/Kesintiler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 68,
+      "baslik": "Kazanç / kesintiyi düzenleme veya silme",
+      "ekran": "Bordro Yönetimi > Ek Kazançlar/Kesintiler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 69,
+      "baslik": "Bordro kalemi oluşturma",
+      "ekran": "Bordro Yönetimi > Bordro Kalemleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 70,
+      "baslik": "Bordro kalemini düzenleme veya silme",
+      "ekran": "Bordro Yönetimi > Bordro Kalemleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 71,
+      "baslik": "Bordro şablonunu tasarlama",
+      "ekran": "Bordro Yönetimi > Bordro Şablonu",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 72,
+      "baslik": "Bordro şablonuna üst ve alt görsel ekleme",
+      "ekran": "Bordro Yönetimi > Bordro Şablonu",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 74,
+      "baslik": "Bordro profili ekleme",
+      "ekran": "Bordro Yönetimi > Bordro Profilleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 75,
+      "baslik": "Bordro profilini düzenleme veya silme",
+      "ekran": "Bordro Yönetimi > Bordro Profilleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 76,
+      "baslik": "Bordro parametresi ekleme",
+      "ekran": "Bordro Yönetimi > Bordro Parametreleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 78,
+      "baslik": "Kanun ve teşvikleri birimde etkinleştirme",
+      "ekran": "Bordro Yönetimi > Kanunlar & Teşvikler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 79,
+      "baslik": "Yeni kanun veya varyant tanımlama",
+      "ekran": "Bordro Yönetimi > Kanunlar & Teşvikler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 80,
+      "baslik": "Varyanta etki ekleme",
+      "ekran": "Bordro Yönetimi > Kanunlar & Teşvikler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 85,
+      "baslik": "İzin harçlığı kuralından üretilen satırları inceleme",
+      "ekran": "Bordro Yönetimi > İzin Harçlığı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 87,
+      "baslik": "Çocuk / eş yardımında vergi ve prim istisnalarını ayarlama",
+      "ekran": "Bordro Yönetimi > Çocuk / Eş Yardımı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Kural"
+      }
+    },
+    {
+      "islem": 88,
+      "baslik": "Çocuk / eş yardımı satırlarını inceleme",
+      "ekran": "Bordro Yönetimi > Çocuk / Eş Yardımı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 92,
+      "baslik": "Hesap planını Excel'den aktarma",
+      "ekran": "Bordro Yönetimi > Muhasebe Hesapları",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Hesap Planı"
+      }
+    },
+    {
+      "islem": 94,
+      "baslik": "Masraf türü ekleme",
+      "ekran": "Masraf Yönetimi > Masraf Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 95,
+      "baslik": "Masraf türünü düzenleme veya silme",
+      "ekran": "Masraf Yönetimi > Masraf Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bu birime özel tanımla"
+      }
+    },
+    {
+      "islem": 109,
+      "baslik": "Doküman talep kategorisini düzenleme, pasife alma veya silme",
+      "ekran": "Doküman Yönetimi > Talep Kategorileri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 115,
+      "baslik": "Stok yöneticilerini kaldırma",
+      "ekran": "Stok Yönetimi > Stok Yöneticileri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 135,
+      "baslik": "Performans ayarlarında üst birime dönme",
+      "ekran": "Performans Yönetimi > Modül Bileşenleri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Modül ayarı:"
+      }
+    }
+  ]
+}

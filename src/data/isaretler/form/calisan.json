@@ -1,0 +1,149 @@
+{
+  "calisan-yonetimi": [
+    {
+      "islem": 6,
+      "baslik": "Yeni çalışan ekleme",
+      "ekran": null,
+      "ac": [
+        {
+          "buton": "İşlemler"
+        },
+        {
+          "menu": "Yeni Çalışan Ekle"
+        }
+      ],
+      "pencereSekmeleri": [
+        "Temel Bilgiler",
+        "Organizasyon",
+        "Bordro Bilgileri",
+        "Ekipman",
+        "Profil",
+        "Kişisel Bilgiler Sekmesi",
+        "İş Bilgileri Sekmesi",
+        "Eğitim Bilgileri Sekmesi",
+        "Yasal Bilgiler Sekmesi",
+        "Gereklilikler"
+      ]
+    },
+    {
+      "islem": 10,
+      "baslik": "Pozisyon ataması ekleme / değiştirme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Kariyer"
+        },
+        {
+          "buton": "Pozisyon Geçmişi"
+        }
+      ]
+    },
+    {
+      "islem": 12,
+      "baslik": "Ek rol tanımlama",
+      "yok": "Ek görevler çalışan kartında değil, Performans Yönetimi > Ek Görev Yetkinlikleri ekranında tanımlanır"
+    },
+    {
+      "islem": 13,
+      "baslik": "Masraf yeri dağılımı",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Bordro Bilgileri"
+        },
+        {
+          "buton": "Yeni kayıt"
+        }
+      ]
+    },
+    {
+      "islem": 14,
+      "baslik": "Sözleşme ekleme ve düzenleme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Kariyer"
+        },
+        {
+          "buton": "Sözleşmeler"
+        },
+        {
+          "buton": "Yeni Sözleşme Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 15,
+      "baslik": "Aile bilgisi (eş / çocuk) ekleme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Aile Bilgileri"
+        },
+        {
+          "buton": "Eş Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 16,
+      "baslik": "Banka hesabı ekleme ve onaylama",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Bordro Bilgileri"
+        },
+        {
+          "buton": "Hesap Ekle / IBAN Değiştir"
+        }
+      ]
+    },
+    {
+      "islem": 17,
+      "baslik": "Önceki hizmet dönemi ekleme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Bordro Bilgileri"
+        },
+        {
+          "buton": "Dönem Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 21,
+      "baslik": "Çalışan uyarısı (disiplin) verme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Çalışan Uyarıları"
+        },
+        {
+          "buton": "Çalışanı Uyar"
+        }
+      ]
+    }
+  ]
+}

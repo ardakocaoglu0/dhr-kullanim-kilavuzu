@@ -1,0 +1,574 @@
+{
+  "zimmet-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "Onayınızı bekleyen talepleri görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Talepleri arama ve filtreleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Filtreleri Temizle"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Zimmet talebini onaylama",
+      "ekran": "Taleplerim > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Zimmet talebini reddetme",
+      "ekran": "Taleplerim > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Havuz (ortak kullanım) talebini onaylama veya reddetme",
+      "ekran": "Taleplerim > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 4
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Toplu onay veya ret",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Talep detayını ve onay geçmişini görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Onay listesini dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Ekibin diğer taleplerini izleme",
+      "ekran": "Diğer Talepler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Ekip zimmetlerini görüntüleme",
+      "ekran": "Ekip Zimmetleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Ekip zimmetlerini dışa aktarma",
+      "ekran": "Ekip Zimmetleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Talebe yorum ekleme ve silme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    }
+  ],
+  "stok-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "Stok birimini seçme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Ürünleri listeleme, arama ve filtreleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Yeni ürün ekleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ürün Ekle"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Toplu ürün girişi",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu Giriş"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Ürün detayını, geçmişini ve görsellerini görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Ürünü çalışana zimmetleme (atama)",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Ürün listesini dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Kategori ekleme",
+      "ekran": "Ürün Yönetimi > Kategoriler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kategori Ekle"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Kategori düzenleme ve silme",
+      "ekran": "Ürün Yönetimi > Kategoriler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Envanter paketi oluşturma",
+      "ekran": "Ürün Yönetimi > Envanter Paketleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Paket Ekle"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Envanter paketini düzenleme ve silme",
+      "ekran": "Ürün Yönetimi > Envanter Paketleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Havuz takvimini görüntüleme",
+      "ekran": "Ürün Yönetimi > Havuz Takvimi",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Havuz Takvimi"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Stok satın alma kaydı oluşturma",
+      "ekran": "Ürün Yönetimi > Stok Satın Alma",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Satın Alma Ekle"
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Satın alma durumunu güncelleme",
+      "ekran": "Ürün Yönetimi > Stok Satın Alma",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Stok taleplerini görüntüleme ve filtreleme",
+      "ekran": "Stok Talepleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Stok talebini üstlenme veya bir sorumluya atama",
+      "ekran": "Stok Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "Stok talebini işleme alma, beklemeye alma veya talep sahibinden bilgi isteme",
+      "ekran": "Stok Talepleri > Bana Atananlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 30,
+      "baslik": "Havuz talebini teslim etme",
+      "ekran": "Stok Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "Stok ticket'larını görüntüleme",
+      "ekran": "Stok Ticket'ları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 33,
+      "baslik": "Ticketı üstlenme, işleme alma, beklemeye alma",
+      "ekran": "Stok Ticket'ları",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "Arızalı ürünü tamire alma",
+      "ekran": "Stok Ticket'ları > Bana Atananlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 38,
+      "baslik": "Stok raporunu görüntüleme",
+      "ekran": "Stok Raporları",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Stok Raporları"
+      }
+    },
+    {
+      "islem": 39,
+      "baslik": "Rapor alarmı oluşturma",
+      "ekran": "Stok Raporları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Alarm Ekle"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Ürün düzenleme ve görsel silme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Ürün silme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Zimmeti iade alma",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Zimmeti değiştirme (yeni ürünle takas)",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Teslimi iptal etme ve atamayı kaldırma",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Ürünü bakıma alma ve diğer malzeme işlemleri",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Kategoriye hatırlatma alanı tanımlama",
+      "ekran": "Ürün Yönetimi > Kategoriler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Satın alınan ürünleri kayda bağlama",
+      "ekran": "Ürün Yönetimi > Stok Satın Alma",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Satın alma kaydını silme",
+      "ekran": "Ürün Yönetimi > Stok Satın Alma",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Stok talebini başka birime veya yöneticiye aktarma",
+      "ekran": "Stok Talepleri > Bana Atananlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "Stok talebini reddetme veya iptal etme",
+      "ekran": "Stok Talepleri > Bana Atananlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "Talep edilen ürünü teslim etme",
+      "ekran": "Stok Talepleri > Bana Atananlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "Talep sahibiyle mesajlaşma",
+      "ekran": "Stok Talepleri > Bana Atananlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 35,
+      "baslik": "Ticket için yeni ürün teslim etme",
+      "ekran": "Stok Ticket'ları > Bana Atananlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 36,
+      "baslik": "Ticketı aktarma, reddetme, iptal etme veya tamamlama",
+      "ekran": "Stok Ticket'ları > Bana Atananlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 37,
+      "baslik": "Ticket sahibiyle mesajlaşma",
+      "ekran": "Stok Ticket'ları > Bana Atananlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 40,
+      "baslik": "Rapor alarmını hemen gönderme, düzenleme veya silme",
+      "ekran": "Stok Raporları",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Rapor Alarm Yapılandırması"
+      }
+    }
+  ],
+  "zimmetlerim": [
+    {
+      "islem": 1,
+      "baslik": "Zimmetlerimi görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Yeni ekipman talep etme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ekipman Talep Et"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Havuzdan ürün talep etme (rezervasyon)",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Havuzdan Talep Et"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Ticket açma (arıza veya sorun bildirme)",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ticket Aç"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Ekipman taleplerimi izleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Ekipman Taleplerim"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Talebi düzenleme, iptal etme veya silme",
+      "ekran": "Ekipman Taleplerim",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Talebe yorum ekleme",
+      "ekran": "Ekipman Taleplerim",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Ticketlarımı izleme ve iptal etme",
+      "ekran": "Ticketlarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Teslim ve iade kayıtlarını görüntüleme",
+      "ekran": "Teslim/İade",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Zimmet listesini dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Stok yöneticisiyle mesajlaşma",
+      "ekran": "Ticketlarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Ürünü teslim aldığını onaylama",
+      "ekran": "Teslim/İade",
+      "hedef": {
+        "tur": "tablo"
+      }
+    }
+  ]
+}

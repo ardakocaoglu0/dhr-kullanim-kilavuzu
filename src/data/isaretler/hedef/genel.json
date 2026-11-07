@@ -1,0 +1,397 @@
+{
+  "genel-arayuz": [
+    {
+      "islem": 1,
+      "baslik": "Menüde gezinme ve menüyü daraltma",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kişisel"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Anketleri yanıtlama",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Anketlerim"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Profilinizi görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Bilgilerim"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Günün sözü",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "GÜNÜN SÖZÜ"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Tema ve dil değiştirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Türkçe"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Duyuruları okuma",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Duyurular"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Ruh hali bildirimi (Bugün nasıl hissediyorsun?)",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bugün nasıl hissediyorsun?"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Doğum günleri ve iş yıldönümleri",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Yaklaşan Doğum Günleri"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Verdiğim anket yanıtlarını görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Anketlerim"
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Sayfa bilgisi (i simgesi)",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Kontrol Panelim"
+      }
+    }
+  ],
+  "kontrol-panelim": [
+    {
+      "islem": 1,
+      "baslik": "Günlük özeti görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Tümünü Görüntüle"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "İşe giriş sürecini takip etme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "İşe Giriş Sürecim"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "İzin bakiyesini ve son izin taleplerini görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "İzin Durumu"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Yönetim taleplerini görüntüleme",
+      "ekran": "Yönetim Talepleri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Yönetim Talepleri"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Kendi doküman taleplerinizi görüntüleme",
+      "ekran": "Talepleriniz",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Talepleriniz"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Size gönderilen dokümanları görüntüleme",
+      "ekran": "Gönderilen Dokümanlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Gönderilen Dokümanlar"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Son masraf taleplerini görme",
+      "ekran": "Talepleriniz",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Son Masraf Talepleri"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Pozisyon şemasında gezinme",
+      "ekran": "Talepleriniz",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Pozisyon Şeması"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Yaklaşan doğum günlerini görme",
+      "ekran": "Talepleriniz",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Yaklaşan Doğum Günleri"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Taleplerinizi Talep Merkezi'nden takip etme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Talep Merkezi"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Ruh halinizi bildirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bugün nasıl hissediyorsun?"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Duyuruları okuma",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Duyurular"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "İzindeki ekip arkadaşlarını ve vardiyanızı görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Şu Anda İzinde Olan Ekip Arkadaşlarım"
+      }
+    }
+  ],
+  "kontrol-paneli": [
+    {
+      "islem": 1,
+      "baslik": "Genel bakışı görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Toplam Çalışan"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Departmana göre süzme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Departman"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Çalışan dağılımı ve sirkülasyonu inceleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Çalışan Dağılımı"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Analiz ve raporlar (modül analitiği)",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Analiz ve Raporlar"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Dashboard'ı düzenleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dashboard'ı Düzenle"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Pozisyon şemasında gezinme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Pozisyon Şeması"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Okunmamış duyuruları okuma",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Okunmamış Duyurular"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Doğum günleri ve iş yıldönümlerini görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Yaklaşan Doğum Günleri"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Onay Merkezi'nde bekleyen talepleri görme",
+      "ekran": "Onay Merkezi",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Onay Merkezi"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Masraf talep onaylarını görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Masraf Talep Onayları"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Yaklaşan izinleri görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Yaklaşan İzinler"
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Performans değerlendirme takvimini izleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Performans Değerlendirme Takvimi"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Çalışan bağlılığı ve ruh hali analizi",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Analiz ve Raporlar"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Talebi onaylama veya reddetme",
+      "ekran": "Onay Merkezi",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Onay Merkezi"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Duyuru oluşturma",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Tüm duyuruları görüntüle"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Duyuruyu düzenleme / silme ve okunma durumunu izleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Tüm duyuruları görüntüle"
+      }
+    }
+  ],
+  "sisteme-giris": [
+    {
+      "islem": 1,
+      "baslik": "Sisteme giriş yapma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Giriş Yap"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Şifremi unuttum (parola sıfırlama)",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Şifremi unuttum?"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "İki adımlı doğrulama ile giriş",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Giriş Yap"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Tema ve dil seçimi",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Türkçe"
+      }
+    }
+  ]
+}

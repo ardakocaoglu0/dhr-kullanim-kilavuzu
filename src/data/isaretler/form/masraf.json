@@ -1,0 +1,142 @@
+{
+  "masraf-yonetimi": [
+    {
+      "islem": 4,
+      "baslik": "Masraf talebini onaylama",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan buton yasak kelime içeriyor (Onayla)"
+    },
+    {
+      "islem": 5,
+      "baslik": "Masraf talebini reddetme",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan buton yasak kelime içeriyor (Reddet)"
+    },
+    {
+      "islem": 6,
+      "baslik": "Toplu onay / ret",
+      "ekran": null,
+      "ac": [
+        {
+          "buton": "Toplu İşlem"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan buton yasak kelime içeriyor (Toplu İşlem)"
+    },
+    {
+      "islem": 13,
+      "baslik": "Masrafları ödendi olarak işaretleme",
+      "ekran": "Geri Ödemeler > Ödeme Bekleyen",
+      "ac": [
+        {
+          "css": "main tr.ant-table-row .ant-checkbox-input"
+        },
+        {
+          "buton": "Ödendi İşaretle"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Ödendi İşaretle penceresi satır onay kutusu seçimi gerektirir (seçim adımı yok; seçimsiz buton pasif)"
+    },
+    {
+      "islem": 19,
+      "baslik": "Masraf türlerini tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Masraf Yönetimi"
+        },
+        {
+          "sekme": "Masraf Türleri"
+        },
+        {
+          "dene": [
+            "Yeni Masraf Türü",
+            "Yeni Ekle",
+            "Ekle"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form başka sayfada (Ayarlar › Organizasyon Şeması › birim detayı – Modül Ayarları) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 20,
+      "baslik": "Masraf etiketlerini yönetme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Masraf Yönetimi"
+        },
+        {
+          "sekme": "Masraf Etiketleri"
+        },
+        {
+          "dene": [
+            "Yeni Etiket",
+            "Etiket Ekle",
+            "Yeni Ekle",
+            "Ekle"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form başka sayfada (Ayarlar › Organizasyon Şeması › birim detayı – Modül Ayarları) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 21,
+      "baslik": "Masraf ayarlarını düzenleme (geri ödeme yolu)",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Masraf Yönetimi"
+        },
+        {
+          "sekme": "Geri Ödeme"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form başka sayfada (Ayarlar › Organizasyon Şeması › birim detayı – Modül Ayarları) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 22,
+      "baslik": "Masraf onay akışını tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Masraf Yönetimi"
+        },
+        {
+          "sekme": "Masraf İş Akışı"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form başka sayfada (Ayarlar › Organizasyon Şeması › birim detayı – Modül Ayarları) açılır; bu sayfanın ekranlarında yok"
+    }
+  ]
+}

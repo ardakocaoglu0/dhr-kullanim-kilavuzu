@@ -1,0 +1,472 @@
+{
+  "vardiya-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "Haftalık planı görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Haftayı kopyalama",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Haftayı Kopyala"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Planı yeniden üretme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeniden Üret"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Açık vardiya yayınlama",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Açık vardiyalar"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Planı yazdırma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yazdır"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Onayınızı bekleyen talepleri görüntüleme",
+      "ekran": "Talepler > Onayımı Bekleyenler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Vardiya değişim talebini onaylama",
+      "ekran": "Talepler > Onayımı Bekleyenler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Vardiya değişim talebini reddetme",
+      "ekran": "Talepler > Onayımı Bekleyenler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Toplu onay / ret",
+      "ekran": "Talepler > Onayımı Bekleyenler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Talep ayrıntısını ve etkisini görme",
+      "ekran": "Talepler > Onayımı Bekleyenler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Ekip taleplerini görüntüleme",
+      "ekran": "Talepler > Ekip Talepleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Talep listesini dışa aktarma",
+      "ekran": "Talepler > Onayımı Bekleyenler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Ekip vardiya listesini görüntüleme ve filtreleme",
+      "ekran": "Ekip Listesi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "Ekip listesini dışa aktarma",
+      "ekran": "Ekip Listesi",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Vardiya bakiyelerini görüntüleme",
+      "ekran": "Bakiyeler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "Bakiyeleri dışa aktarma",
+      "ekran": "Bakiyeler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "Yasal uyum kayıtlarını görüntüleme",
+      "ekran": "Yasal Uyum",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 30,
+      "baslik": "Uyum taramasını çalıştırma",
+      "ekran": "Yasal Uyum",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Taramayı Çalıştır"
+      }
+    },
+    {
+      "islem": 33,
+      "baslik": "Yeni vardiya şablonu tanımlama",
+      "ekran": "Tanımlar > Vardiya Şablonları · 46",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Vardiya Şablonu"
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "Vardiya şablonlarını arama ve filtreleme",
+      "ekran": "Tanımlar > Vardiya Şablonları · 46",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 35,
+      "baslik": "Vardiya şablonunu düzenleme",
+      "ekran": "Tanımlar > Vardiya Şablonları · 46",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 36,
+      "baslik": "Şablon ayrıntısını ve sürüm geçmişini görme",
+      "ekran": "Tanımlar > Vardiya Şablonları · 46",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 37,
+      "baslik": "Vardiya şablonunu kullanımdan kaldırma veya silme",
+      "ekran": "Tanımlar > Vardiya Şablonları · 46",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 38,
+      "baslik": "Yeni rotasyon deseni tanımlama",
+      "ekran": "Tanımlar > Rotasyon Desenleri · 14",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Rotasyon"
+      }
+    },
+    {
+      "islem": 39,
+      "baslik": "Rotasyon desenini düzenleme veya silme",
+      "ekran": "Tanımlar > Rotasyon Desenleri · 14",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 40,
+      "baslik": "Yeni çalışan kuralı oluşturma",
+      "ekran": "Tanımlar > Çalışan Kuralları · 2",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Kural"
+      }
+    },
+    {
+      "islem": 41,
+      "baslik": "Çalışan kurallarını filtreleme",
+      "ekran": "Tanımlar > Çalışan Kuralları · 2",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 42,
+      "baslik": "Çalışan kuralını düzenleme, sonlandırma veya silme",
+      "ekran": "Tanımlar > Çalışan Kuralları · 2",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Çalışana vardiya atama",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Atamayı kaldırma veya değiştirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Uygun aday önerilerini görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kadro"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Günlük vardiyayı iptal etme, kilitleme veya kilidini açma",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Atama geçmişini görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Atamaya not ekleme ve fazla mesai uygunluğu",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "İki çalışanın vardiyasını yerinde değiştirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Talebi PDF olarak indirme",
+      "ekran": "Talepler > Onayımı Bekleyenler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Giriş / çıkış kaydını elle girme",
+      "ekran": "Ekip Listesi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Vardiya atamasını iptal etme",
+      "ekran": "Ekip Listesi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "Uyum kaydını gördüm olarak işaretleme",
+      "ekran": "Yasal Uyum",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "Çalışanın yıllık fazla mesai durumunu görme",
+      "ekran": "Yasal Uyum",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    }
+  ],
+  "vardiyalarim": [
+    {
+      "islem": 1,
+      "baslik": "Vardiya özetini ve takvimi görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "takvim"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Vardiyayı kendi takviminize ekleme",
+      "ekran": "Yaklaşan",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Takvime Ekle"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Yaklaşan vardiyaları görüntüleme",
+      "ekran": "Yaklaşan",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Vardiya değişiklik talebi oluşturma (bırakma, devretme, takas)",
+      "ekran": "Yaklaşan",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Değişiklik Talebi"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Gönderdiğiniz talepleri izleme",
+      "ekran": "Taleplerim > Gönderdiklerim",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Talep ayrıntısını görme",
+      "ekran": "Taleplerim > Gönderdiklerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Detaylar"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Talebi iptal etme",
+      "ekran": "Taleplerim > Gönderdiklerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Talebi İptal Et"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Gelen devretme / takas talebini kabul etme",
+      "ekran": "Taleplerim > Gelenler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kabul Et"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Gelen devretme / takas talebini reddetme",
+      "ekran": "Taleplerim > Gelenler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Reddet"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Açık vardiyaya talip olma",
+      "ekran": "Açık Vardiyalar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Talip Ol"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Vardiya tercihlerini bildirme",
+      "ekran": "Tercihlerim",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Vardiya Tercihlerim"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Talebi PDF olarak indirme",
+      "ekran": "Taleplerim > Gönderdiklerim",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Detaylar"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Vardiyaya giriş / çıkış yapma",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Bugün vardiyanız yok."
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Aynı vardiyadaki iş arkadaşlarını görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "takvim"
+      }
+    }
+  ]
+}

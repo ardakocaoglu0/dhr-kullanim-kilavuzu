@@ -1,0 +1,78 @@
+{
+  "gorev-yonetimi": [
+    {
+      "islem": 10,
+      "baslik": "Görev gününü onaylama",
+      "ekran": "Talepler > Bekleyen",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan buton yasak kelime içeriyor (Onayla)"
+    },
+    {
+      "islem": 11,
+      "baslik": "Görev gününü reddetme",
+      "ekran": "Talepler > Bekleyen",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan buton yasak kelime içeriyor (Reddet)"
+    },
+    {
+      "islem": 16,
+      "baslik": "Görev kategorisi oluşturma",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Görev Yönetimi"
+        },
+        {
+          "sekme": "Kategoriler"
+        },
+        {
+          "dene": [
+            "Yeni Kategori",
+            "Kategori Ekle",
+            "Yeni Ekle",
+            "Ekle"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form başka sayfada (Ayarlar › Organizasyon Şeması › birim detayı – Modül Ayarları) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 18,
+      "baslik": "Görev onay akışı tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Görev Yönetimi"
+        },
+        {
+          "sekme": "Görev İş Akışı"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form başka sayfada (Ayarlar › Organizasyon Şeması › birim detayı – Modül Ayarları) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 20,
+      "baslik": "Çalışan takvim rengini belirleme",
+      "ekran": "Takvim",
+      "yok": "Renk değiştirme seçeneği takvimde bu hesapla görünmedi."
+    }
+  ]
+}

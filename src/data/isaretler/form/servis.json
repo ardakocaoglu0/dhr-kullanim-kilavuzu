@@ -1,0 +1,19 @@
+{
+  "servis-yonetimi": [
+    {
+      "islem": 10,
+      "baslik": "Çalışanı servise atama",
+      "ekran": "Atamalar",
+      "ac": [
+        {
+          "buton": "Atama Yap"
+        }
+      ]
+    },
+    {
+      "islem": 13,
+      "baslik": "Araç tanımlama ve düzenleme",
+      "yok": "Canlı sürümde ayrı araç tanımlama penceresi yok; araç yalnız Yeni Servis penceresindeki \"Araç\" listesinden seçilir"
+    }
+  ]
+}

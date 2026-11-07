@@ -1,0 +1,198 @@
+{
+  "seyahat-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "Onay bekleyen talepleri görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Talep arama ve filtreleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Filtreleri Temizle"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Seyahat talebinin detayını görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Seyahat talebini onaylama",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Seyahat talebini reddetme",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Toplu onay / ret (Toplu İşlem)",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Talepleri dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Ekip seyahat takvimini görüntüleme",
+      "ekran": "Ekip Seyahatleri > Seyahat Takvimi",
+      "hedef": {
+        "tur": "takvim"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Ekip seyahatlerini listeleme",
+      "ekran": "Ekip Seyahatleri > Tüm Talepler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Seyahat giderlerini ve avansları izleme",
+      "ekran": "Seyahat Bakiyesi > Seyahat Giderleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Seyahat avansını ve gider kapamayı takip etme",
+      "ekran": "Seyahat Bakiyesi > Seyahat Giderleri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Onaylanan Talepler"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Seyahat bakiyelerini görüntüleme",
+      "ekran": "Seyahat Bakiyesi > Seyahat Bakiyeleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Seyahat kaydı ekleme",
+      "ekran": "Seyahat Bakiyesi > Seyahat Bakiyeleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Seyahat Kaydı Ekle"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Seyahat talebini düzenleme (yönetici)",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Seyahat talebini silme veya iptal etme (yönetici)",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    }
+  ],
+  "seyahatlerim": [
+    {
+      "islem": 1,
+      "baslik": "Seyahat taleplerimi görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Yeni seyahat talebi oluşturma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Seyahat Talebi"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Talep detayını görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Seyahat talebini iptal etme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Bekleyen talebi düzenleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Seyahate bağlı masrafları görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Masraf"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Seyahat belgesini indirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "performans-yonetimi": [
+    {
+      "islem": 5,
+      "baslik": "Aşama süresini uzatma",
+      "ekran": "Kokpit > Dönem Kokpiti",
+      "ac": [
+        {
+          "buton": "Süre Uzat"
+        }
+      ]
+    },
+    {
+      "islem": 7,
+      "baslik": "Değerlendirme talebini onaylama",
+      "eskiGerekce": "Açıklama penceresi «Onayla» butonuyla açılıyor (yasak kelime).",
+      "yok": "Talep satırında yalnız Detaylar var; onay/ret butonu bu hesabın onay sırası geldiğinde çıkıyor, demo talebinde görünmedi."
+    },
+    {
+      "islem": 8,
+      "baslik": "Değerlendirme talebini reddetme",
+      "eskiGerekce": "Gerekçe penceresi «Reddet» butonuyla açılıyor (yasak kelime).",
+      "yok": "Talep satırında yalnız Detaylar var; onay/ret butonu bu hesabın onay sırası geldiğinde çıkıyor, demo talebinde görünmedi."
+    },
+    {
+      "islem": 13,
+      "baslik": "Değerlendirici ekleme ve akran atama",
+      "ekran": "Kokpit > Aktif Değerlendirmeler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 15,
+      "baslik": "Yönetici değerlendirmesi yapma",
+      "ekran": "Kokpit > Aktif Değerlendirmeler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 17,
+      "baslik": "İtirazı sonuçlandırma",
+      "ekran": "Kokpit > İtirazlar > Bekleyen İtirazlar",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 20,
+      "baslik": "9-Box önerilerinden aksiyon oluşturma",
+      "ekran": "Kokpit > Aksiyonlar",
+      "ac": [
+        {
+          "metin": "Tüm dönemler"
+        },
+        {
+          "menu": "2026 Yıl Sonu Değerlendirmesi"
+        },
+        {
+          "buton": "9-Box Önerileri"
+        }
+      ],
+      "eskiGerekce": "9-Box önerileri yalnız bir dönem seçilince listelenir; demo döneminde öneri yüklenmedi."
+    },
+    {
+      "islem": 21,
+      "baslik": "Yeni yetenek aksiyonu oluşturma",
+      "yok": "Aksiyonlar ekranında aksiyon ekleme butonu yok; aksiyonlar 9-Box Önerileri / PIP Başlat ile açılıyor."
+    },
+    {
+      "islem": 22,
+      "baslik": "Yetenek aksiyonunu onaylama veya reddetme",
+      "yok": "Onay Bekleyen listesi boş; ayrıca form onay/ret butonuyla açılıyor."
+    },
+    {
+      "islem": 23,
+      "baslik": "Aksiyonu başlatma, ilerleme ve adım girme",
+      "yok": "Demo hesapta aksiyon kaydı yok (liste boş)."
+    },
+    {
+      "islem": 24,
+      "baslik": "Aksiyonu düzenleme, tamamlama veya iptal etme",
+      "yok": "Demo hesapta aksiyon kaydı yok (liste boş)."
+    },
+    {
+      "islem": 27,
+      "baslik": "PIP başlatma / PIP hedeflerini girme",
+      "ekran": "Kokpit > PIP",
+      "ac": [
+        {
+          "buton": "PIP Başlat"
+        }
+      ]
+    },
+    {
+      "islem": 28,
+      "baslik": "PIP check-in görüşmesi girme",
+      "ekran": "Kokpit > PIP",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 29,
+      "baslik": "PIP süresini uzatma veya PIP’i kapatma",
+      "ekran": "Kokpit > PIP",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 39,
+      "baslik": "Hedefi onaylama, iade etme veya reddetme",
+      "ekran": "Dönem Yönetimi > Hedefler > Liste",
+      "yok": "Bekleyen Hedefler listesi demo verisinde boş."
+    },
+    {
+      "islem": 40,
+      "baslik": "Hedef ilerlemesini ve anahtar sonuçları güncelleme",
+      "ekran": "Dönem Yönetimi > Hedefler > Hedef Kartları",
+      "ac": [
+        {
+          "buton": "Detaylar"
+        }
+      ]
+    },
+    {
+      "islem": 45,
+      "baslik": "Hedef revizyon taleplerini değerlendirme",
+      "yok": "Bekleyen revizyon talebi yok; karar formu onay/ret butonuyla açılıyor."
+    },
+    {
+      "islem": 46,
+      "baslik": "Hedef revizyonu başlatma",
+      "ekran": "Dönem Yönetimi > Hedefler > Liste",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 48,
+      "baslik": "Ara dönem görüşmesi kaydetme",
+      "ekran": "Dönem Yönetimi > Ara Dönem Görüşmeleri",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 50,
+      "baslik": "Potansiyel değerlendirmesi açma",
+      "yok": "Seçili dönemde potansiyel değerlendirmesi kapalı; «Değerlendirme Aç» kullanılamıyor."
+    },
+    {
+      "islem": 51,
+      "baslik": "Potansiyel değerlendiricisi atama",
+      "yok": "Potansiyel değerlendirme listesi boş; satır yok."
+    },
+    {
+      "islem": 52,
+      "baslik": "Potansiyel puanlarını girme",
+      "yok": "Potansiyel değerlendirme listesi boş; satır yok."
+    },
+    {
+      "islem": 53,
+      "baslik": "Potansiyel değerlendirmesini onaylama veya geri gönderme",
+      "yok": "Liste boş; ayrıca form onay butonuyla açılıyor."
+    },
+    {
+      "islem": 55,
+      "baslik": "Kalibrasyon düzeltmesi girme ve oturumu sonuçlandırma",
+      "ekran": "Dönem Yönetimi > Kalibrasyon",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 56,
+      "baslik": "Kalibrasyon oturumunu onaylama veya reddetme",
+      "ekran": "Dönem Yönetimi > Kalibrasyon",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Not penceresi onay/ret butonuyla açılıyor (yasak kelime)."
+    },
+    {
+      "islem": 60,
+      "baslik": "9-Box kalibrasyon oturumu ve kutu taşıma",
+      "ekran": "Dönem Yönetimi > 9-Box",
+      "ac": [
+        {
+          "buton": "Kalibrasyon Oturumları"
+        }
+      ]
+    },
+    {
+      "islem": 63,
+      "baslik": "Yetkinlik değerlendirmesi yapma",
+      "eskiGerekce": "Liste ancak açılır listeden dönem seçilince doluyor; tarif adımlarında seçim yok.",
+      "yok": "Değerlendirme listesi dönem süzgeci seçilince de boş kalıyor; demo döneminde yetkinlik değerlendirmesi kaydı yok."
+    },
+    {
+      "islem": 65,
+      "baslik": "Yedekleme (halef) planı başlatma",
+      "ekran": "Dönem Yönetimi > Yedekleme",
+      "ac": [
+        {
+          "buton": "Yedekleme Başlat"
+        }
+      ],
+      "pencereSekmeleri": [
+        "Doğrudan Giriş",
+        "İstek Gönder"
+      ]
+    },
+    {
+      "islem": 66,
+      "baslik": "Yöneticilerden yedekleme isteği gönderme",
+      "ekran": "Dönem Yönetimi > Yedekleme",
+      "ac": [
+        {
+          "buton": "Yedekleme Başlat"
+        }
+      ],
+      "pencereSekmeleri": [
+        "Doğrudan Giriş",
+        "İstek Gönder"
+      ]
+    },
+    {
+      "islem": 70,
+      "baslik": "Takdirleri onaylama veya reddetme",
+      "ekran": "Dönem Yönetimi > Takdir Akışı > Onay Bekleyenler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Açıklama penceresi onay/ret butonuyla açılıyor (yasak kelime)."
+    },
+    {
+      "islem": 77,
+      "baslik": "Pozisyon yetkinlik beklentilerini girme",
+      "ekran": "Kütüphane > Yetkinlikler > Pozisyon Yetkinlik Matrisi",
+      "yerinde": true
+    }
+  ]
+}

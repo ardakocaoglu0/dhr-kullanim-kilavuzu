@@ -1,0 +1,301 @@
+{
+  "calisan-yonetimi": [
+    {
+      "islem": 3,
+      "baslik": "Çalışanları filtreleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Filtrele"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Listeyi sıralama",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Alfabetik"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Yeni çalışan ekleme",
+      "ekran": "İşlemler menüsü",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İşlemler"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Çalışan kartını (detayını) açma",
+      "ekran": "Çalışan kartı > Kişisel Bilgiler",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Kişisel Bilgiler"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Çalışan bilgilerini düzenleme",
+      "ekran": "Çalışan kartı > Kariyer",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışan İşlemleri"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Pozisyon ataması ekleme / değiştirme",
+      "ekran": "Çalışan kartı > Kariyer",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Pozisyon Geçmişi"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Sözleşme ekleme ve düzenleme",
+      "ekran": "Çalışan kartı > Kariyer",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Sözleşmeler"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Aile bilgisi (eş / çocuk) ekleme",
+      "ekran": "Çalışan kartı > Aile Bilgileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Eş Ekle"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Banka hesabı ekleme ve onaylama",
+      "ekran": "Çalışan kartı > Bordro Bilgileri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Banka Hesapları"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Bordro bilgilerini düzenleme",
+      "ekran": "Çalışan kartı > Bordro Bilgileri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bordro Bilgileri"
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Çalışan uyarısı (disiplin) verme",
+      "ekran": "Çalışan kartı > Çalışan Uyarıları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışanı Uyar"
+      }
+    },
+    {
+      "islem": 1,
+      "baslik": "Çalışan listesini görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Çalışan arama",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Çalışan ara..."
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Çalışana kullanıcı hesabı oluşturma",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Belgeleri toplu yükleme",
+      "ekran": "Çalışan kartı > Kariyer",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışan İşlemleri"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Birim değişikliği (birimler arası transfer)",
+      "ekran": "Çalışan kartı > Kariyer",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışan İşlemleri"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Masraf yeri dağılımı",
+      "ekran": "Çalışan kartı > Bordro Bilgileri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Masraf Yeri Dağılımı"
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Önceki hizmet dönemi ekleme",
+      "ekran": "Çalışan kartı > Bordro Bilgileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dönem Ekle"
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Çalışan listesini dışa aktarma",
+      "ekran": "İşlemler menüsü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Özlük İşlemleri"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Çalışma belgesi alma",
+      "ekran": "Çalışan kartı > Kariyer",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışan İşlemleri"
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "Çalışanın modül kayıtlarını görüntüleme",
+      "ekran": "Çalışan kartı > Kişisel Bilgiler",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "İzin Talepleri"
+      }
+    }
+  ],
+  "bilgilerim": [
+    {
+      "islem": 3,
+      "baslik": "Bilgilerimi güncelleme / değişiklik talebi",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışan İşlemleri"
+      }
+    },
+    {
+      "islem": 1,
+      "baslik": "Kişisel bilgilerimi görüntüleme",
+      "ekran": "Kişisel Bilgiler",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Kişisel Bilgiler"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Kariyer bilgilerimi, sözleşmelerimi ve pozisyon geçmişimi görüntüleme",
+      "ekran": "Kariyer",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Organizasyon Bilgileri"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Aile bilgilerimi görüntüleme",
+      "ekran": "Aile Bilgileri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Aile Bilgileri"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "İzin ve ek mesai taleplerimi görüntüleme",
+      "ekran": "İzin Talepleri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "İzin Talepleri"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Zimmet, seyahat ve masraf kayıtlarımı görüntüleme",
+      "ekran": "Zimmetler",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Zimmetler"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Performans bilgilerimi görüntüleme",
+      "ekran": "Performans",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Performans"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "İşe giriş/çıkış süreçlerimi, görevlerimi ve puantajımı görüntüleme",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Puantaj"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Doküman taleplerimi ve dokümanlarımı görüntüleme",
+      "ekran": "Doküman Talepleri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Doküman Talepleri"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Uyarılarımı ve bordro bilgilerimi görüntüleme",
+      "ekran": "Çalışan Uyarıları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "IBAN (banka hesabı) değişikliği",
+      "ekran": "Kişisel Bilgiler",
+      "hedef": {
+        "tur": "metin",
+        "metin": "IBAN"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Bilgilerimde arama",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kişisel Bilgilerde ara..."
+      }
+    }
+  ]
+}

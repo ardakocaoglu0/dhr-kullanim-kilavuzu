@@ -1,0 +1,145 @@
+{
+  "izin-yonetimi": [
+    {
+      "islem": 4,
+      "baslik": "İzin talebini onaylama",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere satırdaki onayla (✓) butonuyla açılır; yasaklı işlem"
+    },
+    {
+      "islem": 5,
+      "baslik": "İzin talebini reddetme",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere satırdaki reddet (✕) butonuyla açılır; yasaklı işlem"
+    },
+    {
+      "islem": 11,
+      "baslik": "Çalışan adına izin girme (Toplu İşlem)",
+      "ekran": "Ekip İzinleri > Tüm Talepler",
+      "ac": [
+        {
+          "buton": "Toplu İşlem"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form Toplu İşlem butonuyla açılır; 'toplu' yasaklı kelime"
+    },
+    {
+      "islem": 24,
+      "baslik": "Bakiye aktarımı (departman değişikliğinde)",
+      "ekran": "Bakiye Düzeltme > Bakiye Aktarımı > Aktarım",
+      "yerinde": true,
+      "kaydir": "Bakiye Aktarımı"
+    },
+    {
+      "islem": 26,
+      "baslik": "İzin türü tanımlama ve düzenleme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "İzin Yönetimi"
+        },
+        {
+          "sekme": "İzin Türleri"
+        },
+        {
+          "buton": "Yeni Ekle"
+        }
+      ],
+      "eskiGerekce": "Form Ayarlar › Organizasyon Şeması birim detayında (İzin Yönetimi › İzin Türleri) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 28,
+      "baslik": "Çalışana özel izin ayarı (kıdem başlangıcı)",
+      "yok": "Form birim detayındaki izin türü ayarında açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 29,
+      "baslik": "Resmi tatil tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Resmi Tatiller"
+        },
+        {
+          "dene": [
+            "Tatil Ekle",
+            "Yeni Ekle",
+            "Ekle"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form Ayarlar › Organizasyon Şeması birim detayında (Resmi Tatiller › Tatil Ekle) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 30,
+      "baslik": "İzin onay akışı tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "İzin Yönetimi"
+        },
+        {
+          "sekme": "İzin İş Akışı"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form birim detayında (İzin Yönetimi › İzin İş Akışı) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 31,
+      "baslik": "Bakiye değişikliği onay ayarı",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "İzin Yönetimi"
+        },
+        {
+          "sekme": "Ayarlar"
+        },
+        {
+          "sekme": "Çalışan Onayı"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form birim detayında (İzin Yönetimi › Ayarlar › Çalışan Onayı) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 33,
+      "baslik": "İzin ödeneği (izin harçlığı) kuralı tanımlama",
+      "yok": "Form birim detayında (Bordro Yönetimi › İzin Harçlığı) açılır; bu sayfanın ekranlarında yok"
+    }
+  ],
+  "izinlerim": [
+    {
+      "islem": 12,
+      "baslik": "Bakiye değişikliğini reddetme",
+      "yok": "Pencere Reddet butonuyla açılır (yasaklı); ayrıca Değişiklik Onayları listesi boş"
+    }
+  ]
+}

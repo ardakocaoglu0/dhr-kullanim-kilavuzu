@@ -1,0 +1,104 @@
+{
+  "seyahat-yonetimi": [
+    {
+      "islem": 2,
+      "baslik": "Talep arama ve filtreleme",
+      "ekran": null,
+      "yerinde": true
+    },
+    {
+      "islem": 4,
+      "baslik": "Seyahat talebini onaylama",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan buton yasak kelime içeriyor (Onayla)"
+    },
+    {
+      "islem": 5,
+      "baslik": "Seyahat talebini reddetme",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan buton yasak kelime içeriyor (Reddet)"
+    },
+    {
+      "islem": 10,
+      "baslik": "Çalışan adına seyahat talebi oluşturma",
+      "yok": "Çalışan adına talep oluşturma butonu yetkiye bağlı; yönetici hesabının ekranlarında görünmüyor"
+    },
+    {
+      "islem": 12,
+      "baslik": "Seyahat talebini silme veya iptal etme (yönetici)",
+      "eskiGerekce": "Formu açan buton yasak kelime içeriyor (İptal / Sil)",
+      "yok": "Yönetici satırında İptal/Sil butonu yok (yalnız Onayla, Reddet, Detaylar); talep detayında da görünmüyor."
+    },
+    {
+      "islem": 17,
+      "baslik": "Seyahat türlerini yönetme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Seyahat Yönetimi"
+        },
+        {
+          "sekme": "Seyahat Türleri"
+        },
+        {
+          "dene": [
+            "Yeni Seyahat Türü",
+            "Yeni Ekle",
+            "Ekle"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form başka sayfada (Ayarlar › Organizasyon Şeması › birim detayı – Modül Ayarları) açılır; bu sayfanın ekranlarında yok"
+    }
+  ],
+  "seyahatlerim": [
+    {
+      "islem": 5,
+      "baslik": "Seyahat talebini iptal etme",
+      "ekran": null,
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Formu açan buton yasak kelime içeriyor (Talebi İptal Et)"
+    },
+    {
+      "islem": 6,
+      "baslik": "Seyahat sonrası masraf girişi",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/my-expenses"
+        },
+        {
+          "dene": [
+            "Yeni Masraf",
+            "Masraf Ekle",
+            "Yeni Masraf Raporu",
+            "Yeni Rapor"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form Kişisel › Masraflarım sayfasında açılır; bu sayfada yok"
+    }
+  ]
+}

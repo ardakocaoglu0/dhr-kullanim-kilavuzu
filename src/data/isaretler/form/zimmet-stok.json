@@ -1,0 +1,202 @@
+{
+  "zimmet-yonetimi": [
+    {
+      "islem": 3,
+      "baslik": "Zimmet talebini onaylama",
+      "ekran": "Taleplerim > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form yasak kelimeli (onayla/reddet) butonla açılıyor"
+    },
+    {
+      "islem": 4,
+      "baslik": "Zimmet talebini reddetme",
+      "ekran": "Taleplerim > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form yasak kelimeli (onayla/reddet) butonla açılıyor"
+    },
+    {
+      "islem": 5,
+      "baslik": "Havuz (ortak kullanım) talebini onaylama veya reddetme",
+      "ekran": "Taleplerim > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form yasak kelimeli (onayla/reddet) butonla açılıyor"
+    },
+    {
+      "islem": 8,
+      "baslik": "Talebe yorum ekleme ve silme",
+      "ekran": null,
+      "ac": [
+        {
+          "satir-simge": 3
+        }
+      ]
+    },
+    {
+      "islem": 13,
+      "baslik": "Çalışan adına onaysız ekipman talebi oluşturma",
+      "yok": "Ekip Zimmetleri ekranında bu formu açan buton yok (yalnız Detaylar ve Dışa Aktar görünüyor)"
+    }
+  ],
+  "stok-yonetimi": [
+    {
+      "islem": 8,
+      "baslik": "Ürünü çalışana zimmetleme (atama)",
+      "ekran": null,
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 9,
+      "baslik": "Zimmeti iade alma",
+      "ekran": null,
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 16,
+      "baslik": "Kategoriye hatırlatma alanı tanımlama",
+      "ekran": "Ürün Yönetimi > Kategoriler",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 21,
+      "baslik": "Satın alma durumunu güncelleme",
+      "ekran": "Ürün Yönetimi > Stok Satın Alma",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 26,
+      "baslik": "Stok talebini işleme alma, beklemeye alma veya talep sahibinden bilgi isteme",
+      "ekran": "Stok Talepleri > Bana Atananlar",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 27,
+      "baslik": "Stok talebini başka birime veya yöneticiye aktarma",
+      "ekran": "Stok Talepleri > Bana Atananlar",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 28,
+      "baslik": "Stok talebini reddetme veya iptal etme",
+      "ekran": "Stok Talepleri > Bana Atananlar",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 29,
+      "baslik": "Talep edilen ürünü teslim etme",
+      "ekran": "Stok Talepleri > Bana Atananlar",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 34,
+      "baslik": "Arızalı ürünü tamire alma",
+      "ekran": "Stok Ticket'ları > Bana Atananlar",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 35,
+      "baslik": "Ticket için yeni ürün teslim etme",
+      "ekran": "Stok Ticket'ları > Bana Atananlar",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 36,
+      "baslik": "Ticketı aktarma, reddetme, iptal etme veya tamamlama",
+      "ekran": "Stok Ticket'ları > Bana Atananlar",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 41,
+      "baslik": "Stok yöneticilerini belirleme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Stok Yönetimi"
+        },
+        {
+          "sekme": "Stok Yöneticileri"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form bu sayfada değil; birim ayarlarındaki Stok Yöneticileri bölümünde açılır"
+    }
+  ],
+  "zimmetlerim": [
+    {
+      "islem": 7,
+      "baslik": "Talebe yorum ekleme",
+      "ekran": "Ekipman Taleplerim",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ]
+    },
+    {
+      "islem": 11,
+      "baslik": "Ürünü teslim aldığını onaylama",
+      "yok": "Teslim/İade tablosunda açan buton görünmüyor; onay butonu yasak kelime (onayla) içeriyor"
+    }
+  ]
+}

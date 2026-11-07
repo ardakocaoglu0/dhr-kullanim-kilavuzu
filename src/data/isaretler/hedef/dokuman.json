@@ -1,0 +1,253 @@
+{
+  "dokuman-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "Talep özetini ve listeleri görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Toplu İşlem",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Talep listelerini dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Çalışandan belge isteme (Talep Oluştur)",
+      "ekran": "Talepler > Yönetim Doküman Talepleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Talep Oluştur"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Çalışanın yüklediği belgeyi onaylama veya reddetme",
+      "ekran": "Talepler > Yönetim Doküman Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Belgeyi inceleme ve indirme",
+      "ekran": "Talepler > Yönetim Doküman Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Talep detaylarını görüntüleme",
+      "ekran": "Talepler > Yönetim Doküman Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 4
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Çalışanın istediği belgeyi hazırlayıp onaylama",
+      "ekran": "Talepler > Çalışan Doküman Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Çalışanın belge talebini reddetme",
+      "ekran": "Talepler > Çalışan Doküman Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Çalışana belge gönderme (Doküman Gönder)",
+      "ekran": "Talepler > Yönetim Tarafından Gönderilen",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Doküman Gönder"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Çalışanın gönderdiği belgeyi onaylama veya reddetme",
+      "ekran": "Talepler > Çalışan Tarafından Gönderilen",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Ekip dosyalarını görüntüleme ve filtreleme",
+      "ekran": "Ekip Dosyaları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Çalışanın dosyalarını inceleme",
+      "ekran": "Ekip Dosyaları",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Ekip dosyalarında toplu işlemler",
+      "ekran": "Ekip Dosyaları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlemler"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Şirket dosyası yükleme (Yeni Dosya)",
+      "ekran": "Şirket Dosyaları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Dosya"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Şirket dosyasını görüntüleme, düzenleme ve silme",
+      "ekran": "Şirket Dosyaları",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Bekleyen belge talepleri için hatırlatma gönderme",
+      "ekran": "Talepler > Yönetim Doküman Talepleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Belgeyi şablondan oluşturma",
+      "ekran": "Talepler > Çalışan Doküman Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    }
+  ],
+  "dokumanlarim": [
+    {
+      "islem": 1,
+      "baslik": "Belge özetini ve listeleri görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Talep detaylarını görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Belgelerimi dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "İstenen belgeyi yükleme (Doküman Yükle)",
+      "ekran": "Yönetim Doküman Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Belge talep etme (Yeni Talep)",
+      "ekran": "Çalışan Doküman Talepleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Talep"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Gönderilen belgeyi görüntüleme ve onaylama",
+      "ekran": "Yönetim Tarafından Gönderilen",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Yönetime belge gönderme (Doküman Gönder)",
+      "ekran": "Çalışan Tarafından Gönderilen",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Doküman Gönder"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Reddedilen belgeyi yeniden yükleme",
+      "ekran": "Yönetim Doküman Talepleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Belge talebini düzenleme veya geri çekme",
+      "ekran": "Çalışan Doküman Talepleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Hazırlanan belgeyi görüntüleme ve indirme",
+      "ekran": "Çalışan Doküman Talepleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    }
+  ]
+}

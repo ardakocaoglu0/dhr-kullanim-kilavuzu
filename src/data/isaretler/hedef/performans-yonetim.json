@@ -1,0 +1,730 @@
+{
+  "performans-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "Sizi bekleyen işleri görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Sizi bekleyenler"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Dönem aşamalarını izleme (Dönem Kokpiti)",
+      "ekran": "Kokpit > Dönem Kokpiti",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Dönem Kokpiti"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Bekleyen değerlendiricileri listeleme",
+      "ekran": "Kokpit > Dönem Kokpiti",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bekleyen Değerlendiriciler"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Sonraki aşamaya geçme",
+      "ekran": "Kokpit > Dönem Kokpiti",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Sonraki Aşama"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Aşama süresini uzatma",
+      "ekran": "Kokpit > Dönem Kokpiti",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Süre Uzat"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Değerlendirme taleplerini listeleme ve filtreleme",
+      "ekran": "Kokpit > Talepler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Değerlendirme talebini onaylama",
+      "ekran": "Kokpit > Talepler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Değerlendirme talebini reddetme",
+      "ekran": "Kokpit > Talepler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Değerlendirme taleplerini dışa aktarma",
+      "ekran": "Kokpit > Talepler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Aktif değerlendirmeleri izleme",
+      "ekran": "Kokpit > Aktif Değerlendirmeler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Değerlendirme detayını görüntüleme",
+      "ekran": "Kokpit > Aktif Değerlendirmeler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Yeni değerlendirme başlatma",
+      "ekran": "Kokpit > Aktif Değerlendirmeler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Değerlendirme Başlat"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Değerlendirici ekleme ve akran atama",
+      "ekran": "Kokpit > Aktif Değerlendirmeler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Değerlendirmeyi düzenleme veya silme",
+      "ekran": "Kokpit > Aktif Değerlendirmeler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Yönetici değerlendirmesi yapma",
+      "ekran": "Kokpit > Aktif Değerlendirmeler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "İtirazları listeleme",
+      "ekran": "Kokpit > İtirazlar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "İtirazı sonuçlandırma",
+      "ekran": "Kokpit > İtirazlar > Bekleyen İtirazlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "İtirazları dışa aktarma",
+      "ekran": "Kokpit > İtirazlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Yetenek aksiyonlarını listeleme ve filtreleme",
+      "ekran": "Kokpit > Aksiyonlar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "9-Box önerilerinden aksiyon oluşturma",
+      "ekran": "Kokpit > Aksiyonlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "9-Box Önerileri"
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Yetenek aksiyonunu onaylama veya reddetme",
+      "ekran": "Kokpit > Aksiyonlar > Onay Bekleyen",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Aksiyonu başlatma, ilerleme ve adım girme",
+      "ekran": "Kokpit > Aksiyonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Aksiyonu düzenleme, tamamlama veya iptal etme",
+      "ekran": "Kokpit > Aksiyonlar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Aksiyonları dışa aktarma",
+      "ekran": "Kokpit > Aksiyonlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "PIP listesini görüntüleme",
+      "ekran": "Kokpit > PIP",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "PIP başlatma / PIP hedeflerini girme",
+      "ekran": "Kokpit > PIP",
+      "hedef": {
+        "tur": "buton",
+        "metin": "PIP Başlat"
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "PIP check-in görüşmesi girme",
+      "ekran": "Kokpit > PIP",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "PIP süresini uzatma veya PIP’i kapatma",
+      "ekran": "Kokpit > PIP",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 30,
+      "baslik": "Dönem özet kartlarını görüntüleme",
+      "ekran": "Dönem Yönetimi > Dönemler",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Aktif Dönem"
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "Yeni performans dönemi oluşturma",
+      "ekran": "Dönem Yönetimi > Dönemler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Dönem"
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "Dönem hazırlık kontrolü ve dönemi başlatma",
+      "ekran": "Dönem Yönetimi > Dönemler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 33,
+      "baslik": "Dönemi düzenleme",
+      "ekran": "Dönem Yönetimi > Dönemler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "Dönemi kapatma veya iptal etme",
+      "ekran": "Dönem Yönetimi > Dönemler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 35,
+      "baslik": "Dönem raporu indirme",
+      "ekran": "Dönem Yönetimi > Dönemler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dönem Raporu"
+      }
+    },
+    {
+      "islem": 36,
+      "baslik": "Hedefleri görüntüleme ve filtreleme",
+      "ekran": "Dönem Yönetimi > Hedefler > Hedef Kartları",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Ortalama Hedef İlerlemesi"
+      }
+    },
+    {
+      "islem": 37,
+      "baslik": "Yeni hedef oluşturma (OKR / KPI)",
+      "ekran": "Dönem Yönetimi > Hedefler > Hedef Kartları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Hedef"
+      }
+    },
+    {
+      "islem": 38,
+      "baslik": "Hedefi düzenleme, silme veya onaya gönderme",
+      "ekran": "Dönem Yönetimi > Hedefler > Liste",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 39,
+      "baslik": "Hedefi onaylama, iade etme veya reddetme",
+      "ekran": "Dönem Yönetimi > Hedefler > Liste",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Bekleyen Hedefler"
+      }
+    },
+    {
+      "islem": 40,
+      "baslik": "Hedef ilerlemesini ve anahtar sonuçları güncelleme",
+      "ekran": "Dönem Yönetimi > Hedefler > Hedef Kartları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Detaylar"
+      }
+    },
+    {
+      "islem": 41,
+      "baslik": "Hedefi tamamlama veya yeniden hesaplama",
+      "ekran": "Dönem Yönetimi > Hedefler > Liste",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 42,
+      "baslik": "Hedef ağacını inceleme",
+      "ekran": "Dönem Yönetimi > Hedefler > Hedef Ağacı",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 43,
+      "baslik": "İlerleme özetini inceleme",
+      "ekran": "Dönem Yönetimi > Hedefler > İlerleme Özeti",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Düzeye Göre"
+      }
+    },
+    {
+      "islem": 44,
+      "baslik": "Hedefleri dışa aktarma",
+      "ekran": "Dönem Yönetimi > Hedefler > Liste",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 45,
+      "baslik": "Hedef revizyon taleplerini değerlendirme",
+      "ekran": "Dönem Yönetimi > Hedefler > Revizyon Talepleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 46,
+      "baslik": "Hedef revizyonu başlatma",
+      "ekran": "Dönem Yönetimi > Hedefler > Liste",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 47,
+      "baslik": "Revizyon taleplerini dışa aktarma",
+      "ekran": "Dönem Yönetimi > Hedefler > Revizyon Talepleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 48,
+      "baslik": "Ara dönem görüşmesi kaydetme",
+      "ekran": "Dönem Yönetimi > Ara Dönem Görüşmeleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 49,
+      "baslik": "Ara dönem görüşmesini düzenleme veya silme",
+      "ekran": "Dönem Yönetimi > Ara Dönem Görüşmeleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 50,
+      "baslik": "Potansiyel değerlendirmesi açma",
+      "ekran": "Dönem Yönetimi > Potansiyel Değerlendirmeleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Değerlendirme Aç"
+      }
+    },
+    {
+      "islem": 51,
+      "baslik": "Potansiyel değerlendiricisi atama",
+      "ekran": "Dönem Yönetimi > Potansiyel Değerlendirmeleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 52,
+      "baslik": "Potansiyel puanlarını girme",
+      "ekran": "Dönem Yönetimi > Potansiyel Değerlendirmeleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 53,
+      "baslik": "Potansiyel değerlendirmesini onaylama veya geri gönderme",
+      "ekran": "Dönem Yönetimi > Potansiyel Değerlendirmeleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 54,
+      "baslik": "Performans kalibrasyon oturumu oluşturma",
+      "ekran": "Dönem Yönetimi > Kalibrasyon",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Oturum"
+      }
+    },
+    {
+      "islem": 55,
+      "baslik": "Kalibrasyon düzeltmesi girme ve oturumu sonuçlandırma",
+      "ekran": "Dönem Yönetimi > Kalibrasyon",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 56,
+      "baslik": "Kalibrasyon oturumunu onaylama veya reddetme",
+      "ekran": "Dönem Yönetimi > Kalibrasyon",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 57,
+      "baslik": "Kalibrasyon oturumunu düzenleme veya silme",
+      "ekran": "Dönem Yönetimi > Kalibrasyon",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 58,
+      "baslik": "9-Box matrisini görüntüleme ve üretme",
+      "ekran": "Dönem Yönetimi > 9-Box",
+      "hedef": {
+        "tur": "buton",
+        "metin": "9-Box Üret"
+      }
+    },
+    {
+      "islem": 59,
+      "baslik": "Yeni 9-Box değerlendirmesi ekleme",
+      "ekran": "Dönem Yönetimi > 9-Box",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Değerlendirme"
+      }
+    },
+    {
+      "islem": 60,
+      "baslik": "9-Box kalibrasyon oturumu ve kutu taşıma",
+      "ekran": "Dönem Yönetimi > 9-Box",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kalibrasyon Oturumları"
+      }
+    },
+    {
+      "islem": 61,
+      "baslik": "Dönemler arası trendi inceleme",
+      "ekran": "Dönem Yönetimi > Trend Analizi",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Birim Skor Trendi"
+      }
+    },
+    {
+      "islem": 62,
+      "baslik": "Yetkinlik değerlendirmelerini görüntüleme",
+      "ekran": "Dönem Yönetimi > Yetkinlikler > Değerlendirmeler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 63,
+      "baslik": "Yetkinlik değerlendirmesi yapma",
+      "ekran": "Dönem Yönetimi > Yetkinlikler > Değerlendirmeler",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Yetkinlik Değerlendirmeleri"
+      }
+    },
+    {
+      "islem": 64,
+      "baslik": "Yetkinlik açığını analiz etme",
+      "ekran": "Dönem Yönetimi > Yetkinlikler > Yetkinlik Açığı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 65,
+      "baslik": "Yedekleme (halef) planı başlatma",
+      "ekran": "Dönem Yönetimi > Yedekleme",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yedekleme Başlat"
+      }
+    },
+    {
+      "islem": 66,
+      "baslik": "Yöneticilerden yedekleme isteği gönderme",
+      "ekran": "Dönem Yönetimi > Yedekleme",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yedekleme Başlat"
+      }
+    },
+    {
+      "islem": 67,
+      "baslik": "Yedekleme planını görüntüleme, düzenleme veya silme",
+      "ekran": "Dönem Yönetimi > Yedekleme",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 68,
+      "baslik": "Takdir gönderme",
+      "ekran": "Dönem Yönetimi > Takdir Akışı > Akış",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Takdir Gönder"
+      }
+    },
+    {
+      "islem": 69,
+      "baslik": "Takdir akışını izleme",
+      "ekran": "Dönem Yönetimi > Takdir Akışı > Akış",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Birime göre filtrele"
+      }
+    },
+    {
+      "islem": 70,
+      "baslik": "Takdirleri onaylama veya reddetme",
+      "ekran": "Dönem Yönetimi > Takdir Akışı > Onay Bekleyenler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 71,
+      "baslik": "Takdir kaydını silme ve dışa aktarma",
+      "ekran": "Dönem Yönetimi > Takdir Akışı > Onay Bekleyenler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 72,
+      "baslik": "Bağlılık anketi bağlama ve sonuçları izleme",
+      "ekran": "Dönem Yönetimi > Bağlılık Anketi",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Anket Bağla"
+      }
+    },
+    {
+      "islem": 73,
+      "baslik": "Yeni değerlendirme şablonu oluşturma",
+      "ekran": "Kütüphane > Şablonlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Şablon"
+      }
+    },
+    {
+      "islem": 74,
+      "baslik": "Şablonu düzenleme, kopyalama veya silme",
+      "ekran": "Kütüphane > Şablonlar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 75,
+      "baslik": "Potansiyel şablonu ekleme ve düzenleme",
+      "ekran": "Kütüphane > Potansiyel Şablonları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Şablon Ekle"
+      }
+    },
+    {
+      "islem": 76,
+      "baslik": "Yetkinlik tanımlama",
+      "ekran": "Kütüphane > Yetkinlikler > Yetkinlik Tanımları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Yetkinlik"
+      }
+    },
+    {
+      "islem": 77,
+      "baslik": "Pozisyon yetkinlik beklentilerini girme",
+      "ekran": "Kütüphane > Yetkinlikler > Pozisyon Yetkinlik Matrisi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 78,
+      "baslik": "Takdir tipi ekleme ve düzenleme",
+      "ekran": "Kütüphane > Takdir Tipleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ekle"
+      }
+    },
+    {
+      "islem": 79,
+      "baslik": "Süreç ilerlemesi raporu",
+      "ekran": "Raporlar > Süreç İlerlemesi",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Departman bazında tamamlanma"
+      }
+    },
+    {
+      "islem": 80,
+      "baslik": "Performans dağılımı raporu",
+      "ekran": "Raporlar > Performans Dağılımı",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Puan bantlarına göre dağılım"
+      }
+    },
+    {
+      "islem": 81,
+      "baslik": "Hedef ve KPI analizi raporu",
+      "ekran": "Raporlar > Hedef ve KPI Analizi",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Hedef ve KPI Analizi"
+      }
+    },
+    {
+      "islem": 82,
+      "baslik": "Yetkinlik analizi raporu",
+      "ekran": "Raporlar > Yetkinlik Analizi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 83,
+      "baslik": "Aksiyon ve PIP raporu",
+      "ekran": "Raporlar > Aksiyon ve PIP",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Aksiyon ve PIP Raporu"
+      }
+    },
+    {
+      "islem": 84,
+      "baslik": "Çalışan karnesini görüntüleme ve indirme",
+      "ekran": "Raporlar > Çalışan Karnesi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    }
+  ]
+}

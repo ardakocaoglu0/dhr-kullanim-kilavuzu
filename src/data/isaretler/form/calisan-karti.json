@@ -1,0 +1,164 @@
+{
+  "calisani-goruntule": [
+    {
+      "islem": 10,
+      "baslik": "Çalışanı sonlandırma (işten çıkarma)",
+      "ekran": null,
+      "ac": [
+        {
+          "buton": "Çalışan İşlemleri"
+        },
+        {
+          "menu": "Çalışanı Sonlandır"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Menü seçeneği \"Çalışanı Sonlandır\" yasak kelime içeriyor (sonlandır)"
+    },
+    {
+      "islem": 11,
+      "baslik": "Çalışanı geri alma (yeniden işe alma / çıkışı geri alma)",
+      "yok": "\"Çalışanı Geri Al\" yasak kelime içeriyor (geri al); demo çalışan aktif olduğu için seçenek de görünmez"
+    },
+    {
+      "islem": 14,
+      "baslik": "Pozisyon değiştirme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "buton": "Çalışan İşlemleri"
+        },
+        {
+          "menu": "Pozisyon Değiştir"
+        }
+      ]
+    },
+    {
+      "islem": 17,
+      "baslik": "Sözleşmeleri yönetme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Kariyer"
+        },
+        {
+          "buton": "Sözleşmeler"
+        },
+        {
+          "buton": "Yeni Sözleşme Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 27,
+      "baslik": "Çalışanı uyarma",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Çalışan Uyarıları"
+        },
+        {
+          "buton": "Çalışanı Uyar"
+        }
+      ]
+    },
+    {
+      "islem": 31,
+      "baslik": "Sabit ödemeleri güncelleme / zam yapma",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Bordro Bilgileri"
+        },
+        {
+          "buton": "Sabit Ödemeleri Güncelle / Zam Yap"
+        }
+      ]
+    },
+    {
+      "islem": 36,
+      "baslik": "Hizmet tarihlerini (kıdem başlangıcı) düzenleme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Bordro Bilgileri"
+        },
+        {
+          "buton": "Düzenle"
+        }
+      ]
+    },
+    {
+      "islem": 38,
+      "baslik": "SGK bilgilerini düzenleme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "SGK Bilgileri"
+        },
+        {
+          "buton": "Düzenle"
+        }
+      ]
+    }
+  ],
+  "calisani-duzenle": [
+    {
+      "islem": 2,
+      "baslik": "Temel bilgileri güncelleme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "buton": "Çalışan İşlemleri"
+        },
+        {
+          "menu": "Çalışanı Düzenle"
+        }
+      ],
+      "yerinde": true,
+      "kaydir": "Bilgilerim"
+    },
+    {
+      "islem": 11,
+      "baslik": "Geçmiş kümülatif vergi matrahını girme",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "buton": "Çalışan İşlemleri"
+        },
+        {
+          "menu": "Çalışanı Düzenle"
+        },
+        {
+          "sekme": "Bordro Bilgileri"
+        }
+      ],
+      "yerinde": true,
+      "kaydir": "Geçmiş Kümülatif Vergi Matrahı"
+    }
+  ]
+}

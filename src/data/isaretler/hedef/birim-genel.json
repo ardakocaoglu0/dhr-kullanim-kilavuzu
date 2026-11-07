@@ -1,0 +1,374 @@
+{
+  "birim-yonetimi-genel": [
+    {
+      "islem": 1,
+      "baslik": "Birimi seçerek sayfayı açma",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kurumsal Çözümler"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Birimin pozisyonlarını ve çalışanlarını listeleme",
+      "ekran": "Pozisyonlar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Birime pozisyon ekleme",
+      "ekran": "Pozisyonlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Pozisyon Ekle"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Çalışan bilgi sekmesi ekleme, düzenleme ve silme",
+      "ekran": "Çalışan Bilgileri Kontrolü > Sekmeleri Yönet",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Sekme Ekle"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Bölüm ekleme, düzenleme ve silme",
+      "ekran": "Çalışan Bilgileri Kontrolü > Bölümleri Yönet",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Bölüm Ekle"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Çalışan bilgi alanı ekleme",
+      "ekran": "Çalışan Bilgileri Kontrolü > Alanları Yönet",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Alan Ekle"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Alanları arama ve detaylı filtreleme",
+      "ekran": "Çalışan Bilgileri Kontrolü > Alanları Yönet",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Filtrele"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Çalışan numarası kuralı ekleme",
+      "ekran": "Çalışan Numarası",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kural Ekle"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Birimin rollerini listeleme ve arama",
+      "ekran": "Rol Yönetimi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Birime rol oluşturma",
+      "ekran": "Rol Yönetimi",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Oluştur"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Rolün adını veya yeteneklerini güncelleme",
+      "ekran": "Rol Yönetimi",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Rolü kullananları görme ve kullanıcı rolünü değiştirme",
+      "ekran": "Rol Yönetimi",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Rolü silme",
+      "ekran": "Rol Yönetimi",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 4
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "İşten çıkış sebebi ekleme",
+      "ekran": "Veri Girişi > İşten Çıkış Sebepleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Sebep Ekle"
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Ceza türü tanımlama",
+      "ekran": "Veri Girişi > Ceza Türleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Ceza Tanımı Ekle"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Doğum günü bildirimlerini ayarlama",
+      "ekran": "Bildirim Yönetimi > Doğum Günü Bildirimleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Gönderim Kuralları"
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "İş yıldönümü bildirimlerini ayarlama",
+      "ekran": "Bildirim Yönetimi > İş Yıldönümü Bildirimleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Gönderim Kuralları"
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "Deneme süresi bildirimlerini ve varsayılan günleri ayarlama",
+      "ekran": "Bildirim Yönetimi > Deneme Süresi Bildirimleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Varsayılan Hatırlatma Günleri"
+      }
+    },
+    {
+      "islem": 30,
+      "baslik": "Sözleşme bitiş bildirimlerini ayarlama",
+      "ekran": "Bildirim Yönetimi > Sözleşme Bitiş Bildirimleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Varsayılan Hatırlatma Günleri"
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "İzin akışı ek bildirim kişilerini belirleme",
+      "ekran": "Bildirim Yönetimi > İş Akışı Bildirimleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Onaylandığında bildir"
+      }
+    },
+    {
+      "islem": 33,
+      "baslik": "Geri bildirim alıcısı pozisyon ekleme",
+      "ekran": "Ek Kişiler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Pozisyon Ekle"
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "Doküman talebi ve gönderimi için ek kişi ekleme",
+      "ekran": "Ek Kişiler",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Doküman Yönetimi"
+      }
+    },
+    {
+      "islem": 36,
+      "baslik": "Kişileri başka listeye kopyalama",
+      "ekran": "Ek Kişiler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kopyala"
+      }
+    },
+    {
+      "islem": 37,
+      "baslik": "Birim profili oluşturma",
+      "ekran": "Profiller",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Profil"
+      }
+    },
+    {
+      "islem": 40,
+      "baslik": "Resmi tatil ekleme",
+      "ekran": "Resmi Tatiller",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Tatil Ekle"
+      }
+    },
+    {
+      "islem": 42,
+      "baslik": "Çalışanlara takvim rengi atama",
+      "ekran": "Takvim Ayarları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "Kutlama görseli yükleme veya kaldırma",
+      "ekran": "Bildirim Yönetimi > Doğum Günü Bildirimleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Kutlama Görseli"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Mail önizleme",
+      "ekran": "Bildirim Yönetimi > Doğum Günü Bildirimleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Mail Önizleme"
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "Değerlendirme anketi ekleme (deneme süresi / sözleşme bitişi)",
+      "ekran": "Bildirim Yönetimi > Deneme Süresi Bildirimleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Değerlendirme Anketi"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Pozisyonu düzenleme",
+      "ekran": "Pozisyonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Pozisyon geçmişini görüntüleme",
+      "ekran": "Pozisyonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Pozisyonu silme",
+      "ekran": "Pozisyonlar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Alanı düzenleme veya silme",
+      "ekran": "Çalışan Bilgileri Kontrolü > Alanları Yönet",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Seçim alanının seçeneklerini yönetme",
+      "ekran": "Çalışan Bilgileri Kontrolü > Alanları Yönet",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Birimin geçerli çalışan numarası kuralını görme",
+      "ekran": "Çalışan Numarası",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Kurallar"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Çalışan numarası kuralını düzenleme veya silme",
+      "ekran": "Çalışan Numarası",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Kurallar"
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "İşten çıkış sebebini düzenleme veya silme",
+      "ekran": "Veri Girişi > İşten Çıkış Sebepleri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "İşten Çıkış Kodları ve Sebepleri"
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Ceza tanımını düzenleme veya silme",
+      "ekran": "Veri Girişi > Ceza Türleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 35,
+      "baslik": "Ek kişileri kaldırma",
+      "ekran": "Ek Kişiler",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Seç"
+      }
+    },
+    {
+      "islem": 38,
+      "baslik": "Profile izin türü, resmi tatil ve çalışan bağlama",
+      "ekran": "Profiller",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 39,
+      "baslik": "Profili düzenleme veya silme",
+      "ekran": "Profiller",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 41,
+      "baslik": "Resmi tatili düzenleme veya silme",
+      "ekran": "Resmi Tatiller",
+      "hedef": {
+        "tur": "tablo"
+      }
+    }
+  ]
+}

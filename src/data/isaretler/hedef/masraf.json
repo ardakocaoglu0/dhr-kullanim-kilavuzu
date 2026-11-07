@@ -1,0 +1,242 @@
+{
+  "masraf-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "Onayınızı bekleyen talepleri görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Talepleri arama ve filtreleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Filtreleri Temizle"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Masraf talebinin detayını görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Masraf talebini onaylama",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Masraf talebini reddetme",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Toplu onay / ret",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Talepleri dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Ekip masraflarını görüntüleme ve filtreleme",
+      "ekran": "Ekip Masrafları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Onaylayanlara hatırlatma gönderme",
+      "ekran": "Ekip Masrafları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Hatırlatıcı"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Çalışan adına masraf kaydı ekleme",
+      "ekran": "Ekip Masrafları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Masraf Kaydı Ekle"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Ekip masraflarını dışa aktarma",
+      "ekran": "Ekip Masrafları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Geri ödemeleri takip etme",
+      "ekran": null,
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Geri Ödemeler"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Masrafları ödendi olarak işaretleme",
+      "ekran": "Geri Ödemeler > Ödeme Bekleyen",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ödendi İşaretle"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Ödendi işaretini geri alma",
+      "ekran": "Geri Ödemeler > Ödenen",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Masraf raporlarını inceleme",
+      "ekran": "Masraf Raporları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Masraf özetini görüntüleme",
+      "ekran": "Masraf Özeti",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Masraf özetini dışa aktarma",
+      "ekran": "Masraf Özeti",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    }
+  ],
+  "masraflarim": [
+    {
+      "islem": 1,
+      "baslik": "Masraf taleplerini görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Talep detayını görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Yeni masraf talebi oluşturma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Masraf Talebi"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Masraf talebini düzenleme",
+      "ekran": "Masraf Talepleri > Bekleyen",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Masraf talebini iptal etme",
+      "ekran": "Masraf Talepleri > Bekleyen",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Masraf taleplerini dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Masraf raporlarını görüntüleme",
+      "ekran": "Masraf Raporlarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Yeni masraf raporu oluşturma",
+      "ekran": "Masraf Raporlarım",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Rapor"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Taslak raporu düzenleme veya silme",
+      "ekran": "Masraf Raporlarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Masraf raporunu onaya gönderme",
+      "ekran": "Masraf Raporlarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    }
+  ]
+}

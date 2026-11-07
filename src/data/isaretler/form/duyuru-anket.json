@@ -1,0 +1,61 @@
+{
+  "duyurular": [
+    {
+      "islem": 13,
+      "baslik": "Şirket geneline duyuru oluşturma (Yönetici Duyuruları)",
+      "yok": "Yönetici Duyuruları ekranı Kısayollar menüsünden yönetici doğrulaması (e-posta + şifre) ile açılır; bu sayfanın ekranlarında yok ve betik şifre girmez"
+    }
+  ],
+  "anketler": [
+    {
+      "islem": 2,
+      "baslik": "Anketi yanıtlama",
+      "ekran": "Gelen Anketler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 6,
+      "baslik": "Soru ve seçenek ekleme",
+      "ekran": "Anket Oluştur",
+      "ac": [
+        {
+          "buton": "Soru Ekle"
+        }
+      ],
+      "yerinde": true,
+      "kaydir": "Sorular"
+    },
+    {
+      "islem": 10,
+      "baslik": "Zamanlı (düzenli tekrarlanan) anket kurma",
+      "ekran": "Anket Oluştur",
+      "ac": [
+        {
+          "metin": "Zamanlı Anket"
+        }
+      ],
+      "yerinde": true,
+      "kaydir": "Zamanlı Anket"
+    },
+    {
+      "islem": 19,
+      "baslik": "Zamanlamayı düzenleme",
+      "ekran": "Zamanlanmış Anketler",
+      "ac": [
+        {
+          "dene": [
+            "Düzenle"
+          ]
+        },
+        {
+          "satir-simge": 1
+        }
+      ],
+      "eskiGerekce": "Zamanlanmış Anketler listesi boş (Kurulmuş zamanlama yok); satırda Düzenle butonu bulunmuyor"
+    }
+  ]
+}

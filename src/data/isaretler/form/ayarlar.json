@@ -1,0 +1,136 @@
+{
+  "ayarlar": [
+    {
+      "islem": 15,
+      "baslik": "Birim profili oluşturma (izin türleri ve resmi tatiller)",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Profiller"
+        },
+        {
+          "buton": "Yeni Profil"
+        }
+      ]
+    },
+    {
+      "islem": 17,
+      "baslik": "Birim onay akışı tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "İzin Yönetimi"
+        },
+        {
+          "sekme": "İzin İş Akışı"
+        }
+      ],
+      "yerinde": true
+    },
+    {
+      "islem": 19,
+      "baslik": "Şirket alanlarını tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Bordro Yönetimi"
+        },
+        {
+          "sekme": "Şirket Bilgileri"
+        }
+      ],
+      "yerinde": true
+    },
+    {
+      "islem": 21,
+      "baslik": "Çalışan bilgi sekme ve bölümlerini düzenleme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Çalışan Bilgileri Kontrolü"
+        },
+        {
+          "sekme": "Sekmeleri Yönet"
+        },
+        {
+          "buton": "Sekme Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 22,
+      "baslik": "Doğum günü ve özel gün bildirimlerini ayarlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Bildirim Yönetimi"
+        },
+        {
+          "sekme": "Doğum Günü Bildirimleri"
+        }
+      ],
+      "yerinde": true
+    },
+    {
+      "islem": 26,
+      "baslik": "Çalışana kullanıcı hesabı oluşturma",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/employee-management"
+        },
+        {
+          "css": "main .ant-card .ant-btn-icon-only"
+        }
+      ],
+      "eskiGerekce": "Kullanıcı Oluştur butonu Çalışan Yönetimi sayfasındaki tabloda; Ayarlar sayfasında yok"
+    },
+    {
+      "islem": 29,
+      "baslik": "Kullanıcıya önemli bildirim gönderme",
+      "yok": "Ayarlar ekranlarında bildirim gönderme penceresini açan öğe yok"
+    },
+    {
+      "islem": 31,
+      "baslik": "Rol oluşturma ve yetenek atama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Rol Yönetimi"
+        },
+        {
+          "buton": "Oluştur"
+        }
+      ]
+    },
+    {
+      "islem": 9,
+      "baslik": "Pozisyon ekleme (pozisyon tanımlama)",
+      "ekran": "Organizasyon Şeması > Pozisyonlar",
+      "ac": [
+        {
+          "buton": "Pozisyon Ekle"
+        }
+      ],
+      "eskiGerekce": "yeniden çekim"
+    }
+  ]
+}

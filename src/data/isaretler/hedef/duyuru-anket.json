@@ -1,0 +1,34 @@
+{
+  "duyurular": [
+    { "islem": 5, "baslik": "Yeni duyuru oluşturma", "ekran": null, "hedef": { "tur": "buton", "metin": "Duyuru Oluştur" } },
+    { "islem": 1, "baslik": "Gelen duyuruları listeleme", "ekran": "Gelen Duyurular", "hedef": { "tur": "tablo" } },
+    { "islem": 2, "baslik": "Duyuruyu okuma (Detaylar)", "ekran": "Gelen Duyurular", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 8, "baslik": "Giden duyuruları ve okunma durumunu izleme", "ekran": "Giden Duyurular", "hedef": { "tur": "tablo" } },
+    { "islem": 3, "baslik": "Duyuru ekini indirme", "ekran": "Gelen Duyurular", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 6, "baslik": "Duyuru alıcılarını seçme (departman / pozisyon / kişi)", "ekran": null, "hedef": { "tur": "buton", "metin": "Duyuru Oluştur" } },
+    { "islem": 7, "baslik": "Duyuruya dosya ekleme", "ekran": null, "hedef": { "tur": "buton", "metin": "Duyuru Oluştur" } },
+    { "islem": 9, "baslik": "Duyuruyu düzenleme", "ekran": "Giden Duyurular", "hedef": { "tur": "tablo" } },
+    { "islem": 10, "baslik": "Duyuruyu silme veya alıcı çıkarma", "ekran": "Giden Duyurular", "hedef": { "tur": "tablo" } }
+  ],
+  "anketler": [
+    { "islem": 5, "baslik": "Yeni anket oluşturma", "ekran": null, "hedef": { "tur": "buton", "metin": "Anket Oluştur" } },
+    { "islem": 1, "baslik": "Gelen anketleri listeleme", "ekran": "Gelen Anketler", "hedef": { "tur": "tablo" } },
+    { "islem": 2, "baslik": "Anketi yanıtlama", "ekran": "Gelen Anketler", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 11, "baslik": "Gönderilen anketleri listeleme ve filtreleme", "ekran": "Gönderilen Anketler", "hedef": { "tur": "tablo" } },
+    { "islem": 13, "baslik": "Anket sonuçlarını görme", "ekran": "Gönderilen Anketler", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 17, "baslik": "Zamanlanmış anketleri listeleme", "ekran": "Zamanlanmış Anketler", "hedef": { "tur": "tablo" } },
+    { "islem": 4, "baslik": "Verdiğim cevapları görüntüleme", "ekran": "Gelen Anketler", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 6, "baslik": "Soru ve seçenek ekleme", "ekran": "Anket Oluştur", "hedef": { "tur": "buton", "metin": "Soru Ekle" } },
+    { "islem": 7, "baslik": "Bağlı (koşullu) soru tanımlama", "ekran": "Anket Oluştur", "hedef": { "tur": "buton", "metin": "Soru Ekle" } },
+    { "islem": 8, "baslik": "Şablondan anket yükleme", "ekran": "Anket Oluştur", "hedef": { "tur": "buton", "metin": "Şablondan Yükle" } },
+    { "islem": 9, "baslik": "Anket alıcılarını seçme", "ekran": "Anket Oluştur", "hedef": { "tur": "buton", "metin": "Çalışan Seç" } },
+    { "islem": 10, "baslik": "Zamanlı (düzenli tekrarlanan) anket kurma", "ekran": "Anket Oluştur", "hedef": { "tur": "metin", "metin": "Zamanlı Anket" } },
+    { "islem": 12, "baslik": "Alıcı listesini görme", "ekran": "Gönderilen Anketler", "hedef": { "tur": "tablo" } },
+    { "islem": 14, "baslik": "Anket sonuçlarını dışa aktarma", "ekran": "Anket Sonuçları", "hedef": { "tur": "buton", "metin": "Dışa Aktar" } },
+    { "islem": 15, "baslik": "Anket adresini kopyalama", "ekran": "Anket Sonuçları", "hedef": { "tur": "buton", "metin": "Anket Adresi" } },
+    { "islem": 16, "baslik": "Anketi düzenleme veya silme", "ekran": "Gönderilen Anketler", "hedef": { "tur": "tablo" } },
+    { "islem": 18, "baslik": "Zamanlamayı açma / kapatma", "ekran": "Zamanlanmış Anketler", "hedef": { "tur": "tablo" } },
+    { "islem": 19, "baslik": "Zamanlamayı düzenleme", "ekran": "Zamanlanmış Anketler", "hedef": { "tur": "tablo" } },
+    { "islem": 20, "baslik": "Zamanlamayı silme", "ekran": "Zamanlanmış Anketler", "hedef": { "tur": "tablo" } }
+  ]
+}

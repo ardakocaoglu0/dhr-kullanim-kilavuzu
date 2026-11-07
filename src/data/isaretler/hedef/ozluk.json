@@ -1,0 +1,146 @@
+{
+  "ozluk-islemleri": [
+    {
+      "islem": 1,
+      "baslik": "Çalışan özlük bilgilerini Excel'e aktarma",
+      "ekran": "Çalışan Özlük Bilgileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Aktarım bekleyen çalışanları listeleme ve arama",
+      "ekran": "Özlük Aktarımı > Aktarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Bir çalışanın özlük alanlarını eşleştirme",
+      "ekran": "Özlük Aktarımı > Aktarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Birden fazla çalışan için toplu kaydetme",
+      "ekran": "Özlük Aktarımı > Aktarım",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Tümünü Kaydet"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Yapılan eşleştirmeleri geri alma",
+      "ekran": "Özlük Aktarımı > Aktarım",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Tümünü Geri Al"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Aktarım geçmişini inceleme",
+      "ekran": "Özlük Aktarımı > Geçmiş",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Eşleşmeyen değeri düzeltme",
+      "ekran": "Özlük Aktarımı > Aktarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Tek çalışan için özlük aktarımını uygulama",
+      "ekran": "Özlük Aktarımı > Aktarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    }
+  ],
+  "calisan-disa-aktarma": [
+    {
+      "islem": 5,
+      "baslik": "Belirli çalışanları seçme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Çalışan Seçimi"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Aktif filtreleri görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Filtreler"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Verileri önizleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Önizleme"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Excel dosyasını indirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 1,
+      "baslik": "Dosyaya girecek temel alanları seçme",
+      "ekran": "Temel Bilgi Alanları",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Temel Bilgi Alanları"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Özel alanları seçme",
+      "ekran": "Özel Alanlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Özel Alanlar"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Organizasyon bilgilerine göre filtreleme",
+      "ekran": "Organizasyon Bilgileri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Organizasyon Bilgileri"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Alan bazında filtre koyma",
+      "ekran": "Temel Bilgi Alanları",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Çalışan No"
+      }
+    }
+  ]
+}

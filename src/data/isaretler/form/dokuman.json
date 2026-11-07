@@ -1,0 +1,70 @@
+{
+  "dokuman-yonetimi": [
+    {
+      "islem": 3,
+      "baslik": "Çalışanın yüklediği belgeyi onaylama veya reddetme",
+      "ekran": "Talepler > Yönetim Doküman Talepleri",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form yasak kelimeli (onayla/reddet) butonla açılıyor"
+    },
+    {
+      "islem": 6,
+      "baslik": "Çalışanın istediği belgeyi hazırlayıp onaylama",
+      "ekran": "Talepler > Çalışan Doküman Talepleri",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form \"Onayla\" (yasak kelime) etiketli yükleme butonuyla açılıyor"
+    },
+    {
+      "islem": 8,
+      "baslik": "Çalışanın belge talebini reddetme",
+      "ekran": "Talepler > Çalışan Doküman Talepleri",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form yasak kelimeli (onayla/reddet) butonla açılıyor"
+    },
+    {
+      "islem": 21,
+      "baslik": "Belge onay akışını düzenleme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Doküman Yönetimi"
+        },
+        {
+          "sekme": "İş Akışı"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form bu sayfada değil; Organizasyon Şeması birim ayarlarında açılır"
+    }
+  ],
+  "dokumanlarim": [
+    {
+      "islem": 2,
+      "baslik": "İstenen belgeyi yükleme (Doküman Yükle)",
+      "ekran": "Yönetim Doküman Talepleri",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    }
+  ]
+}

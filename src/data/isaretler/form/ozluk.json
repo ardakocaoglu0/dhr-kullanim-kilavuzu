@@ -1,0 +1,28 @@
+{
+  "ozluk-islemleri": [
+    {
+      "islem": 3,
+      "baslik": "Bir çalışanın özlük alanlarını eşleştirme",
+      "yok": "Aktarım listesi boş (\"Eski birimden kalan özlük bilgisi olan çalışan yok\"); genişletilecek satır yok"
+    }
+  ],
+  "calisan-disa-aktarma": [
+    {
+      "islem": 3,
+      "baslik": "Alan bazında filtre koyma",
+      "ekran": "Temel Bilgi Alanları",
+      "ac": [
+        {
+          "buton": "Filtreler"
+        }
+      ]
+    },
+    {
+      "islem": 4,
+      "baslik": "Organizasyon bilgilerine göre filtreleme",
+      "ekran": "Organizasyon Bilgileri",
+      "yerinde": true,
+      "kaydir": "Organizasyon Filtreleri"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "performansim": [
+    {
+      "islem": 4,
+      "baslik": "Hedef ilerlemesini güncelleme",
+      "ekran": "Hedeflerim",
+      "ac": [
+        {
+          "buton": "Check-in"
+        }
+      ],
+      "pencereSekmeleri": [
+        "Yeni Check-in",
+        "Geçmiş"
+      ]
+    },
+    {
+      "islem": 5,
+      "baslik": "Anahtar sonuç güncel değerini girme",
+      "ekran": "Hedeflerim",
+      "ac": [
+        {
+          "buton": "Detaylar"
+        }
+      ]
+    },
+    {
+      "islem": 10,
+      "baslik": "Öz değerlendirme doldurma ve gönderme",
+      "ekran": "Değerlendirmem",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 13,
+      "baslik": "Ara dönem görüşmesine çalışan yorumu ekleme",
+      "ekran": "Ara Dönem Görüşmelerim",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 15,
+      "baslik": "Ekibimin değerlendirmelerini puanlama",
+      "ekran": "Yönetici Değerlendirmelerim",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 16,
+      "baslik": "Bana atanan (360 derece) değerlendirmeyi doldurma",
+      "ekran": "Atanan Değerlendirmeler",
+      "ac": [
+        {
+          "buton": "Formu Aç"
+        }
+      ]
+    },
+    {
+      "islem": 18,
+      "baslik": "Çalışma arkadaşına takdir (rozet) gönderme",
+      "yok": "Rozetlerim sekmesinde takdir gönderme butonu yok (Takdir Gönder yalnız Performans Yönetimi › Takdir Akışı ekranında)."
+    },
+    {
+      "islem": 20,
+      "baslik": "Yetkinlik öz değerlendirmesi yapma",
+      "yok": "Yetkinlik Açığım ekranında form açan buton yok; değerlendirme bekleyen 0."
+    },
+    {
+      "islem": 22,
+      "baslik": "Değerlendirme sonucuna itiraz etme",
+      "eskiGerekce": "Yeni İtiraz Et, önce itiraz edilebilir bir değerlendirme seçilmesini ister; demo verisinde uygun değerlendirme yok.",
+      "yok": "Ali'nin itiraz edilebilecek değerlendirmesi yok (mevcut değerlendirmeye itiraz edilip sonuçlanmış)."
+    },
+    {
+      "islem": 24,
+      "baslik": "Kariyer ve mobilite beyanı doldurma",
+      "ekran": "Kariyer Beyanım",
+      "yerinde": true,
+      "kaydir": "Kariyer Hedefim"
+    },
+    {
+      "islem": 26,
+      "baslik": "Gelişim aksiyonuna ilerleme girme",
+      "yok": "Demo çalışan hakkında açılmış aksiyon yok (liste boş)."
+    },
+    {
+      "islem": 27,
+      "baslik": "Performans geliştirme planına (PIP) check-in yapma",
+      "yok": "Demo çalışanın Gelişim Aksiyonlarım listesi boş."
+    }
+  ]
+}

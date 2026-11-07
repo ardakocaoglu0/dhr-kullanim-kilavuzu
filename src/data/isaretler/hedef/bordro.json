@@ -1,0 +1,778 @@
+{
+  "bordro-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "Bordro onay taleplerini görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bordro Onayları"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Ek kazanç ve kesinti girişlerini görüntüleme ve filtreleme",
+      "ekran": "Ek Kazanç/Kesinti Girişleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Yeni ek kazanç veya kesinti girişi ekleme",
+      "ekran": "Ek Kazanç/Kesinti Girişleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Giriş Ekle"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Girişi düzenleme veya silme",
+      "ekran": "Ek Kazanç/Kesinti Girişleri",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Excel ile toplu ek kazanç/kesinti girişi",
+      "ekran": "Ek Kazanç/Kesinti Girişleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Excel ile toplu giriş"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Yinelenen planları Excel ile yükleme",
+      "ekran": "Ek Kazanç/Kesinti Girişleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yinelenen planlar — Excel"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Bordro dönemlerini görüntüleme ve arama",
+      "ekran": "Dönemler",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Dönemler"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Dönem açma",
+      "ekran": "Dönemler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dönem Oluştur"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Dönemdeki çalışanları ekleme veya çıkarma",
+      "ekran": "Dönemler",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Çalışan Ekle/Çıkar"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Bordroyu hesaplama",
+      "ekran": "Dönemler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Tekrar Hesapla"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Ön bordro ve anomalileri inceleme",
+      "ekran": "Dönemler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ön Bordro Detayları"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Ek / fark bordrosu ile bordro düzeltme",
+      "ekran": "Dönemler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ek / Fark Bordrosu"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Aralık icmali alma",
+      "ekran": "Dönemler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Aralık İcmali"
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Puantajı görüntüleme ve filtreleme",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Puantaj"
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Çalışan puantajını düzenleme ve kaydetme",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Gün ve saat"
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "Tüm puantajları toplu kaydetme",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kaydet (0)"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Puantaj değişikliklerini geri alma veya sıfırlama",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Değişiklikleri Geri Al"
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "Excel ile toplu puantaj yükleme",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Excel ile toplu yükleme"
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "Puantajı dışa aktarma",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "Bordroları görüntüleme",
+      "ekran": "Bordrolar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "Bordro pusulasını görüntüleme ve indirme",
+      "ekran": "Bordrolar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "Bordro itirazlarını yanıtlama",
+      "ekran": "Bordrolar",
+      "hedef": {
+        "tur": "metin",
+        "metin": "İtiraz Durumu"
+      }
+    },
+    {
+      "islem": 36,
+      "baslik": "Ücretleri görüntüleme",
+      "ekran": "Ücret & Zam",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 37,
+      "baslik": "Toplu zam veya ücret düzenleme",
+      "ekran": "Ücret & Zam",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu Zam / Ücret Düzenleme"
+      }
+    },
+    {
+      "islem": 38,
+      "baslik": "Ücret geçmişini görüntüleme ve ücrete bitiş tarihi verme",
+      "ekran": "Ücret & Zam",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 39,
+      "baslik": "Excel ile toplu ücret girişi",
+      "ekran": "Ücret & Zam",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Excel ile toplu giriş"
+      }
+    },
+    {
+      "islem": 40,
+      "baslik": "Diğer toplu girişler (banka bilgisi, masraf yeri dağılımı)",
+      "ekran": "Ücret & Zam",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Diğer toplu girişler"
+      }
+    },
+    {
+      "islem": 41,
+      "baslik": "Mektup kampanyalarını görüntüleme",
+      "ekran": "Mektuplar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 42,
+      "baslik": "Mektup kampanyası oluşturma",
+      "ekran": "Mektuplar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Mektup"
+      }
+    },
+    {
+      "islem": 46,
+      "baslik": "Avans taleplerini görüntüleme, filtreleme ve dışa aktarma",
+      "ekran": "Avans Yönetimi > Talepler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 47,
+      "baslik": "Avans talebini onaylama",
+      "ekran": "Avans Yönetimi > Talepler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 48,
+      "baslik": "Avans talebini reddetme",
+      "ekran": "Avans Yönetimi > Talepler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 49,
+      "baslik": "Avans taleplerinde toplu işlem",
+      "ekran": "Avans Yönetimi > Talepler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 50,
+      "baslik": "Ekip avanslarını izleme",
+      "ekran": "Avans Yönetimi > Ekip Avansları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 51,
+      "baslik": "Avans ödemesi yapma ve banka dosyası oluşturma",
+      "ekran": "Avans Yönetimi > Ödeme Bekleyen",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Banka Dosyası Oluştur (0)"
+      }
+    },
+    {
+      "islem": 52,
+      "baslik": "Mahsuplaşma taleplerini onaylama veya reddetme",
+      "ekran": "Avans Yönetimi > Mahsuplaşma Talepleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 54,
+      "baslik": "Ek ödeme yapma",
+      "ekran": "Avans Yönetimi > Ek Ödeme Bekleyen",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 55,
+      "baslik": "Kesilemeyen avans taksitlerini devretme veya tahsil etmeden kapatma",
+      "ekran": "Avans Yönetimi > Kesilemeyen Taksitler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 56,
+      "baslik": "Avans talebini iptal etme",
+      "ekran": "Avans Yönetimi > Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 57,
+      "baslik": "Kesilemeyen kesintileri izleme ve sonuçlandırma",
+      "ekran": "Kesilemeyen Kesintiler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 58,
+      "baslik": "İcra ve alacaklı dosyalarını görüntüleme",
+      "ekran": "İcra ve Alacaklı Dosyaları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 59,
+      "baslik": "Yeni icra veya alacaklı dosyası ekleme",
+      "ekran": "İcra ve Alacaklı Dosyaları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Dosya"
+      }
+    },
+    {
+      "islem": 63,
+      "baslik": "Arşiv bordrolarını görüntüleme ve indirme",
+      "ekran": "Arşiv Bordrolar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 64,
+      "baslik": "Arşiv bordrosu yükleme",
+      "ekran": "Arşiv Bordrolar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yükle"
+      }
+    },
+    {
+      "islem": 65,
+      "baslik": "Toplu arşiv bordrosu yükleme",
+      "ekran": "Arşiv Bordrolar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu Yükle"
+      }
+    },
+    {
+      "islem": 67,
+      "baslik": "Bordro simülasyonu yapma",
+      "ekran": "Hesaplayıcılar ve Karşılıklar > Bordro Simülasyonu",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Simüle Et"
+      }
+    },
+    {
+      "islem": 68,
+      "baslik": "İzin karşılığı hesaplama",
+      "ekran": "Hesaplayıcılar ve Karşılıklar > İzin Karşılığı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Hesapla"
+      }
+    },
+    {
+      "islem": 69,
+      "baslik": "Kıdem tazminatı hesaplama",
+      "ekran": "Hesaplayıcılar ve Karşılıklar > Tazminat Hesaplayıcı > Kıdem Hesaplayıcı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Hesapla"
+      }
+    },
+    {
+      "islem": 70,
+      "baslik": "İhbar tazminatı hesaplama",
+      "ekran": "Hesaplayıcılar ve Karşılıklar > Tazminat Hesaplayıcı > İhbar Hesaplayıcı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Hesapla"
+      }
+    },
+    {
+      "islem": 71,
+      "baslik": "İhbar borcu takibi",
+      "ekran": "Hesaplayıcılar ve Karşılıklar > İhbar Borç Takibi",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Borç Ekle"
+      }
+    },
+    {
+      "islem": 72,
+      "baslik": "Bordro raporu alma",
+      "ekran": "Raporlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 73,
+      "baslik": "Kıdem karşılığı raporu ve varsayımları",
+      "ekran": "Raporlar",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kıdem ve İhbar"
+      }
+    },
+    {
+      "islem": 79,
+      "baslik": "İşe giriş bildirgesi verme",
+      "ekran": "SGK Bildirgeleri > Bekleyen İşe Giriş",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 80,
+      "baslik": "Toplu SGK bildirimi ve XML indirme",
+      "ekran": "SGK Bildirgeleri > Bekleyen İşe Giriş",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Seçilenleri SGK'ya Bildir (0)"
+      }
+    },
+    {
+      "islem": 81,
+      "baslik": "İşten çıkış bildirgesi verme",
+      "ekran": "SGK Bildirgeleri > Bekleyen İşten Çıkış",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 82,
+      "baslik": "Bildirilen bildirgeleri görüntüleme ve belge indirme",
+      "ekran": "SGK Bildirgeleri > Bildirilenler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 83,
+      "baslik": "Muhtasar ve prim hizmet beyannamesi (MUHSGK) hazırlama",
+      "ekran": "SGK Bildirgeleri > MUHSGK (Muhtasar Beyanname)",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Beyanname XML'i İndir"
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Manuel ek mesai ekleme",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Manuel Mesai Ekle"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Puantaj üzerinden ödeme veya kesinti ekleme",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ödeme/Kesinti Ekle"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Dönem tamamlama talebini onaylama",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bordro Onayları"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Dönem tamamlama talebini reddetme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bordro Onayları"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Bordroyu onaya gönderme (Tamamlamaya Gönder)",
+      "ekran": "Dönemler",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Tamamlama"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Dönemi kapatma",
+      "ekran": "Dönemler",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Onay"
+      }
+    },
+    {
+      "islem": 43,
+      "baslik": "Mektup alıcılarını düzenleme ve önizleme",
+      "ekran": "Mektuplar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 44,
+      "baslik": "Mektupları kesinleştirme ve gönderme",
+      "ekran": "Mektuplar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 45,
+      "baslik": "Mektup kampanyasını silme",
+      "ekran": "Mektuplar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 53,
+      "baslik": "Çalışan adına mahsuplaşma kaydı ekleme",
+      "ekran": "Avans Yönetimi > Mahsuplaşma Talepleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 60,
+      "baslik": "Dosyaya hareket ekleme, düzenleme ve silme",
+      "ekran": "İcra ve Alacaklı Dosyaları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 61,
+      "baslik": "Dosya durumunu değiştirme",
+      "ekran": "İcra ve Alacaklı Dosyaları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 62,
+      "baslik": "İcra dairesine bildirim kaydı",
+      "ekran": "İcra ve Alacaklı Dosyaları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 66,
+      "baslik": "Arşiv bordrosunu silme",
+      "ekran": "Arşiv Bordrolar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 74,
+      "baslik": "Muhasebe fişi oluşturma",
+      "ekran": "Raporlar",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Muhasebe Fişleri"
+      }
+    },
+    {
+      "islem": 75,
+      "baslik": "Muhasebe hesap eşleştirme",
+      "ekran": "Raporlar",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Muhasebe Hesap Eşleştirme"
+      }
+    },
+    {
+      "islem": 76,
+      "baslik": "Banka ödeme dosyası oluşturma",
+      "ekran": "Raporlar",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Banka Ödeme Dosyaları"
+      }
+    },
+    {
+      "islem": 77,
+      "baslik": "Banka ödeme dosyasını onaylama, gönderme ve sonuçlandırma",
+      "ekran": "Raporlar",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Banka Ödeme Dosyaları"
+      }
+    },
+    {
+      "islem": 78,
+      "baslik": "Banka dosya şablonlarını yönetme",
+      "ekran": "Raporlar",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Banka Dosya Şablonları"
+      }
+    }
+  ],
+  "bordrom": [
+    {
+      "islem": 1,
+      "baslik": "Bordrolarımı görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Arşiv bordrolarımı görüntüleme",
+      "ekran": "Arşiv",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Arşiv"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Mektuplarımı görüntüleme ve indirme",
+      "ekran": "Mektuplarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Avanslarımı görüntüleme",
+      "ekran": "Avanslarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Yeni avans talebi oluşturma",
+      "ekran": "Avanslarım",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Avans Talebi"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Avans talebini geri çekme",
+      "ekran": "Avanslarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Değiştirilen avans tutarını kabul etme",
+      "ekran": "Avanslarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "İtirazlarımı izleme ve iptal etme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "İtirazlarım"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Bordro pusulasını görüntüleme ve indirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "E-postayla gelen bordronun şifresini görme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Bordroya itiraz etme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Mektubu “Okudum” olarak işaretleme",
+      "ekran": "Mektuplarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "İş avansı için mahsuplaşma yapma",
+      "ekran": "Avanslarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "gorev-yonetimi": [
+    {
+      "islem": 3,
+      "baslik": "Çalışana görev atama",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Görev Ata"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Görev raporunu dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Kendi görevlerinize geçiş",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Görevlerim"
+      }
+    },
+    {
+      "islem": 1,
+      "baslik": "Ekip takvimini görüntüleme",
+      "ekran": "Takvim",
+      "hedef": {
+        "tur": "takvim"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Görev taleplerini listeleme ve filtreleme",
+      "ekran": "Talepler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Toplu onaylama ve reddetme",
+      "ekran": "Talepler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Toplu İşlem"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Talep listesini dışa aktarma",
+      "ekran": "Talepler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Görev gününü onaylama",
+      "ekran": "Talepler > Bekleyen",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Görev gününü reddetme",
+      "ekran": "Talepler > Bekleyen",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Görev detayını görüntüleme",
+      "ekran": "Talepler > Bekleyen",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Atanmış görevi düzenleme",
+      "ekran": "Takvim",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Analiz ekibi koordinasyon toplantısı"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Göreve çalışan ekleme",
+      "ekran": "Takvim",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Analiz ekibi koordinasyon toplantısı"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Görev adımlarını düzenleme",
+      "ekran": "Takvim",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Analiz ekibi koordinasyon toplantısı"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Adım durumunu güncelleme",
+      "ekran": "Takvim",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Analiz ekibi koordinasyon toplantısı"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Görevi silme",
+      "ekran": "Takvim",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Analiz ekibi koordinasyon toplantısı"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Çalışan takvim rengini belirleme",
+      "ekran": "Takvim",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Ali Öztürk"
+      }
+    }
+  ],
+  "gorevlerim": [
+    {
+      "islem": 2,
+      "baslik": "Görev kaydı ekleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kayıt Ekle"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Görev kayıtlarını dışa aktarma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 1,
+      "baslik": "Takvimi görüntüleme",
+      "ekran": "Takvim",
+      "hedef": {
+        "tur": "takvim"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Kayıtlarınızı listeleme",
+      "ekran": "Kayıtlarım",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Kayıt detayını görüntüleme",
+      "ekran": "Kayıtlarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Bekleyen kaydı iptal etme",
+      "ekran": "Kayıtlarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Adım durumunu güncelleme",
+      "ekran": "Kayıtlarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Kaydı düzenleme ve silme",
+      "ekran": "Kayıtlarım",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    }
+  ]
+}

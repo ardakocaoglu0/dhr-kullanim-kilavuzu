@@ -1,0 +1,138 @@
+{
+  "bordro-yonetimi": [
+    {
+      "islem": 2,
+      "baslik": "Dönem tamamlama talebini onaylama",
+      "yok": "Pencere onay butonuyla açılır (yasaklı işlem); ayrıca bekleyen dönem onayı yok"
+    },
+    {
+      "islem": 3,
+      "baslik": "Dönem tamamlama talebini reddetme",
+      "yok": "Pencere Reddet butonuyla açılır (yasaklı işlem); ayrıca bekleyen dönem onayı yok"
+    },
+    {
+      "islem": 8,
+      "baslik": "Yinelenen ödeme planı oluşturma",
+      "ekran": null,
+      "ac": [
+        {
+          "kart": true
+        },
+        {
+          "sekme": "Bordro Bilgileri"
+        },
+        {
+          "buton": "Plan Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 19,
+      "baslik": "Ek / fark bordrosu ile bordro düzeltme",
+      "ekran": "Dönemler",
+      "ac": [
+        {
+          "buton": "Ek / Fark Bordrosu"
+        }
+      ]
+    },
+    {
+      "islem": 23,
+      "baslik": "Çalışan puantajını düzenleme ve kaydetme",
+      "ekran": "Puantaj",
+      "yerinde": true,
+      "kaydir": "Gün ve saat"
+    },
+    {
+      "islem": 34,
+      "baslik": "Bordro itirazlarını yanıtlama",
+      "yok": "İtirazı olan bordro yok; yanıt penceresi Çözüldü/Reddet ile açılır (Reddet yasaklı)"
+    },
+    {
+      "islem": 37,
+      "baslik": "Toplu zam veya ücret düzenleme",
+      "ekran": "Ücret & Zam",
+      "ac": [
+        {
+          "buton": "Toplu Zam / Ücret Düzenleme"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencereyi açan butonun adı \"toplu\" içeriyor (yasaklı kelime)"
+    },
+    {
+      "islem": 47,
+      "baslik": "Avans talebini onaylama",
+      "ekran": "Avans Yönetimi > Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere onay butonuyla açılır (yasaklı işlem)"
+    },
+    {
+      "islem": 48,
+      "baslik": "Avans talebini reddetme",
+      "ekran": "Avans Yönetimi > Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere ret butonuyla açılır (yasaklı işlem)"
+    },
+    {
+      "islem": 52,
+      "baslik": "Mahsuplaşma taleplerini onaylama veya reddetme",
+      "yok": "Bekleyen mahsuplaşma talebi yok (Veri Yok); işlem onaylama/reddetme ile yapılır"
+    },
+    {
+      "islem": 55,
+      "baslik": "Kesilemeyen avans taksitlerini devretme veya tahsil etmeden kapatma",
+      "eskiGerekce": "Gerekçe penceresi Tahsil Etmeden Kapat butonuyla açılır (\"kapat\" yasaklı)",
+      "yok": "Kesilemeyen taksit listesi demo verisinde boş; taksit oluşması bordro kesintisine bağlı (bordroya yazma yapılmıyor)."
+    },
+    {
+      "islem": 60,
+      "baslik": "Dosyaya hareket ekleme, düzenleme ve silme",
+      "yok": "İcra/alacaklı dosyası yok (Veri Yok); hareket formu dosya açılınca görünür"
+    },
+    {
+      "islem": 67,
+      "baslik": "Bordro simülasyonu yapma",
+      "ekran": "Hesaplayıcılar ve Karşılıklar > Bordro Simülasyonu",
+      "yerinde": true,
+      "kaydir": "Çalışan"
+    },
+    {
+      "islem": 76,
+      "baslik": "Banka ödeme dosyası oluşturma",
+      "yok": "Raporlar'da oluşturma butonu yok; maaş paketi Dönemler'den (tamamlanmış dönem), avans paketi Ödeme Bekleyen'de seçim yapılarak hazırlanır"
+    },
+    {
+      "islem": 79,
+      "baslik": "İşe giriş bildirgesi verme",
+      "ekran": "SGK Bildirgeleri > Bekleyen İşe Giriş",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    }
+  ],
+  "bordrom": [
+    {
+      "islem": 4,
+      "baslik": "Bordroya itiraz etme",
+      "yok": "Çalışanın bordrosu yok (Veri Yok); itiraz butonu bordro satırında çıkar"
+    },
+    {
+      "islem": 13,
+      "baslik": "İş avansı için mahsuplaşma yapma",
+      "yok": "Mahsuplaşma yalnız onaylanmış iş avansında açılır; tablonun ilk satırı onay bekleyen avans"
+    }
+  ]
+}

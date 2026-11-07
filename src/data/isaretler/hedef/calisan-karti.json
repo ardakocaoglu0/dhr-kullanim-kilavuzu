@@ -1,0 +1,521 @@
+{
+  "calisani-goruntule": [
+    {
+      "islem": 6,
+      "baslik": "Çalışanı düzenlemeye geçme",
+      "ekran": "Çalışan İşlemleri menüsü",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışan İşlemleri"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "İletişim hızlı işlemleri (e-posta, arama, kopyalama)",
+      "ekran": "Kişisel Bilgiler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "E-posta Gönder"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Organizasyon bilgilerini görüntüleme",
+      "ekran": "Kariyer",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Organizasyon Bilgileri"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Pozisyon geçmişini görüntüleme ve düzenleme",
+      "ekran": "Kariyer",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Pozisyon Geçmişi"
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "Sözleşmeleri yönetme",
+      "ekran": "Kariyer",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Sözleşmeler"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Eş ve çocuk bilgilerini yönetme",
+      "ekran": "Aile Bilgileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Eş Ekle"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "İzin talepleri ve izin günü ekleme",
+      "ekran": "İzin Talepleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İzin Günü Ekle"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Ek mesai kaydı ekleme",
+      "ekran": "Ek Mesai Talepleri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ek Mesai Kaydı Ekle"
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Zimmetleri ve seyahatleri görüntüleme",
+      "ekran": "Zimmetler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Masrafları görüntüleme, masraf kaydı ekleme ve karar verme",
+      "ekran": "Masraflar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Performans geçmişini inceleme",
+      "ekran": "Performans",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Görev atama ve görevleri yönetme",
+      "ekran": "Görevler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Görev Ata"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Puantajı görüntüleme",
+      "ekran": "Puantaj",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "Doküman taleplerini ve dokümanları görüntüleme",
+      "ekran": "Doküman Talepleri",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Çalışanı uyarma",
+      "ekran": "Çalışan Uyarıları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışanı Uyar"
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "Uyarı detayını görme, belgesini indirme ve uyarıyı silme",
+      "ekran": "Çalışan Uyarıları",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "İşe giriş sürecini başlatma ve süreçleri görme",
+      "ekran": "İşe Giriş / Çıkış",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 30,
+      "baslik": "Bordro bilgilerini görüntüleme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bordro Bilgileri"
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "Sabit ödemeleri güncelleme / zam yapma",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Sabit Ödemeleri Güncelle / Zam Yap"
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "Ücret geçmişini görüntüleme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ücret Geçmişi"
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "Yinelenen ek ödeme planı ekleme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Plan Ekle"
+      }
+    },
+    {
+      "islem": 38,
+      "baslik": "SGK bilgilerini düzenleme",
+      "ekran": "SGK Bilgileri",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Düzenle"
+      }
+    },
+    {
+      "islem": 39,
+      "baslik": "SGK bildirge geçmişini görüntüleme ve PDF indirme",
+      "ekran": "SGK Bilgileri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "SGK Bildirge Geçmişi"
+      }
+    },
+    {
+      "islem": 40,
+      "baslik": "Denetim kayıtlarını görüntüleme (Yaptıkları)",
+      "ekran": "Denetim Kayıtları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 42,
+      "baslik": "Denetim kaydı detayını inceleme",
+      "ekran": "Denetim Kayıtları",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 43,
+      "baslik": "Bilgileri kimin görüntülediğini görme (Görüntüleyenler)",
+      "ekran": "Denetim Kayıtları > Görüntüleyenler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Yüklenmiş belgeyi inceleme",
+      "ekran": "Kişisel Bilgiler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İncele"
+      }
+    },
+    {
+      "islem": 33,
+      "baslik": "Aylık bordroyu görüntüleme ve dışa aktarma",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Aylık Bordro"
+      }
+    },
+    {
+      "islem": 35,
+      "baslik": "Yinelenen ek ödeme planını düzenleme, ay atlama, bitirme ve silme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Yinelenen Ek Ödemeler"
+      }
+    },
+    {
+      "islem": 36,
+      "baslik": "Hizmet tarihlerini (kıdem başlangıcı) düzenleme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Hizmet tarihleri"
+      }
+    },
+    {
+      "islem": 37,
+      "baslik": "Önceki hizmet dönemi (kıdem) ekleme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Önceki Hizmet Dönemleri"
+      }
+    },
+    {
+      "islem": 1,
+      "baslik": "Çalışan kartını açma",
+      "ekran": null,
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Kişisel Bilgiler"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Kişisel bilgilerde arama",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kişisel Bilgilerde ara..."
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Alan değişiklik geçmişini görüntüleme",
+      "ekran": "Kişisel Bilgiler",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Ad Soyad"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Çalışanın dosyalarını güncelleme",
+      "ekran": "Çalışan İşlemleri menüsü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Çalışanın Dosyalarını Güncelle"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Çalışanın profilini değiştirme",
+      "ekran": "Çalışan İşlemleri menüsü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Profil Değiştir"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Çalışma belgesi alma",
+      "ekran": "Çalışan İşlemleri menüsü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Çalışma Belgesi"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Çalışanı sonlandırma (işten çıkarma)",
+      "ekran": "Çalışan İşlemleri menüsü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Çalışanı Sonlandır"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Mevcut pozisyonu düzenleme",
+      "ekran": "Çalışan İşlemleri menüsü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Pozisyonu Düzenle"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Pozisyon değiştirme",
+      "ekran": "Çalışan İşlemleri menüsü",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Pozisyon Değiştir"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Pozisyon çakışmasını çözme",
+      "ekran": "Kariyer",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Pozisyon Geçmişi"
+      }
+    }
+  ],
+  "calisani-duzenle": [
+    {
+      "islem": 2,
+      "baslik": "Temel bilgileri güncelleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bilgilerim"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Şirkete özel bilgi alanlarını güncelleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Kişisel Bilgiler Sekmesi"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Kaydedilmemiş değişiklikleri atma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kaydedilmemiş Değişiklikleri At"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Maaş tipi, ücret bazı ve aylık çalışma gününü değiştirme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Maaş Tipi"
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Sabit ödemeleri girme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Sabit Ödemeler"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Bordro profillerini atama",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Bordro Profilleri"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Geçmiş kümülatif vergi matrahını girme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Geçmiş Kümülatif Vergi Matrahı"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Varsayılan kanun / teşvik ve vergi istisnası seçme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Default Kanun / Teşvik"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Bireysel Emeklilik (BES) bilgilerini girme",
+      "ekran": "Bordro Bilgileri",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Bireysel Emeklilik Sistemi (BES)"
+      }
+    },
+    {
+      "islem": 1,
+      "baslik": "Düzenleme sayfasını açma",
+      "ekran": null,
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Temel Bilgiler"
+      }
+    }
+  ],
+  "isten-cikarma-yonetimi": [
+    {
+      "islem": 1,
+      "baslik": "İşten çıkarılan çalışanları listeleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Listeyi filtreleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Sebep Filtresi"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Çıkış detayını görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Ayrılan çalışanın kartını açma",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Çalışan arama",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Çalışan ara..."
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "İşten ayrılma belgesini indirme",
+      "ekran": "İşten Çıkarılan Çalışan Detayları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "İşten Ayrılma Belgesi"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Ayrılan çalışanı yeniden işe alma",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    }
+  ]
+}

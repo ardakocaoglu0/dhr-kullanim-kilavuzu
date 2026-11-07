@@ -1,0 +1,360 @@
+{
+  "birim-yonetimi-moduller": [
+    {
+      "islem": 4,
+      "baslik": "İzin onay akışını tanımlama",
+      "ekran": "İzin Yönetimi > İzin İş Akışı",
+      "ac": [
+        {
+          "buton": "İş Akışını Düzenle"
+        },
+        {
+          "buton": "Adım Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 7,
+      "baslik": "İzin türünün hak ediş kurallarını ayarlama",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "ac": [
+        {
+          "buton": "Yeni Ekle"
+        },
+        {
+          "sekme": "Hakediş"
+        },
+        {
+          "metin": "Yok"
+        },
+        {
+          "menu": "Yıllık"
+        }
+      ]
+    },
+    {
+      "islem": 8,
+      "baslik": "İzin devretme ve bakiye üst sınırını ayarlama",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "ac": [
+        {
+          "buton": "Yeni Ekle"
+        },
+        {
+          "sekme": "Hakediş"
+        },
+        {
+          "metin": "Yok"
+        },
+        {
+          "menu": "Yıllık"
+        },
+        {
+          "sekme": "Devretme"
+        }
+      ]
+    },
+    {
+      "islem": 9,
+      "baslik": "Kıdeme göre izin günlerini tanımlama",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "ac": [
+        {
+          "buton": "Yeni Ekle"
+        },
+        {
+          "sekme": "Hakediş"
+        },
+        {
+          "metin": "Yok"
+        },
+        {
+          "menu": "Yıllık"
+        },
+        {
+          "sekme": "İzin Günleri"
+        }
+      ]
+    },
+    {
+      "islem": 10,
+      "baslik": "Yaş bazlı hak ediş kuralı ekleme",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "ac": [
+        {
+          "buton": "Yeni Ekle"
+        },
+        {
+          "sekme": "Hakediş"
+        },
+        {
+          "metin": "Yok"
+        },
+        {
+          "menu": "Yıllık"
+        },
+        {
+          "sekme": "İzin Günleri"
+        }
+      ]
+    },
+    {
+      "islem": 12,
+      "baslik": "Çalışan bazlı izin ayarlarını düzenleme",
+      "ekran": "İzin Yönetimi > İzin Türleri",
+      "yok": "Çalışan Bazlı İzin Ayarları yalnız kaydedilmiş izin türünde açılır; bu birimde kayıtlı ek izin türü yok."
+    },
+    {
+      "islem": 18,
+      "baslik": "Otomatik izin mutabakatı kuralı ekleme",
+      "ekran": "İzin Yönetimi > Ayarlar > Mutabakat",
+      "yok": "Demo biriminin kendi izin türü olmadığından mutabakat kuralı eklenemiyor (üst birimden tanımlanır)."
+    },
+    {
+      "islem": 22,
+      "baslik": "Bakiye değişikliklerinde çalışan onayı ayarlama",
+      "ekran": "İzin Yönetimi > Ayarlar > Çalışan Onayı",
+      "yerinde": true,
+      "kaydir": "Kullanılan izin düzenlendiğinde ya da silindiğinde çalışandan onay iste"
+    },
+    {
+      "islem": 23,
+      "baslik": "Ek mesai onay akışını tanımlama",
+      "ekran": "Ek Mesai Yönetimi > Ek Mesai İş Akışı",
+      "ac": [
+        {
+          "buton": "İş Akışını Düzenle"
+        },
+        {
+          "buton": "Adım Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 27,
+      "baslik": "Ek mesai sınırlarını belirleme",
+      "ekran": "Ek Mesai Yönetimi > Ek Mesai Sınırları",
+      "yerinde": true,
+      "kaydir": "Yıllık En Fazla Ek Mesai (saat)"
+    },
+    {
+      "islem": 28,
+      "baslik": "Seyahat onay akışını tanımlama",
+      "ekran": "Seyahat Yönetimi > Seyahat İş Akışı",
+      "ac": [
+        {
+          "buton": "İş Akışını Düzenle"
+        },
+        {
+          "buton": "Adım Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 32,
+      "baslik": "Mesai düzeltme onay akışını tanımlama",
+      "ekran": "Mesai Düzeltme",
+      "ac": [
+        {
+          "buton": "İş Akışını Düzenle"
+        },
+        {
+          "buton": "Adım Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 42,
+      "baslik": "Maaş hesaplama ayarlarını belirleme",
+      "ekran": "Bordro Yönetimi > Genel Ayarlar",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 43,
+      "baslik": "Dönem ve puantaj ayarlarını belirleme",
+      "ekran": "Bordro Yönetimi > Genel Ayarlar",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 48,
+      "baslik": "SGK işyeri ayarlarını girme",
+      "ekran": "Bordro Yönetimi > SGK Ayarları",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 51,
+      "baslik": "SGK meslek kodu ekleme veya düzenleme",
+      "ekran": "Bordro Yönetimi > SGK Meslek Kodları",
+      "yok": "Yeni Meslek Kodu / Düzenle butonları bu hesapta görünmüyor (ulusal liste, yetki gerekir)."
+    },
+    {
+      "islem": 54,
+      "baslik": "BES (bireysel emeklilik) ayarlarını yapma",
+      "ekran": "Bordro Yönetimi > BES Ayarları",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 56,
+      "baslik": "Şirket banka hesabı ekleme, düzenleme ve silme",
+      "ekran": "Bordro Yönetimi > Şirket Bilgileri",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 58,
+      "baslik": "Banka ödeme kanalını ayarlama",
+      "ekran": "Bordro Yönetimi > Şirket Bilgileri",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 60,
+      "baslik": "Kesinti yapısı ekleme",
+      "ekran": "Bordro Yönetimi > Kesinti Yapıları",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 61,
+      "baslik": "Kesinti yapısına kesinti ekleme",
+      "ekran": "Bordro Yönetimi > Kesinti Yapıları",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 62,
+      "baslik": "Dilim grubu ve vergi dilimi tanımlama",
+      "ekran": "Bordro Yönetimi > Kesinti Yapıları",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 65,
+      "baslik": "Ek kazanç veya kesinti tanımlama",
+      "ekran": "Bordro Yönetimi > Ek Kazançlar/Kesintiler",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 69,
+      "baslik": "Bordro kalemi oluşturma",
+      "ekran": "Bordro Yönetimi > Bordro Kalemleri",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 71,
+      "baslik": "Bordro şablonunu tasarlama",
+      "ekran": "Bordro Yönetimi > Bordro Şablonu",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 74,
+      "baslik": "Bordro profili ekleme",
+      "ekran": "Bordro Yönetimi > Bordro Profilleri",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 76,
+      "baslik": "Bordro parametresi ekleme",
+      "ekran": "Bordro Yönetimi > Bordro Parametreleri",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 79,
+      "baslik": "Yeni kanun veya varyant tanımlama",
+      "ekran": "Bordro Yönetimi > Kanunlar & Teşvikler",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 80,
+      "baslik": "Varyanta etki ekleme",
+      "ekran": "Bordro Yönetimi > Kanunlar & Teşvikler",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 83,
+      "baslik": "Avans ayarlarını yapma",
+      "ekran": "Bordro Yönetimi > Avans Ayarları",
+      "yerinde": true,
+      "kaydir": "Maaş Avansına İzin Ver"
+    },
+    {
+      "islem": 89,
+      "baslik": "Kıdem tazminatı ayarlarını yapma",
+      "ekran": "Bordro Yönetimi > Tazminat Ayarları",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 91,
+      "baslik": "Hesap planına hesap ekleme",
+      "ekran": "Bordro Yönetimi > Muhasebe Hesapları",
+      "ac": [
+        {
+          "metin": "Hesap Planı"
+        },
+        {
+          "buton": "Yeni Hesap"
+        }
+      ]
+    },
+    {
+      "islem": 94,
+      "baslik": "Masraf türü ekleme",
+      "ekran": "Masraf Yönetimi > Masraf Türleri",
+      "yok": "Bu sekmede birim üst birimin (D1-Tech) ayarlarını kullanıyor; form yalnız “Bu birime özel tanımla” ile özel tanım oluşturulunca açılır (yazma işlemi)."
+    },
+    {
+      "islem": 96,
+      "baslik": "Masraf onay akışını tanımlama",
+      "ekran": "Masraf Yönetimi > Masraf İş Akışı",
+      "ac": [
+        {
+          "buton": "İş Akışını Düzenle"
+        },
+        {
+          "buton": "Adım Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 110,
+      "baslik": "Zimmet onay akışını tanımlama",
+      "ekran": "Stok Yönetimi > Zimmet İş Akışı",
+      "ac": [
+        {
+          "buton": "İş Akışını Düzenle"
+        },
+        {
+          "buton": "Adım Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 119,
+      "baslik": "İşe giriş onay akışını tanımlama",
+      "ekran": "İşe Giriş / Çıkış > İşe Giriş İş Akışı",
+      "ac": [
+        {
+          "buton": "İş Akışını Düzenle"
+        },
+        {
+          "buton": "Adım Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 121,
+      "baslik": "İşten çıkış onay akışını tanımlama",
+      "ekran": "İşe Giriş / Çıkış > İşten Çıkış İş Akışı",
+      "ac": [
+        {
+          "buton": "İş Akışını Düzenle"
+        },
+        {
+          "buton": "Adım Ekle"
+        }
+      ]
+    },
+    {
+      "islem": 125,
+      "baslik": "Çalışma süresi ayarlarını belirleme",
+      "ekran": "Vardiya > Çalışma Süresi",
+      "yerinde": true,
+      "kaydir": "Çalışma Süresi Kaynağı"
+    }
+  ]
+}

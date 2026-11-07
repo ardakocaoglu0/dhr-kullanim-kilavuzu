@@ -1,0 +1,103 @@
+{
+  "mesai-takibi": [
+    {
+      "islem": 16,
+      "baslik": "Ev konumu değişim talebini onaylama",
+      "ekran": "Ev Konumları > Konum Değişim Talepleri > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere satırdaki onayla butonuyla açılır; yasaklı işlem"
+    },
+    {
+      "islem": 20,
+      "baslik": "Cihaz yasağını kaldırma",
+      "yok": "Yasaklı cihaz listesi boş (Yasaklı cihaz yok); açacak satır butonu yok"
+    },
+    {
+      "islem": 25,
+      "baslik": "Düzeltme talebini onaylama veya reddetme",
+      "ekran": "Düzeltme Talepleri > Bekleyen",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere onayla / reddet butonlarıyla açılır; yasaklı işlem"
+    },
+    {
+      "islem": 28,
+      "baslik": "Çalışma saati türü tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "İzin Yönetimi"
+        },
+        {
+          "sekme": "Çalışma Saati Türleri"
+        },
+        {
+          "dene": [
+            "Yeni Ekle",
+            "Ekle"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form Ayarlar › Organizasyon Şeması birim detayında (Çalışma Saati Türleri) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 29,
+      "baslik": "Çalışma süresi ayarlarını belirleme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Vardiya"
+        },
+        {
+          "sekme": "Çalışma Süresi"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form birim detayında (Vardiya › Çalışma Süresi) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 30,
+      "baslik": "Eksik gün nedenlerini tanımlama",
+      "yok": "Form birim detayında (Bordro Yönetimi › Eksik Gün Nedenleri) açılır; bu sayfanın ekranlarında yok"
+    },
+    {
+      "islem": 31,
+      "baslik": "Çalışana eksik gün girme",
+      "yok": "Form Bordro Yönetimi › Puantaj sekmesinde açılır; bu sayfanın ekranlarında yok"
+    }
+  ],
+  "mesailerim": [
+    {
+      "islem": 5,
+      "baslik": "Ev konumu değişim talebi gönderme",
+      "ekran": "Bugünkü Mesaim",
+      "ac": [
+        {
+          "buton": "Ev Adresim"
+        }
+      ]
+    },
+    {
+      "islem": 7,
+      "baslik": "Mesai düzeltme talebi oluşturma",
+      "ekran": "Mesai Geçmişim",
+      "yok": "Düzeltme Talebi butonu yalnız düzeltme gereken (eksik/hatalı kayıtlı) günün detayında çıkar; demo verisinde böyle gün yok."
+    }
+  ]
+}

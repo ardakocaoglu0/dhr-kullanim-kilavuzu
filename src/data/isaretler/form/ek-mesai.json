@@ -1,0 +1,83 @@
+{
+  "ek-mesai-yonetimi": [
+    {
+      "islem": 2,
+      "baslik": "Talepleri arama ve filtreleme",
+      "ekran": null,
+      "yerinde": true,
+      "kaydir": "Talepler"
+    },
+    {
+      "islem": 5,
+      "baslik": "Ek mesai talebini onaylama",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere satırdaki onayla (✓) butonuyla açılır; yasaklı işlem"
+    },
+    {
+      "islem": 6,
+      "baslik": "Ek mesai talebini reddetme",
+      "ekran": "Talepler > Bekleyen Talepler",
+      "ac": [
+        {
+          "satir-simge": 2
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere satırdaki reddet (✕) butonuyla açılır; yasaklı işlem"
+    },
+    {
+      "islem": 14,
+      "baslik": "Tamamlanan ek mesaileri dışa aktarma",
+      "ekran": "Çalışan Ek Mesaileri > Ek Mesai Özeti",
+      "ac": [
+        {
+          "buton": "Dışa Aktar"
+        }
+      ]
+    },
+    {
+      "islem": 17,
+      "baslik": "Ek mesai gününü düzenleme",
+      "ekran": "Çalışan Ek Mesaileri > Ek Mesai Özeti",
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "buton": "Düzenle"
+        }
+      ]
+    },
+    {
+      "islem": 19,
+      "baslik": "Ek mesai türlerini tanımlama ve düzenleme",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Ek Mesai Yönetimi"
+        },
+        {
+          "sekme": "Ek Mesai Türleri"
+        },
+        {
+          "dene": [
+            "Yeni Ekle",
+            "Ekle",
+            "Yeni Ek Mesai Türü"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Form Ayarlar › Organizasyon Şeması birim detayında (Ek Mesai Yönetimi › Ek Mesai Türleri) açılır; bu sayfanın ekranlarında yok"
+    }
+  ]
+}

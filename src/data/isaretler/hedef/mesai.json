@@ -1,0 +1,43 @@
+{
+  "mesai-takibi": [
+    { "islem": 1, "baslik": "Giriş veya çıkış QR kodunu ekranda gösterme", "ekran": "QR Yönetimi", "hedef": { "tur": "baslik", "metin": "QR Yönetimi" } },
+    { "islem": 2, "baslik": "Konum iznini yeniden isteme", "ekran": "QR Yönetimi", "hedef": { "tur": "buton", "metin": "Yeniden İzin İste" } },
+    { "islem": 3, "baslik": "Sabit QR'ları listeleme ve filtreleme", "ekran": "Sabit QR'lar", "hedef": { "tur": "tablo" } },
+    { "islem": 4, "baslik": "Yeni sabit QR oluşturma", "ekran": "Sabit QR'lar", "hedef": { "tur": "buton", "metin": "Yeni Sabit QR" } },
+    { "islem": 5, "baslik": "Sabit QR'ı düzenleme", "ekran": "Sabit QR'lar", "hedef": { "tur": "satir-simge", "sira": 3 } },
+    { "islem": 6, "baslik": "Sabit QR'ı aktif / pasif yapma", "ekran": "Sabit QR'lar", "hedef": { "tur": "satir-simge", "sira": 4 } },
+    { "islem": 7, "baslik": "Sabit QR'ı silme", "ekran": "Sabit QR'lar", "hedef": { "tur": "satir-simge", "sira": 5 } },
+    { "islem": 8, "baslik": "Günlük mesaileri görüntüleme ve filtreleme", "ekran": "Mesailer > Günlük Mesailer", "hedef": { "tur": "tablo" } },
+    { "islem": 10, "baslik": "Günlük mesaileri dışa aktarma", "ekran": "Mesailer > Günlük Mesailer", "hedef": { "tur": "buton", "metin": "Dışa Aktar" } },
+    { "islem": 11, "baslik": "Ekip mesai takvimini görüntüleme", "ekran": "Mesailer > Ekip Mesaileri > Mesai Takvimi", "hedef": { "tur": "takvim" } },
+    { "islem": 13, "baslik": "Mesai bakiyelerini görüntüleme", "ekran": "Mesailer > Ekip Mesaileri > Mesai Bakiyeleri", "hedef": { "tur": "tablo" } },
+    { "islem": 14, "baslik": "Manuel mesai girişi yapma", "ekran": "Mesailer > Ekip Mesaileri > Mesai Bakiyeleri", "hedef": { "tur": "buton", "metin": "Manuel Mesai Girişi" } },
+    { "islem": 15, "baslik": "Çalışanların ev konumlarını görüntüleme", "ekran": "Ev Konumları > Konumlar", "hedef": { "tur": "tablo" } },
+    { "islem": 16, "baslik": "Ev konumu değişim talebini onaylama", "ekran": "Ev Konumları > Konum Değişim Talepleri > Bekleyen Talepler", "hedef": { "tur": "satir-simge", "sira": 2 } },
+    { "islem": 17, "baslik": "Ev konumu değişim talebini reddetme", "ekran": "Ev Konumları > Konum Değişim Talepleri > Bekleyen Talepler", "hedef": { "tur": "satir-simge", "sira": 3 } },
+    { "islem": 18, "baslik": "Konum değişim taleplerini duruma göre listeleme", "ekran": "Ev Konumları > Konum Değişim Talepleri > Bekleyen Talepler", "hedef": { "tur": "sekme", "metin": "Tüm Talepler" } },
+    { "islem": 19, "baslik": "Yasaklı cihazları görüntüleme", "ekran": "Cihazlar > Yasaklı Cihazlar", "hedef": { "tur": "tablo" } },
+    { "islem": 21, "baslik": "Eskiden yasaklı cihazları görüntüleme", "ekran": "Cihazlar > Eskiden Yasaklı", "hedef": { "tur": "tablo" } },
+    { "islem": 22, "baslik": "Tüm cihazları ve cihaz geçmişini görüntüleme", "ekran": "Cihazlar > Tüm Cihazlar", "hedef": { "tur": "tablo" } },
+    { "islem": 23, "baslik": "Çalışan cihazlarını görüntüleme", "ekran": "Cihazlar > Çalışan Cihazları", "hedef": { "tur": "tablo" } },
+    { "islem": 24, "baslik": "Düzeltme taleplerini listeleme, arama ve filtreleme", "ekran": "Düzeltme Talepleri", "hedef": { "tur": "tablo" } },
+    { "islem": 27, "baslik": "Düzeltme taleplerini dışa aktarma", "ekran": "Düzeltme Talepleri", "hedef": { "tur": "buton", "metin": "Dışa Aktar" } },
+    { "islem": 25, "baslik": "Düzeltme talebini onaylama veya reddetme", "ekran": "Düzeltme Talepleri > Bekleyen", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 26, "baslik": "Düzeltme taleplerini toplu onaylama / reddetme", "ekran": "Düzeltme Talepleri > Bekleyen", "hedef": { "tur": "buton", "metin": "Toplu İşlem" } },
+    { "islem": 9, "baslik": "Mesai kaydının konumunu görüntüleme", "ekran": "Mesailer > Günlük Mesailer", "hedef": { "tur": "tablo" } },
+    { "islem": 12, "baslik": "Çalışanların takvim rengini belirleme", "ekran": "Mesailer > Ekip Mesaileri > Mesai Takvimi", "hedef": { "tur": "takvim" } },
+    { "islem": 20, "baslik": "Cihaz yasağını kaldırma", "ekran": "Cihazlar > Yasaklı Cihazlar", "hedef": { "tur": "tablo" } }
+  ],
+  "mesailerim": [
+    { "islem": 1, "baslik": "Bugünkü mesaiyi görüntüleme", "ekran": "Bugünkü Mesaim", "hedef": { "tur": "baslik", "metin": "Son 7 Gün" } },
+    { "islem": 3, "baslik": "Uzaktan giriş / çıkış yapma", "ekran": "Bugünkü Mesaim", "hedef": { "tur": "buton", "metin": "Uzaktan Giriş" } },
+    { "islem": 4, "baslik": "Ev konumunu ilk kez tanımlama", "ekran": "Bugünkü Mesaim", "hedef": { "tur": "buton", "metin": "Ev Adresim" } },
+    { "islem": 6, "baslik": "Mesai geçmişini takvim veya tablo olarak görüntüleme", "ekran": "Mesai Geçmişim", "hedef": { "tur": "takvim" } },
+    { "islem": 8, "baslik": "Düzeltme taleplerimi görüntüleme ve iptal etme", "ekran": "Mesai Geçmişim", "hedef": { "tur": "metin", "metin": "Düzeltme bekliyor" } },
+    { "islem": 9, "baslik": "Mesai geçmişini dışa aktarma", "ekran": "Mesai Geçmişim", "hedef": { "tur": "buton", "metin": "Dışa Aktar" } },
+    { "islem": 2, "baslik": "QR okutarak giriş veya çıkış yapma", "ekran": "Bugünkü Mesaim", "hedef": { "tur": "metin", "metin": "Bugün henüz giriş yapmadınız. Lütfen giriş QR kodunu okutun." } },
+    { "islem": 5, "baslik": "Ev konumu değişim talebi gönderme", "ekran": "Bugünkü Mesaim", "hedef": { "tur": "buton", "metin": "Ev Adresim" } },
+    { "islem": 7, "baslik": "Mesai düzeltme talebi oluşturma", "ekran": "Mesai Geçmişim", "hedef": { "tur": "takvim" } },
+    { "islem": 10, "baslik": "Çalışma saati türümü görüntüleme", "ekran": null, "hedef": { "tur": "baslik", "metin": "Bugünkü Mesaim" } }
+  ]
+}

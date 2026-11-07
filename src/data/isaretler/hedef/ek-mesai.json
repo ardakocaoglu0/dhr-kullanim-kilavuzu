@@ -1,0 +1,33 @@
+{
+  "ek-mesai-yonetimi": [
+    { "islem": 1, "baslik": "Ek mesai taleplerini görüntüleme", "ekran": null, "hedef": { "tur": "tablo" } },
+    { "islem": 2, "baslik": "Talepleri arama ve filtreleme", "ekran": null, "hedef": { "tur": "buton", "metin": "Filtreleri Temizle" } },
+    { "islem": 3, "baslik": "Talep detayını görüntüleme", "ekran": null, "hedef": { "tur": "satir-simge", "sira": 3 } },
+    { "islem": 7, "baslik": "Toplu onay / ret (Toplu İşlem)", "ekran": null, "hedef": { "tur": "buton", "metin": "Toplu İşlem" } },
+    { "islem": 8, "baslik": "Talep listesini dışa aktarma", "ekran": null, "hedef": { "tur": "buton", "metin": "Dışa Aktar" } },
+    { "islem": 5, "baslik": "Ek mesai talebini onaylama", "ekran": "Talepler > Bekleyen Talepler", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 6, "baslik": "Ek mesai talebini reddetme", "ekran": "Talepler > Bekleyen Talepler", "hedef": { "tur": "satir-simge", "sira": 2 } },
+    { "islem": 9, "baslik": "Ekip ek mesai takvimini görüntüleme", "ekran": "Ekip Ek Mesaileri > Ek Mesai Takvimi", "hedef": { "tur": "takvim" } },
+    { "islem": 10, "baslik": "Ekip taleplerini listeleme ve filtreleme", "ekran": "Ekip Ek Mesaileri > Tüm Talepler", "hedef": { "tur": "tablo" } },
+    { "islem": 11, "baslik": "Departman ek mesai raporunu inceleme", "ekran": "Raporlar", "hedef": { "tur": "baslik", "metin": "Departman Ek Mesai Karşılaştırması (Bu Ay vs Önceki Ay)" } },
+    { "islem": 12, "baslik": "En çok ek mesai yapan çalışanları görme", "ekran": "Raporlar", "hedef": { "tur": "baslik", "metin": "En Çok Ek Mesai Yapan Çalışanlar" } },
+    { "islem": 13, "baslik": "Çalışan ek mesai özetini görüntüleme", "ekran": "Çalışan Ek Mesaileri > Ek Mesai Özeti", "hedef": { "tur": "tablo" } },
+    { "islem": 14, "baslik": "Tamamlanan ek mesaileri dışa aktarma", "ekran": "Çalışan Ek Mesaileri > Ek Mesai Özeti", "hedef": { "tur": "buton", "metin": "Dışa Aktar" } },
+    { "islem": 15, "baslik": "Çalışanlar adına ek mesai girişi ekleme", "ekran": "Çalışan Ek Mesaileri > Ek Mesai Özeti", "hedef": { "tur": "buton", "metin": "Ek Mesai Girişi Ekle" } },
+    { "islem": 16, "baslik": "Tek bir çalışana ek mesai atama", "ekran": "Çalışan Ek Mesaileri > Ek Mesai Özeti", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 4, "baslik": "Talebi PDF olarak indirme", "ekran": null, "hedef": { "tur": "satir-simge", "sira": 3 } },
+    { "islem": 17, "baslik": "Ek mesai gününü düzenleme", "ekran": "Çalışan Ek Mesaileri > Ek Mesai Özeti", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 18, "baslik": "Ek mesai kaydını veya tek bir gününü silme", "ekran": "Çalışan Ek Mesaileri > Ek Mesai Özeti", "hedef": { "tur": "satir-simge", "sira": 1 } }
+  ],
+  "ek-mesailerim": [
+    { "islem": 1, "baslik": "Aylık ek mesai özetini görüntüleme", "ekran": null, "hedef": { "tur": "baslik", "metin": "Aylık Özet" } },
+    { "islem": 2, "baslik": "Ek mesai takvimini kullanma", "ekran": null, "hedef": { "tur": "takvim" } },
+    { "islem": 3, "baslik": "Yeni ek mesai talebi oluşturma", "ekran": null, "hedef": { "tur": "buton", "metin": "Yeni Giriş" } },
+    { "islem": 4, "baslik": "Onay geçmişini görüntüleme ve filtreleme", "ekran": "Onay Geçmişi", "hedef": { "tur": "tablo" } },
+    { "islem": 5, "baslik": "Talep detayını görüntüleme", "ekran": "Onay Geçmişi", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 7, "baslik": "Bekleyen talebi iptal etme", "ekran": "Onay Geçmişi", "hedef": { "tur": "satir-simge", "sira": 2 } },
+    { "islem": 9, "baslik": "Ek mesailerimi dışa aktarma", "ekran": "Onay Geçmişi", "hedef": { "tur": "buton", "metin": "Dışa Aktar" } },
+    { "islem": 6, "baslik": "Bekleyen talebi düzenleme", "ekran": "Onay Geçmişi", "hedef": { "tur": "satir-simge", "sira": 1 } },
+    { "islem": 8, "baslik": "Talebi PDF olarak indirme", "ekran": "Onay Geçmişi", "hedef": { "tur": "satir-simge", "sira": 1 } }
+  ]
+}

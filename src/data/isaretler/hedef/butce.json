@@ -1,0 +1,668 @@
+{
+  "butce-planlama": [
+    {
+      "islem": 1,
+      "baslik": "Bütçe listesini görüntüleme, arama ve filtreleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Yeni bütçe oluşturma",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Bütçe"
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Çalışılacak bütçeyi seçme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Bütçe kapsamına birim ekleme",
+      "ekran": "Bütçeler > Bütçe Ayarları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Birim Ekle"
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Kapsamdan birim çıkarma",
+      "ekran": "Bütçeler > Bütçe Ayarları",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Para birimi ve kur varsayımı ekleme",
+      "ekran": "Bütçeler > Bütçe Ayarları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kur Ekle"
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "Kilitli bütçenin kilidini açma",
+      "ekran": "Bütçeler > Onay",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kilidi Aç"
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "Onay zinciri, sürümler ve onay geçmişini görüntüleme",
+      "ekran": "Bütçeler > Onay",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Onay Zinciri"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Yeni senaryo oluşturma",
+      "ekran": "Planlama > Senaryolar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Senaryo"
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "Senaryoyu seçme",
+      "ekran": "Planlama > Senaryolar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "Senaryoyu çalıştırma (hesaplama)",
+      "ekran": "Planlama > Senaryolar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Senaryoyu kopyalama",
+      "ekran": "Planlama > Senaryolar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 3
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Senaryoyu düzenleme veya silme",
+      "ekran": "Planlama > Senaryolar",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 4
+      }
+    },
+    {
+      "islem": 36,
+      "baslik": "Bakiye takibini görüntüleme",
+      "ekran": "Ödenek > Ödenek Tahsisi > Bakiye Takibi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 37,
+      "baslik": "Yeni tahsis satırı ekleme",
+      "ekran": "Ödenek > Ödenek Tahsisi > Tahsis Satırları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Tahsis"
+      }
+    },
+    {
+      "islem": 38,
+      "baslik": "Tahsisi plandan devralma",
+      "ekran": "Ödenek > Ödenek Tahsisi > Tahsis Satırları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Plandan Devral"
+      }
+    },
+    {
+      "islem": 39,
+      "baslik": "Tahsisi geçen yıldan endeksleme",
+      "ekran": "Ödenek > Ödenek Tahsisi > Tahsis Satırları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Geçen Yıldan Endeksle"
+      }
+    },
+    {
+      "islem": 41,
+      "baslik": "Yeni virman talebi oluşturma",
+      "ekran": "Ödenek > Virman > Talepler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Virman"
+      }
+    },
+    {
+      "islem": 42,
+      "baslik": "Virman taleplerini listeleme ve filtreleme",
+      "ekran": "Ödenek > Virman > Talepler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 44,
+      "baslik": "Virman talebini onaylama veya reddetme",
+      "ekran": "Ödenek > Virman > Ekip Virmanları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 46,
+      "baslik": "Yeni gider kaydı girme",
+      "ekran": "Ödenek > Gerçekleşen > Gider Kayıtları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Gider"
+      }
+    },
+    {
+      "islem": 48,
+      "baslik": "Gider kayıtlarını aya göre filtreleme",
+      "ekran": "Ödenek > Gerçekleşen > Gider Kayıtları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 49,
+      "baslik": "Gerçekleşenleri modüllerden eşitleme",
+      "ekran": "Ödenek > Gerçekleşen > Gider Kayıtları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Modüllerden Eşitle"
+      }
+    },
+    {
+      "islem": 50,
+      "baslik": "Excel'den gider aktarma",
+      "ekran": "Ödenek > Gerçekleşen > Gider Kayıtları",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Excel'den Aktar"
+      }
+    },
+    {
+      "islem": 52,
+      "baslik": "Ayı kapatma (dönem kapanışı)",
+      "ekran": "Ödenek > Gerçekleşen > Dönem Kapanışı",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ayı Kapat"
+      }
+    },
+    {
+      "islem": 53,
+      "baslik": "Kapatılan ayı yeniden açma",
+      "ekran": "Ödenek > Gerçekleşen > Dönem Kapanışı",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 54,
+      "baslik": "Taahhütleri görüntüleme",
+      "ekran": "Ödenek > Taahhüt",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 55,
+      "baslik": "Taahhüt kontrol ayarı tanımlama",
+      "ekran": "Ödenek > Taahhüt",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Kontrol Ayarı"
+      }
+    },
+    {
+      "islem": 56,
+      "baslik": "Birime bütçe sahibi atama",
+      "ekran": "Ödenek > Hazırlık Durumu",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 61,
+      "baslik": "Senaryoları karşılaştırma",
+      "ekran": "Analiz > Karşılaştırma",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Karşılaştır"
+      }
+    },
+    {
+      "islem": 62,
+      "baslik": "Bütçe ile gerçekleşeni karşılaştırma",
+      "ekran": "Analiz > Bütçe–Gerçekleşen",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Aylık Plan / Gerçekleşen"
+      }
+    },
+    {
+      "islem": 63,
+      "baslik": "Yıl içi revize tahmini görüntüleme",
+      "ekran": "Analiz > Revize Tahmin",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Aylık Revize Tahmin"
+      }
+    },
+    {
+      "islem": 64,
+      "baslik": "Sapma köprüsünü inceleme",
+      "ekran": "Analiz > Sapma Köprüsü > Köprü",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 65,
+      "baslik": "Sapma gerekçesi girme",
+      "ekran": "Analiz > Sapma Köprüsü > Gerekçe İncelemesi",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 67,
+      "baslik": "Yıl sonu tahmini hesaplama",
+      "ekran": "Analiz > Sapma Köprüsü > Tahmin",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 68,
+      "baslik": "What-if denemesi yapma",
+      "ekran": "Analiz > What-if ve Kıyaslama > What-if",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Deneme Ekle"
+      }
+    },
+    {
+      "islem": 69,
+      "baslik": "Duyarlılık analizini görüntüleme",
+      "ekran": "Analiz > What-if ve Kıyaslama > Duyarlılık",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 70,
+      "baslik": "Kıyaslama tablosunu görüntüleme",
+      "ekran": "Analiz > What-if ve Kıyaslama > Kıyaslama",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 71,
+      "baslik": "Ücret simülasyonu yapma",
+      "ekran": "Analiz > Ücret Simülasyonu",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Simüle Et"
+      }
+    },
+    {
+      "islem": 72,
+      "baslik": "Ücret simülasyonunu senaryoya aktarma",
+      "ekran": "Analiz > Ücret Simülasyonu",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Senaryoya Aktar"
+      }
+    },
+    {
+      "islem": 74,
+      "baslik": "Bütçe raporu çalıştırma",
+      "ekran": "Raporlar > Raporlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Raporu Çalıştır"
+      }
+    },
+    {
+      "islem": 75,
+      "baslik": "Rapor görünümünü kaydetme ve kayıtlı görünümü açma",
+      "ekran": "Raporlar > Raporlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Görünümü Kaydet"
+      }
+    },
+    {
+      "islem": 76,
+      "baslik": "Raporu dışa aktarma",
+      "ekran": "Raporlar > Raporlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 77,
+      "baslik": "Zamanlanmış rapor oluşturma",
+      "ekran": "Raporlar > Zamanlanmış Raporlar",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Zamanlama"
+      }
+    },
+    {
+      "islem": 66,
+      "baslik": "Tolerans eşiği tanımlama",
+      "ekran": "Analiz > Sapma Köprüsü > Gerekçe İncelemesi",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Tolerans Eşikleri"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Liste sütunlarını özelleştirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Bütçeler"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Bütçeyi düzenleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Bütçeyi silme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Kur varsayımını silme",
+      "ekran": "Bütçeler > Bütçe Ayarları",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Para Birimi ve Kur"
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Bütçeyi onaya gönderme",
+      "ekran": "Bütçeler > Onay",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Bütçe durumu:"
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Bütçeyi onaylama",
+      "ekran": "Bütçeler > Onay",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Onay Zinciri"
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Bütçeyi reddetme",
+      "ekran": "Bütçeler > Onay",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Onay Zinciri"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "Onaya gönderilen bütçeyi geri çekme",
+      "ekran": "Bütçeler > Onay",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Bütçe durumu:"
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Senaryoyu esas senaryo yapma",
+      "ekran": "Planlama > Senaryolar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Zam veya prim kuralı ekleme",
+      "ekran": "Planlama > Varsayımlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Varsayımlar"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Yasal parametre istisnası ekleme",
+      "ekran": "Planlama > Varsayımlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Varsayımlar"
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "Planlanan işe alım ekleme",
+      "ekran": "Planlama > Varsayımlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Varsayımlar"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "Planlanan çıkış ekleme",
+      "ekran": "Planlama > Varsayımlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Varsayımlar"
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "Devir ve boş kadro varsayımı ekleme",
+      "ekran": "Planlama > Varsayımlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Varsayımlar"
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "Gider kalemi ekleme",
+      "ekran": "Planlama > Varsayımlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Varsayımlar"
+      }
+    },
+    {
+      "islem": 30,
+      "baslik": "Yan hak paketi oluşturma",
+      "ekran": "Planlama > Yan Hak Paketleri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Yan Hak Paketleri"
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "Pakete yan hak kalemi ekleme",
+      "ekran": "Planlama > Yan Hak Paketleri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Yan Hak Paketleri"
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "Yan hak paketini birime, unvana veya kademeye atama",
+      "ekran": "Planlama > Yan Hak Paketleri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Yan Hak Paketleri"
+      }
+    },
+    {
+      "islem": 33,
+      "baslik": "Yan hak kapsam raporunu görüntüleme",
+      "ekran": "Planlama > Yan Hak Paketleri",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Yan Hak Paketleri"
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "Ekipman satırı ekleme",
+      "ekran": "Planlama > Ekipman & Zimmet",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Ekipman & Zimmet"
+      }
+    },
+    {
+      "islem": 35,
+      "baslik": "Ekipman satırlarını otomatik üretme",
+      "ekran": "Planlama > Ekipman & Zimmet",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Ekipman & Zimmet"
+      }
+    },
+    {
+      "islem": 40,
+      "baslik": "Tahsisi alt birimlere dağıtma",
+      "ekran": "Ödenek > Ödenek Tahsisi > Tahsis Satırları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 43,
+      "baslik": "Virman talebini iptal etme",
+      "ekran": "Ödenek > Virman > Talepler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 47,
+      "baslik": "Gider kaydını düzenleme veya silme",
+      "ekran": "Ödenek > Gerçekleşen > Gider Kayıtları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 51,
+      "baslik": "Eşleşmemiş giderleri hesap kalemine bağlama",
+      "ekran": "Ödenek > Gerçekleşen > Gider Kayıtları",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 57,
+      "baslik": "Birim bütçesini teslim etme",
+      "ekran": "Ödenek > Hazırlık Durumu",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 58,
+      "baslik": "Teslim edilen birim bütçesini kabul etme veya iade etme",
+      "ekran": "Ödenek > Hazırlık Durumu",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 59,
+      "baslik": "Senaryo sonuçlarını görüntüleme",
+      "ekran": "Analiz > Sonuçlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Sonuçlar"
+      }
+    },
+    {
+      "islem": 60,
+      "baslik": "Senaryo sonuçlarını dışa aktarma",
+      "ekran": "Analiz > Sonuçlar",
+      "hedef": {
+        "tur": "sekme",
+        "metin": "Sonuçlar"
+      }
+    },
+    {
+      "islem": 73,
+      "baslik": "Ücret bantları ve merit matrisi tanımlama",
+      "ekran": "Analiz > Ücret Simülasyonu",
+      "hedef": {
+        "tur": "baslik",
+        "metin": "Band Durumu"
+      }
+    },
+    {
+      "islem": 78,
+      "baslik": "Zamanlanmış raporu düzenleme, durdurma veya silme",
+      "ekran": "Raporlar > Zamanlanmış Raporlar",
+      "hedef": {
+        "tur": "tablo"
+      }
+    }
+  ]
+}

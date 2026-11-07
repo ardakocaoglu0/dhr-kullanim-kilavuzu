@@ -1,0 +1,138 @@
+{
+  "ise-giris-cikis": [
+    {
+      "islem": 5,
+      "baslik": "Süreci onaylama veya reddetme",
+      "ekran": "İşe Giriş > Süreçler > Onay Bekleyen",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Form yalnız onay/ret butonuyla açılır (yasak eylem: onayla/reddet)"
+    },
+    {
+      "islem": 6,
+      "baslik": "Çalışanın doldurduğu maddeyi inceleme (onay / ret)",
+      "yok": "Ret nedeni penceresi yalnız Reddet ile açılır (yasak eylem); demoda incelemeyi bekleyen madde de yok (0)"
+    },
+    {
+      "islem": 10,
+      "baslik": "Sürece görev ekleme, görev durumunu güncelleme ve görev silme",
+      "ekran": null,
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 16,
+      "baslik": "SGK işe giriş / çıkış bildirimini dışarıda yapıldı olarak işaretleme",
+      "ekran": null,
+      "yok": "Dışarıda Bildirildi butonu yalnız SGK bildirimi bekleyen süreçte görünür; demo süreçlerinde yok."
+    },
+    {
+      "islem": 18,
+      "baslik": "Süreci iptal etme",
+      "ekran": null,
+      "ac": [
+        {
+          "satir-simge": 1
+        },
+        {
+          "buton": "Süreci İptal Et"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere \"Süreci İptal Et\" ile açılır (yasak kelime: iptal)"
+    },
+    {
+      "islem": 26,
+      "baslik": "Çalışanı işten çıkarma (işten çıkış süreci başlatma)",
+      "ekran": "İşten Çıkış",
+      "ac": [
+        {
+          "buton": "Çalışanı İşten Çıkar"
+        }
+      ],
+      "izinli": true,
+      "eskiGerekce": "Pencere \"Çalışanı İşten Çıkar\" butonuyla açılır (yasak kelime: işten çıkar)"
+    },
+    {
+      "islem": 30,
+      "baslik": "Kıdem tazminatı kararını verme",
+      "ekran": "İşten Çıkış",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 31,
+      "baslik": "İhbar tazminatı kararını verme",
+      "ekran": "İşten Çıkış",
+      "ac": [
+        {
+          "satir-simge": 1
+        }
+      ]
+    },
+    {
+      "islem": 37,
+      "baslik": "Çalışan devir oranı (turnover) raporu",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/dashboard"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Turnover raporu bu sayfada değil, Kontrol Paneli'ndeki personel devir oranı kartından açılır"
+    },
+    {
+      "islem": 38,
+      "baslik": "Süreç şablonlarını yönetme (işe giriş / işten çıkış)",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "İşe Giriş / Çıkış"
+        },
+        {
+          "sekme": "Şablonlar"
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Şablonlar Organizasyon Birim Yönetimi sayfasında, birim seçildikten sonra düzenlenir; bu sayfada pencere yok"
+    },
+    {
+      "islem": 40,
+      "baslik": "Çıkış nedeni tanımlama",
+      "ekran": null,
+      "ac": [
+        {
+          "git": "/organizational-unit-management"
+        },
+        {
+          "sekme": "Veri Girişi"
+        },
+        {
+          "sekme": "İşten Çıkış Sebepleri"
+        },
+        {
+          "dene": [
+            "Yeni Ekle",
+            "Ekle"
+          ]
+        }
+      ],
+      "yerinde": true,
+      "eskiGerekce": "Çıkış nedenleri Organizasyon Birim Yönetimi > Veri Girişi > İşten Çıkış Sebepleri'nde tanımlanır; bu sayfada pencere yok"
+    }
+  ]
+}

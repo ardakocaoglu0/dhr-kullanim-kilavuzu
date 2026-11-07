@@ -1,0 +1,324 @@
+{
+  "ise-giris-cikis": [
+    {
+      "islem": 1,
+      "baslik": "Süreçleri listeleme ve filtreleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 2,
+      "baslik": "Süreç detayını görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 4,
+      "baslik": "Yeni çalışan ekleme (işe giriş süreci başlatma)",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Çalışan Ekle"
+      }
+    },
+    {
+      "islem": 5,
+      "baslik": "Süreci onaylama veya reddetme",
+      "ekran": "İşe Giriş > Süreçler > Onay Bekleyen",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 6,
+      "baslik": "Çalışanın doldurduğu maddeyi inceleme (onay / ret)",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "İncelemenizi Bekleyen"
+      }
+    },
+    {
+      "islem": 14,
+      "baslik": "İşe giriş sürecini tamamlama",
+      "ekran": null,
+      "hedef": {
+        "tur": "metin",
+        "metin": "Tamamlanmaya Hazır"
+      }
+    },
+    {
+      "islem": 18,
+      "baslik": "Süreci iptal etme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 2
+      }
+    },
+    {
+      "islem": 19,
+      "baslik": "İşe alım taleplerini görüntüleme",
+      "ekran": "İşe Giriş > Talepler",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 20,
+      "baslik": "İşe alım / işten çıkış talebini onaylama veya reddetme",
+      "ekran": "İşe Giriş > Talepler > Bekleyen Talepler",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 21,
+      "baslik": "Talepleri dışa aktarma",
+      "ekran": "İşe Giriş > Talepler",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Dışa Aktar"
+      }
+    },
+    {
+      "islem": 24,
+      "baslik": "Deneme süresini takip etme",
+      "ekran": "İşe Giriş > Deneme Süresi",
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 25,
+      "baslik": "Deneme süresi değerlendirme sonuçlarını görüntüleme",
+      "ekran": "İşe Giriş > Deneme Süresi",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 26,
+      "baslik": "Çalışanı işten çıkarma (işten çıkış süreci başlatma)",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışanı İşten Çıkar"
+      }
+    },
+    {
+      "islem": 34,
+      "baslik": "İşten çıkışı kesinleştirme",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "metin",
+        "metin": "Kesinleşmeye Hazır"
+      }
+    },
+    {
+      "islem": 38,
+      "baslik": "Süreç şablonlarını yönetme (işe giriş / işten çıkış)",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ayarlar"
+      }
+    },
+    {
+      "islem": 3,
+      "baslik": "Çalışanın geçmiş süreçlerini görüntüleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "tablo"
+      }
+    },
+    {
+      "islem": 7,
+      "baslik": "Maddeyi sorumlu adına doldurma",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 8,
+      "baslik": "Maddeyi \"Uygulanamaz\" olarak işaretleme ve yeniden açma",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 9,
+      "baslik": "Sürece madde veya şablon ekleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 10,
+      "baslik": "Sürece görev ekleme, görev durumunu güncelleme ve görev silme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 11,
+      "baslik": "Hedef tarihi değiştirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 12,
+      "baslik": "Çalışana form bağlantısını yeniden gönderme / yenileme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 13,
+      "baslik": "Süreç raporu alma",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 15,
+      "baslik": "İşe giriş bölümlerini yürütme (zimmet teslimi, SGK işe giriş, bordro başlangıcı)",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 16,
+      "baslik": "SGK işe giriş / çıkış bildirimini dışarıda yapıldı olarak işaretleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 17,
+      "baslik": "SGK işe giriş / çıkış bildirgesini sorgulama ve indirme",
+      "ekran": null,
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 22,
+      "baslik": "Toplu işe giriş (Excel ile)",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Yeni Çalışan Ekle"
+      }
+    },
+    {
+      "islem": 23,
+      "baslik": "Toplu işten çıkış (Excel ile veya doğrudan)",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "buton",
+        "metin": "Çalışanı İşten Çıkar"
+      }
+    },
+    {
+      "islem": 27,
+      "baslik": "İşten çıkış kaydını düzenleme veya silme",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 28,
+      "baslik": "Çıkış tarihini değiştirme",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 29,
+      "baslik": "Çıkıştaki izin haklarını ve kapanmamış izinleri kontrol etme",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 30,
+      "baslik": "Kıdem tazminatı kararını verme",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 31,
+      "baslik": "İhbar tazminatı kararını verme",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 32,
+      "baslik": "Son bordro adımını tamamlama",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 33,
+      "baslik": "Zimmet iadesini kontrol etme",
+      "ekran": "İşten Çıkış",
+      "hedef": {
+        "tur": "satir-simge",
+        "sira": 1
+      }
+    },
+    {
+      "islem": 39,
+      "baslik": "Birim süreç ayarlarını belirleme",
+      "ekran": null,
+      "hedef": {
+        "tur": "buton",
+        "metin": "Ayarlar"
+      }
+    }
+  ]
+}
